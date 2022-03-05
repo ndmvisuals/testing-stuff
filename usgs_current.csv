@@ -234,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T17:56:29.550Z,46.99366666666667,-120.36183333333334,-0.93,1.71,ml,16,92,0.143,0.33,uw,uw61820151,2022-03-04T19:53:16.150Z,"Washington",explosion,0.88,31.61,0.13942716165242108,12,reviewed,uw,uw
 2022-03-04T17:55:37.910Z,32.0947,50.1885,11.63,4.4,mb,,89,4.794,0.64,us,us6000h23l,2022-03-04T20:22:50.040Z,"39 km WSW of Fārsān, Iran",earthquake,9.9,3,0.061,80,reviewed,us,us
 2022-03-04T17:54:52.558Z,60.3166,-152.0591,87.9,1.6,ml,,,,0.5,ak,ak0222whax3i,2022-03-04T17:59:05.768Z,"36 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-03-04T17:49:27.400Z,45.2926667,-112.0495,-2,1.17,ml,12,76,0.06,0.12,mb,mb80539669,2022-03-04T19:06:13.580Z,"5 km SE of Alder, Montana",quarry blast,0.41,31.61,0.144,7,reviewed,mb,mb
-2022-03-04T17:46:25.887Z,61.1649,-140.5173,20.5,1.4,ml,,,,0.53,ak,ak0222wh95bw,2022-03-04T17:59:05.624Z,"132 km ESE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-04T17:45:20.320Z,19.1831665039062,-155.457000732422,34.9700012207031,1.96,ml,47,120,,0.129999995,hv,hv72937677,2022-03-04T17:50:50.450Z,"3 km SE of Pāhala, Hawaii",earthquake,0.6,0.75999999,5.08,3,automatic,hv,hv
