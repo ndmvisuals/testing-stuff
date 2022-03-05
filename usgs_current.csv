@@ -156,8 +156,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T01:30:00.260Z,36.0251667,-120.6006667,0.46,0.44,md,16,102,0.0437,0.08,nc,nc73701391,2022-03-05T08:27:18.404Z,"21km NW of Parkfield, CA",earthquake,0.32,0.51,0.109,6,reviewed,nc,nc
 2022-03-05T01:16:51.481Z,31.66147136,-104.3164693,7.57121582,4.3,ml,18,59,0.04512123612,0.3,tx,tx2022elfg,2022-03-05T18:32:34.040Z,"57 km S of Whites City, New Mexico",earthquake,1.073704597,1.150765294,0.2,7,reviewed,tx,tx
 2022-03-05T01:15:42.077Z,60.185,-140.7512,14.4,2,ml,,,,0.6,ak,ak0222xv2y73,2022-03-05T01:24:45.841Z,"91 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-05T01:10:06.608Z,-22.4729,-66.0707,247.31,5.7,mww,,20,2.004,0.87,us,us6000h27y,2022-03-05T05:58:48.949Z,"47 km NW of Abra Pampa, Argentina",earthquake,6.2,5.3,0.052,36,reviewed,us,us
-2022-03-05T01:09:18.086Z,60.0558,-140.5948,0,3.9,ml,,,,0.85,ak,ak0222xv1m5j,2022-03-05T01:37:17.040Z,"74 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-05T01:10:06.608Z,-22.4729,-66.0707,247.31,5.7,mww,,20,2.004,0.87,us,us6000h27y,2022-03-05T18:51:14.040Z,"47 km NW of Abra Pampa, Argentina",earthquake,6.2,5.3,0.052,36,reviewed,us,us
+2022-03-05T01:09:18.086Z,60.0558,-140.5948,0,3.9,ml,,,,0.85,ak,ak0222xv1m5j,2022-03-05T18:47:42.040Z,"74 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T01:08:39.193Z,61.1509,-140.3623,12.1,1.5,ml,,,,1.18,ak,ak0222xv1fyn,2022-03-05T01:12:53.715Z,"140 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-05T01:02:57.756Z,62.2814,-151.2013,79.5,1.8,ml,,,,0.61,ak,ak0222xv0740,2022-03-05T01:06:32.809Z,"32 km SW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-05T00:50:24.020Z,19.2153339385986,-155.393997192383,30.4699993133545,1.80999994,md,32,169,,0.109999999,hv,hv72938112,2022-03-05T00:53:39.370Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.959999979,0.230000004,5,automatic,hv,hv
