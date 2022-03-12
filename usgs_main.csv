@@ -2308,3 +2308,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T15:41:37.730Z,35.5096667,-118.3915,6.75,1.58,ml,25.0,65.0,0.1879,0.09,ci,ci40205960,2022-03-12T15:45:17.191Z,"13km SE of Bodfish, CA",earthquake,0.17,31.61,0.274,25.0,automatic,ci,ci
 2022-03-12T15:39:16.704Z,37.0937,-115.3345,13.9,-0.2,ml,8.0,128.54,0.511,0.4381,nn,nn00835268,2022-03-12T15:42:43.432Z,"33 km SSW of Alamo, Nevada",earthquake,,1.9,1.07,3.0,automatic,nn,nn
 2022-03-11T22:19:52.490Z,44.2891667,-114.953,0.23,1.66,ml,7.0,111.0,0.824,0.26,mb,mb80540304,2022-03-12T15:49:37.710Z,"8 km N of Stanley, Idaho",earthquake,0.84,4.65,0.226,7.0,reviewed,mb,mb
+2022-03-12T15:19:14.230Z,19.3176,-67.0083,7.0,3.63,md,26.0,215.0,0.8563,0.47,pr,pr2022071002,2022-03-12T16:02:55.451Z,"90 km N of Isabela, Puerto Rico",earthquake,1.66,1.79,0.08,21.0,reviewed,pr,pr
+2022-03-12T14:47:10.610Z,17.9353333333333,-66.9175,13.27,1.79,md,9.0,220.0,,0.25,pr,pr71339918,2022-03-12T16:13:18.920Z,"4 km SSW of Guánica, Puerto Rico",earthquake,1.09,0.59,0.113339724482059,6.0,reviewed,pr,pr
