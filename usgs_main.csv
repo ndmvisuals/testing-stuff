@@ -2408,3 +2408,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T04:07:38.275Z,60.0421,-153.0706,122.5,1.4,ml,,,,0.65,ak,ak0223b54az1,2022-03-13T04:09:44.577Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-13T04:03:31.140Z,19.2041664123535,-155.425003051758,31.9699993133545,1.90999997,md,29.0,149.0,,0.140000001,hv,hv72948362,2022-03-13T04:06:41.870Z,"5 km E of Pāhala, Hawaii",earthquake,0.64,0.839999974,1.90999997,4.0,automatic,hv,hv
 2022-03-13T04:00:54.436Z,31.5326227,-104.0681736,7.468383789,3.5,ml,10.0,70.0,0.01227214981,0.2,tx,tx2022faar,2022-03-13T04:23:08.163Z,"35 km NW of Toyah, Texas",earthquake,1.171791515,1.004125868,0.1,6.0,reviewed,tx,tx
+2022-03-13T04:43:14.554Z,61.5594,-149.8952,42.3,1.3,ml,,,,0.52,ak,ak0223b5byvx,2022-03-13T04:55:02.938Z,"5 km NE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-13T04:35:23.146Z,59.6847,-151.7354,52.0,1.3,ml,,,,0.26,ak,ak0223b5a9tm,2022-03-13T04:37:39.209Z,"10 km W of Diamond Ridge, Alaska",earthquake,,1.7,,,automatic,ak,ak
