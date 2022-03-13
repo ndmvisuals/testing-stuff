@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-13T21:06:00.000Z,14.1,119.4,33,6.7,Ml,4,226.79998185600144,0,0.66,at,at00r8pc3j,2022-03-13T21:24:20.742Z,"73 km WNW of Cabra, Philippines",earthquake,0,0,,2,reviewed,at,at
+2022-03-13T21:33:36.010Z,33.1935,-115.6346667,9.79,2.09,ml,39,59,0.08545,0.19,ci,ci40206960,2022-03-13T21:37:15.507Z,"12km WSW of Niland, CA",earthquake,0.33,0.82,0.199,27,automatic,ci,ci
+2022-03-13T21:09:20.343Z,-0.6831,98.6034,16.18,6.6,mww,,65,2.225,0.82,us,us6000h48e,2022-03-13T21:34:08.151Z,"168 km W of Pariaman, Indonesia",earthquake,5.7,4.2,0.089,12,reviewed,us,us
+2022-03-13T21:05:49.814Z,14.0757,119.4577,11,6.4,mww,,51,8.83,0.76,us,us6000h48d,2022-03-13T21:37:27.967Z,"67 km WNW of Cabra, Philippines",earthquake,5.1,1.5,0.051,37,reviewed,us,us
 2022-03-13T20:57:51.027Z,62.0304,-150.2894,47.8,1.6,ml,,,,0.22,ak,ak0223bexzem,2022-03-13T21:14:41.739Z,"27 km WSW of Susitna North, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2022-03-13T20:56:52.690Z,38.8336678,-122.8075027,2.5,1.42,md,16,63,0.01045,0.01,nc,nc73705151,2022-03-13T21:13:15.548Z,"7km W of Cobb, CA",earthquake,0.28,0.8,,1,automatic,nc,nc
-2022-03-13T20:51:30.170Z,36.5866661,-121.1894989,6.16,4.12,mw,60,65,0.0153,0.18,nc,nc73705146,2022-03-13T21:24:03.317Z,"7km NW of Pinnacles, CA",earthquake,0.26,0.68,,3,reviewed,nc,nc
+2022-03-13T20:51:30.170Z,36.5866661,-121.1894989,6.16,4.12,mw,60,65,0.0153,0.18,nc,nc73705146,2022-03-13T21:36:49.673Z,"7km NW of Pinnacles, CA",earthquake,0.26,0.68,,3,reviewed,nc,nc
 2022-03-13T20:48:56.506Z,32.2172,-115.1488,5,2.6,ml,,103,0.241,0.76,us,us6000h48b,2022-03-13T21:16:22.040Z,"2 km ESE of Doctor Alberto Oviedo Mota, Mexico",earthquake,1.5,1.9,0.069,28,reviewed,us,us
 2022-03-13T20:43:10.106Z,36.653,-117.1136,2.5,1.2,ml,10,306.81,0.132,0.3586,nn,nn00835290,2022-03-13T20:46:30.702Z,"32 km NW of Furnace Creek, California",earthquake,,1.4,0.91,7,automatic,nn,nn
 2022-03-13T20:30:10.980Z,-29.8828,-13.8672,10,5.3,mb,,77,15.739,1.12,us,us6000h489,2022-03-13T20:46:44.040Z,"southern Mid-Atlantic Ridge",earthquake,11.6,1.9,0.08,53,reviewed,us,us
@@ -144,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T03:22:31.346Z,1.3547,124.1876,258.22,4.3,mb,,76,2.769,1,us,us6000h44c,2022-03-13T03:40:53.040Z,"68 km W of Tomohon, Indonesia",earthquake,9.8,9.2,0.129,18,reviewed,us,us
 2022-03-13T03:13:04.420Z,39.9874,-119.5721,0.1,1.9,ml,16,109.12,0.199,0.2076,nn,nn00835278,2022-03-13T03:16:15.993Z,"4 km NNE of Sutcliffe, Nevada",earthquake,,11.3,0.3,10,automatic,nn,nn
 2022-03-13T02:48:42.980Z,34.0416667,-117.1691667,11.1,0.89,ml,24,88,0.04753,0.24,ci,ci40206440,2022-03-13T02:52:21.458Z,"2km SE of Redlands, CA",earthquake,0.42,0.74,0.187,21,automatic,ci,ci
-2022-03-13T02:43:38.110Z,38.4773333,-119.5295,2.99,2.28,md,14,57,0.07654,0.08,nc,nc73704881,2022-03-13T20:54:11.307Z,"6km SW of Walker, CA",earthquake,0.33,1.18,0.294,29,reviewed,nc,nc
+2022-03-13T02:43:38.110Z,38.4773333,-119.5295,2.99,2.28,md,14,57,0.07654,0.08,nc,nc73704881,2022-03-13T21:29:23.516Z,"6km SW of Walker, CA",earthquake,0.33,1.18,0.294,29,reviewed,nc,nc
 2022-03-13T02:38:59.130Z,34.1395,-117.4641667,5.34,1.08,ml,29,57,0.04506,0.18,ci,ci40206432,2022-03-13T02:42:32.392Z,"5km N of Fontana, CA",earthquake,0.31,0.63,0.162,28,automatic,ci,ci
 2022-03-13T02:38:50.260Z,37.515,-118.8601667,7.42,1.22,md,16,160,0.07886,0.05,nc,nc73704876,2022-03-13T17:43:15.158Z,"17km WSW of Toms Place, CA",earthquake,0.39,0.93,0.043,11,reviewed,nc,nc
 2022-03-13T02:19:13.645Z,60.7487,-148.5381,12,1.9,ml,,,,0.55,ak,ak0223b3zyf2,2022-03-13T02:21:54.122Z,"8 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
