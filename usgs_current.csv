@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-14T06:53:19.590Z,19.1800003051758,-155.495666503906,35.0200004577637,2.1500001,md,37,147,,0.119999997,hv,hv72949427,2022-03-14T06:56:30.680Z,"3 km SW of Pāhala, Hawaii",earthquake,0.79,0.99000001,1.85000002,6,automatic,hv,hv
 2022-03-14T06:32:28.700Z,33.0515,-116.2085,7.74,1.11,ml,24,72,0.1094,0.22,ci,ci40207232,2022-03-14T06:36:06.775Z,"12km SW of Ocotillo Wells, CA",earthquake,0.38,0.97,0.189,25,automatic,ci,ci
 2022-03-14T06:30:02.900Z,33.051,-116.2115,5.51,1.66,ml,51,43,0.1106,0.22,ci,ci40207224,2022-03-14T06:41:12.010Z,"13km SW of Ocotillo Wells, CA",earthquake,0.27,0.98,0.15,30,automatic,ci,ci
 2022-03-14T06:20:20.820Z,38.8286667,-122.8138351,2.25,0.36,md,13,73,0.006028,0.01,nc,nc73705316,2022-03-14T06:36:14.967Z,"8km NW of The Geysers, CA",earthquake,0.31,0.82,,1,automatic,nc,nc
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T22:35:03.200Z,36.5769997,-121.1719971,5.85,1.86,md,21,121,0.01202,0.05,nc,nc73705161,2022-03-14T00:39:16.717Z,"6km NNW of Pinnacles, CA",earthquake,0.27,0.43,0.11,16,automatic,nc,nc
 2022-03-13T22:16:50.428Z,14.0764,119.3572,10,4.7,mb,,119,9.446,0.47,us,us6000h4b9,2022-03-13T23:00:53.040Z,"77 km WNW of Cabra, Philippines",earthquake,8.9,1.9,0.099,31,reviewed,us,us
 2022-03-13T22:13:38.223Z,-33.3158,-70.4471,104.99,3.7,mb,,60,0.129,0.27,us,us6000h4as,2022-03-14T03:21:38.384Z,"19 km E of Chicureo Abajo, Chile",earthquake,4.4,2.9,0.292,3,reviewed,us,us
-2022-03-13T22:07:44.017Z,-26.4999,28.8641,20.74,4.8,mb,,75,3.296,0.8,us,us6000h4ar,2022-03-14T06:37:46.790Z,"20 km W of eMbalenhle, South Africa",earthquake,9.2,4.9,0.111,25,reviewed,us,us
+2022-03-13T22:07:44.017Z,-26.4999,28.8641,20.74,4.8,mb,,75,3.296,0.8,us,us6000h4ar,2022-03-14T06:52:35.788Z,"20 km W of eMbalenhle, South Africa",earthquake,9.2,4.9,0.111,25,reviewed,us,us
 2022-03-13T22:07:21.210Z,17.9296666666667,-66.9691666666667,10.72,2.27,md,5,232,,0.1,pr,pr71340083,2022-03-13T23:11:53.190Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.66,0.66,0.055385550900557,4,reviewed,pr,pr
 2022-03-13T21:38:44.768Z,-0.6232,98.5481,35,5.5,mww,,141,2.147,0.9,us,us6000h49u,2022-03-13T23:41:59.983Z,"174 km W of Pariaman, Indonesia",earthquake,7,2,0.098,10,reviewed,us,us
 2022-03-13T21:33:36.010Z,33.1935,-115.6346667,9.79,2.09,ml,39,59,0.08545,0.19,ci,ci40206960,2022-03-13T21:44:23.280Z,"12km WSW of Niland, CA",earthquake,0.33,0.82,0.199,27,automatic,ci,ci
