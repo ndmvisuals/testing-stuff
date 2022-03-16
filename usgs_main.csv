@@ -3280,3 +3280,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T09:03:06.480Z,18.6188,-68.8535,109.0,4.07,md,29.0,126.0,0.4836,0.06,pr,pr2022075000,2022-03-16T09:29:56.208Z,"13 km ENE of Guaymate, Dominican Republic",earthquake,1.37,0.71,0.16,25.0,reviewed,pr,pr
 2022-03-16T09:42:35.465Z,62.046,-149.5462,19.9,2.3,ml,,,,0.7,ak,ak0223g6x0c0,2022-03-16T09:50:58.135Z,"20 km SE of Susitna North, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-16T10:01:39.710Z,38.8294983,-122.8040009,1.86,0.85,md,7.0,105.0,0.007723,0.02,nc,nc73706356,2022-03-16T10:03:15.152Z,"7km W of Cobb, CA",earthquake,0.5,1.24,,1.0,automatic,nc,nc
+2022-03-16T10:23:21.554Z,59.9573,-152.9849,109.7,1.6,ml,,,,0.5,ak,ak0223g7ec7v,2022-03-16T10:29:00.158Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-16T10:18:50.910Z,60.7927,-147.6931,13.8,1.9,ml,,,,0.88,ak,ak0223g7dbxx,2022-03-16T10:29:39.370Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-16T10:15:25.010Z,33.9928333,-117.163,15.25,1.29,ml,36.0,86.0,0.04606,0.17,ci,ci39969231,2022-03-16T10:29:45.646Z,"7km SSE of Redlands, CA",earthquake,0.25,0.49,0.154,29.0,automatic,ci,ci
+2022-03-16T10:13:38.170Z,33.9911667,-117.1688333,14.78,2.87,ml,106.0,22.0,0.0438,0.16,ci,ci39969223,2022-03-16T10:29:32.647Z,"7km S of Redlands, CA",earthquake,0.15,0.29,0.248,25.0,automatic,ci,ci
