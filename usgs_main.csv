@@ -3649,3 +3649,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T13:41:40.060Z,38.8295,-122.7445,0.95,0.2,md,13.0,261.0,0.01427,0.03,nc,nc73706766,2022-03-17T19:36:10.569Z,"2km WNW of Cobb, CA",earthquake,0.48,0.52,0.244,3.0,reviewed,nc,nc
 2022-03-17T19:36:31.910Z,38.8358345,-122.8134995,1.48,0.85,md,12.0,58.0,0.01271,0.01,nc,nc73706886,2022-03-17T19:38:08.264Z,"8km W of Cobb, CA",earthquake,0.28,0.75,,1.0,automatic,nc,nc
 2022-03-17T10:52:45.300Z,38.7743333,-122.7116667,1.54,0.06,md,13.0,94.0,0.007266,0.03,nc,nc73706706,2022-03-17T19:40:48.311Z,"2km W of Anderson Springs, CA",earthquake,0.34,0.39,0.347,5.0,reviewed,nc,nc
+2022-03-17T19:54:50.610Z,38.7799988,-122.7661667,1.35,0.86,md,8.0,110.0,0.00927,0.02,nc,nc73706891,2022-03-17T19:56:28.430Z,"1km WNW of The Geysers, CA",earthquake,0.48,0.96,,1.0,automatic,nc,nc
+2022-03-17T17:22:04.401Z,51.7849,178.6476,85.0,3.7,ml,,,,0.46,ak,ak0223hz3grv,2022-03-17T19:58:12.832Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.2,,,reviewed,ak,ak
