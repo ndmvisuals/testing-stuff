@@ -4550,3 +4550,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T08:31:58.860Z,40.7088318,-124.0093307,23.91,2.64,md,18.0,187.0,0.2676,0.12,nc,nc73708346,2022-03-21T08:38:15.398Z,"12km ESE of Pine Hills, CA",earthquake,0.91,2.9,0.09,9.0,automatic,nc,nc
 2022-03-21T08:21:20.880Z,38.7868347,-122.7816696,1.29,0.57,md,7.0,109.0,0.007999,0.02,nc,nc73708341,2022-03-21T08:38:14.398Z,"2km WNW of The Geysers, CA",earthquake,0.39,0.66,0.34,2.0,automatic,nc,nc
 2022-03-21T08:42:27.205Z,60.9301,-149.2306,19.2,1.9,ml,,,,0.92,ak,ak0223og0aj7,2022-03-21T08:49:10.890Z,"3 km WSW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-21T08:58:34.698Z,61.6666,-149.6311,19.9,2.3,ml,,,,0.88,ak,ak0223og3ql1,2022-03-21T09:06:21.256Z,"4 km NNW of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-21T06:49:27.045Z,-11.8141,41.0051,10.0,4.6,mb,,60.0,9.342,0.3,us,us6000h6c9,2022-03-21T08:59:57.040Z,"90 km SE of Mocímboa, Mozambique",earthquake,10.0,1.9,0.111,24.0,reviewed,us,us
