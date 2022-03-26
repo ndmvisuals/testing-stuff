@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T07:02:10.260Z,38.7986679,-122.7551651,2.14,0.36,md,6,216,0.004055,0.02,nc,nc73710476,2022-03-26T07:31:13.577Z,"2km N of The Geysers, CA",earthquake,0.83,1.22,,1,automatic,nc,nc
 2022-03-26T06:30:27.090Z,35.9891667,-120.1763333,14.21,1.13,md,24,210,0.09907,0.09,nc,nc73710471,2022-03-26T08:26:12.911Z,"5km WSW of Avenal, CA",earthquake,0.44,0.55,0.106,11,reviewed,nc,nc
 2022-03-26T06:26:44.980Z,35.9736667,-120.1961667,16.85,2.37,md,63,67,0.08983,0.18,nc,nc73710466,2022-03-26T07:56:10.861Z,"7km WSW of Avenal, CA",earthquake,0.27,0.63,0.124,50,reviewed,nc,nc
-2022-03-26T06:25:31.090Z,35.9738333,-120.2003333,15.1,2.3,md,67,72,0.08678,0.16,nc,nc73710461,2022-03-26T08:12:11.820Z,"7km WSW of Avenal, CA",earthquake,0.2,0.49,0.205,72,reviewed,nc,nc
+2022-03-26T06:25:31.090Z,35.9738333,-120.2003333,15.1,2.3,md,67,72,0.08678,0.16,nc,nc73710461,2022-03-26T08:54:13.168Z,"7km WSW of Avenal, CA",earthquake,0.2,0.49,0.205,72,reviewed,nc,nc
 2022-03-26T06:19:54.271Z,36.13560867,-97.61832428,4.182166576,1.57,ml,20,113.3277588,0.0625461787,0.2202018751,ok,ok2022fxyu,2022-03-26T06:21:53.522Z,"2 km SSE of Marshall, Oklahoma",earthquake,3.001632047,2.278805283,,15,automatic,ok,ok
 2022-03-26T06:13:34.570Z,38.7659988,-122.7139969,1.68,0.92,md,8,143,0.009565,0.02,nc,nc73710456,2022-03-26T06:58:15.371Z,"2km WSW of Anderson Springs, CA",earthquake,0.48,0.38,0.33,2,automatic,nc,nc
 2022-03-26T06:05:28.080Z,38.8129997,-122.815834,2.64,0.84,md,13,89,0.01121,0.02,nc,nc73710451,2022-03-26T08:38:13.023Z,"6km NW of The Geysers, CA",earthquake,0.35,0.79,,1,automatic,nc,nc
@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T08:58:55.480Z,37.451,-121.7741667,3.39,0.88,md,13,92,0.04772,0.03,nc,nc73710131,2022-03-25T09:34:13.798Z,"10km NNE of Alum Rock, CA",earthquake,0.47,1.15,0.223,15,reviewed,nc,nc
 2022-03-25T08:58:18.750Z,33.4676667,-116.5818333,12.31,0.38,ml,19,71,0.03277,0.15,ci,ci39977679,2022-03-25T20:58:41.188Z,"13km SE of Anza, CA",earthquake,0.31,0.59,0.108,8,reviewed,ci,ci
 2022-03-25T08:56:16.070Z,36.04,-117.7715,1.55,1.19,ml,17,95,0.06489,0.1,ci,ci39977671,2022-03-25T20:56:01.655Z,"16km E of Coso Junction, CA",earthquake,0.18,0.26,0.168,12,reviewed,ci,ci
-2022-03-25T08:54:35.104Z,-33.884,-178.5481,10,5.3,mww,,57,4.473,0.75,us,us7000gx6g,2022-03-25T09:13:33.040Z,"south of the Kermadec Islands",earthquake,7.7,1.8,0.093,11,reviewed,us,us
