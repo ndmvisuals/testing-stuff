@@ -8364,3 +8364,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-03T10:22:31.710Z,34.9351667,-116.7038333,0.45,1.55,ml,17.0,52.0,0.149,0.15,ci,ci39985127,2022-04-03T10:26:08.847Z,"29km E of Barstow, CA",earthquake,0.27,0.64,0.132,25.0,automatic,ci,ci
 2022-04-03T10:19:23.490Z,38.1247,-117.9977,11.7,1.0,ml,10.0,146.05,0.033,0.2394,nn,nn00836616,2022-04-03T10:23:23.501Z,"31 km SSE of Mina, Nevada",earthquake,,0.7,0.59,6.0,automatic,nn,nn
 2022-04-03T10:24:56.542Z,9.2256,126.6692,28.72,5.5,mww,,75.0,2.398,0.77,us,us7000gzcf,2022-04-03T10:48:37.668Z,"51 km ENE of La Paz, Philippines",earthquake,7.7,4.5,0.08,15.0,reviewed,us,us
+2022-04-03T10:52:56.116Z,62.834,-148.391,9.2,1.7,ml,,,,0.87,ak,ak02249z8vg9,2022-04-03T10:55:36.092Z,"68 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
