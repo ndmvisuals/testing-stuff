@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-03T17:34:06.740Z,61.0489,-152.375,108.9,1,ml,,,,0.3,ak,ak0224a3ay1o,2022-04-03T17:35:42.111Z,"66 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-03T17:34:06.719Z,61.0573,-152.4105,108.7,1,ml,,,,0.38,ak,ak0224a3ay1o,2022-04-03T17:46:14.280Z,"68 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-03T17:27:49.127Z,38.1469,-117.9906,9.6,1.2,ml,11,136.51,0.026,0.0944,nn,nn00836634,2022-04-03T17:31:36.720Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.33,6,automatic,nn,nn
 2022-04-03T17:16:53.620Z,38.7980003,-122.8116684,2.68,0.49,md,12,80,0.01177,0.01,nc,nc73713756,2022-04-03T17:35:23.011Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.77,0.35,2,automatic,nc,nc
 2022-04-03T17:11:46.349Z,60.1086,-151.1797,51.9,1.8,ml,,,,0.66,ak,ak0224a363nd,2022-04-03T17:19:21.655Z,"18 km SE of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
