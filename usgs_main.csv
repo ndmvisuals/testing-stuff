@@ -8805,3 +8805,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T02:39:02.890Z,37.3935,-118.7198333,16.43,1.2,md,20.0,92.0,0.1311,0.04,nc,nc73714491,2022-04-05T03:58:10.655Z,"11km WSW of Round Valley, CA",earthquake,0.32,1.03,0.133,15.0,reviewed,nc,nc
 2022-04-05T02:02:31.390Z,37.2096667,-118.5708333,13.93,1.71,md,12.0,178.0,0.1434,0.05,nc,nc73714466,2022-04-05T03:52:10.623Z,"18km WSW of Wilkerson, CA",earthquake,0.39,0.99,0.206,15.0,reviewed,nc,nc
 2022-04-04T22:21:28.697Z,47.4698,-70.4352,6.41,1.8,ml,,91.0,0.108,0.47,us,us7000gzrv,2022-04-05T04:16:21.040Z,"5 km ENE of Baie-Saint-Paul, Canada",earthquake,2.3,4.6,0.148,6.0,reviewed,us,us
+2022-04-05T04:35:57.820Z,19.1666660308838,-155.466995239258,32.3699989318848,2.52,ml,46.0,89.0,,0.100000001,hv,hv72973782,2022-04-05T04:41:28.640Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.43,0.639999986,3.92,16.0,automatic,hv,hv
+2022-04-05T03:40:01.720Z,37.8963333,-118.5581667,6.85,1.35,md,19.0,66.0,0.2053,0.07,nc,nc73714516,2022-04-05T04:43:15.873Z,"39km NNE of Toms Place, CA",earthquake,0.28,2.17,0.095,12.0,reviewed,nc,nc
+2022-04-04T05:27:39.724Z,47.5906,-70.3062,16.93,1.9,ml,,104.0,0.044,0.47,us,us7000gzry,2022-04-05T04:28:27.040Z,"13 km WSW of La Malbaie, Canada",earthquake,3.9,2.6,0.105,12.0,reviewed,us,us
