@@ -10127,3 +10127,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T21:05:17.940Z,38.8183333,-122.8023333,3.47,0.4,md,34.0,34.0,0.007881,0.03,nc,nc73716411,2022-04-09T21:17:00.166Z,"6km NW of The Geysers, CA",earthquake,0.18,0.32,0.363,5.0,reviewed,nc,nc
 2022-04-09T20:52:37.288Z,-16.3176,166.8458,10.0,6.2,mww,,36.0,0.931,0.85,us,us7000h0yj,2022-04-09T21:16:55.738Z,"65 km WSW of Norsup, Vanuatu",earthquake,5.1,1.8,0.056,31.0,reviewed,us,us
 2022-04-09T21:14:20.130Z,38.8283333,-122.8056667,2.07,0.19,md,22.0,55.0,0.006014,0.01,nc,nc73716416,2022-04-09T21:24:30.820Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.175,4.0,reviewed,nc,nc
+2022-04-09T21:40:18.702Z,64.8144,-149.1611,3.3,1.8,ml,,,,0.69,ak,ak0224k2y2oe,2022-04-09T21:42:02.596Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-09T21:22:13.096Z,-3.2295,139.7734,48.97,5.5,mb,,35.0,7.52,0.97,us,us7000h0yv,2022-04-09T21:40:50.040Z,"118 km SW of Abepura, Indonesia",earthquake,9.1,6.6,0.042,196.0,reviewed,us,us
