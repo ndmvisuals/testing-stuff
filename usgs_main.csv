@@ -10070,3 +10070,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T15:28:35.736Z,63.5836,-147.2454,11.7,1.2,ml,,,,0.9,ak,ak0224jzaxro,2022-04-09T15:35:44.258Z,"84 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-09T15:26:01.140Z,38.8390007,-122.8078308,2.61,0.36,md,9.0,92.0,0.01367,0.01,nc,nc73716306,2022-04-09T15:27:37.697Z,"8km WNW of Cobb, CA",earthquake,0.59,1.86,,1.0,automatic,nc,nc
 2022-04-09T07:59:40.381Z,63.4815,-151.1447,14.0,0.8,ml,,,,0.85,ak,ak0224juq4kj,2022-04-09T15:45:18.975Z,Central Alaska,earthquake,,0.3,,,reviewed,ak,ak
+2022-04-09T15:49:09.567Z,-36.6208,78.8417,10.0,5.2,mb,,54.0,32.33,0.97,us,us7000h0x2,2022-04-09T16:09:04.040Z,Mid-Indian Ridge,earthquake,11.8,1.9,0.08,52.0,reviewed,us,us
