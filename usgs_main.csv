@@ -10756,3 +10756,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T13:22:27.600Z,36.4845,-89.5418333,8.24,1.26,md,13.0,119.0,0.05439,0.04,nm,nm60149043,2022-04-12T15:47:59.960Z,"7 km ESE of Marston, Missouri",earthquake,0.4,0.71,0.109,10.0,reviewed,nm,nm
 2022-04-12T04:56:16.630Z,31.63563024,-104.3714153,7.288427734,2.4,ml,13.0,90.0,0.0977092288,0.3,tx,tx2022hcxp,2022-04-12T15:44:05.228Z,"59 km S of Whites City, New Mexico",earthquake,2.310135983,1.614549103,0.1,6.0,reviewed,tx,tx
 2022-04-11T20:14:18.399Z,34.3885,-96.82983333,0.0,1.58,ml,23.0,89.0,0.2150577983,0.34,ok,ok2022hcgj,2022-04-12T15:33:20.294Z,"1 km S of Mill Creek, Oklahoma",quarry blast,,0.7,0.22,5.0,reviewed,ok,ok
+2022-04-12T14:27:57.050Z,35.6353333,-84.2833333,10.27,1.8,md,7.0,91.0,0.0802,0.08,se,se60382597,2022-04-12T15:58:30.950Z,"5 km SSW of Tellico Village, Tennessee",earthquake,0.37,0.86,0.025,6.0,reviewed,se,se
