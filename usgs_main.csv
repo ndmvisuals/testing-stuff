@@ -11996,3 +11996,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T13:53:16.834Z,-29.8585,-71.801,57.33,4.5,mb,,104.0,0.492,1.1,us,us7000h2pe,2022-04-16T17:58:07.040Z,"45 km WNW of Coquimbo, Chile",earthquake,5.0,7.9,0.171,10.0,reviewed,us,us
 2022-04-16T02:05:11.670Z,44.0925,-110.76,9.4,0.21,md,8.0,76.0,0.04435,0.07,uu,uu60030489,2022-04-16T18:19:58.190Z,"43 km NNE of Alta, Wyoming",earthquake,0.55,0.72,0.354,3.0,reviewed,uu,uu
 2022-04-16T02:04:48.300Z,44.0931667,-110.7596667,9.88,0.8,md,13.0,74.0,0.04426,0.1,uu,uu60491732,2022-04-16T18:15:49.740Z,"43 km NNE of Alta, Wyoming",earthquake,0.4,0.43,0.242,3.0,reviewed,uu,uu
+2022-04-16T18:19:45.520Z,38.8321648,-122.8160019,1.59,0.64,md,11.0,87.0,0.009906,0.02,nc,nc73718460,2022-04-16T18:26:27.448Z,"8km NW of The Geysers, CA",earthquake,0.3,0.78,,1.0,automatic,nc,nc
+2022-04-16T17:42:15.730Z,38.8213333,-122.8436667,2.26,-0.07,md,16.0,74.0,0.006977,0.05,nc,nc73718450,2022-04-16T18:37:43.404Z,"9km WNW of The Geysers, CA",earthquake,0.23,0.35,0.101,3.0,reviewed,nc,nc
+2022-04-16T09:30:15.700Z,44.7421667,-111.1475,13.44,0.04,md,10.0,119.0,0.03576,0.1,uu,uu60491737,2022-04-16T18:22:34.620Z,"4 km SE of Hebgen Lake Estates, Montana",earthquake,0.56,1.41,0.121,6.0,reviewed,uu,uu
