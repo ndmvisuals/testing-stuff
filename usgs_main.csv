@@ -11877,3 +11877,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T05:20:01.750Z,38.8226662,-122.7878342,1.33,0.35,md,7.0,113.0,0.01093,0.03,nc,nc73718200,2022-04-16T05:27:29.866Z,"6km W of Cobb, CA",earthquake,0.63,1.24,,1.0,automatic,nc,nc
 2022-04-16T05:17:20.650Z,52.3923,-169.1186,41.23,4.1,mb,,176.0,1.255,0.76,us,us7000h2mv,2022-04-16T05:31:32.040Z,"63 km SSW of Nikolski, Alaska",earthquake,3.0,9.6,0.092,32.0,reviewed,us,us
 2022-04-16T05:16:43.590Z,35.9553333,-117.7128333,2.0,0.74,ml,13.0,129.0,0.05121,0.11,ci,ci40237992,2022-04-16T05:20:18.900Z,"18km E of Little Lake, CA",earthquake,0.41,0.43,0.146,7.0,automatic,ci,ci
+2022-04-16T05:33:20.770Z,38.8313332,-122.817337,1.7,1.18,md,23.0,51.0,0.009748,0.02,nc,nc73718205,2022-04-16T05:40:06.772Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.45,3.0,automatic,nc,nc
