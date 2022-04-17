@@ -12210,3 +12210,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T14:24:07.580Z,38.8260002,-122.8118362,1.06,0.74,md,17.0,56.0,0.02086,0.04,nc,nc73718880,2022-04-17T14:30:04.090Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.39,3.0,automatic,nc,nc
 2022-04-17T14:41:27.147Z,62.986,-151.5982,4.7,1.4,ml,,,,0.77,ak,ak0224x731re,2022-04-17T14:50:29.615Z,"62 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T08:24:19.350Z,46.8258333,-111.589,4.91,1.79,ml,28.0,98.0,0.383,0.26,mb,mb80543194,2022-04-17T14:48:37.160Z,"31 km ENE of Helena Valley Northeast, Montana",earthquake,0.6,2.0,0.219,9.0,reviewed,mb,mb
+2022-04-17T11:35:52.770Z,44.6135,-112.9736667,2.53,2.04,ml,36.0,51.0,0.232,0.23,mb,mb80543214,2022-04-17T15:03:35.530Z,"30 km W of Lima, Montana",earthquake,0.38,1.56,0.227,23.0,reviewed,mb,mb
