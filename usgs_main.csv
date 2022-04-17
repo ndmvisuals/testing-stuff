@@ -12106,3 +12106,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T04:35:49.170Z,61.6499,-148.3389,16.1,0.6,ml,,,,0.36,ak,ak0224x13h45,2022-04-17T04:49:06.412Z,"17 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-17T04:34:17.253Z,31.6721,-104.47,5.0,2.9,ml,,71.0,0.026,0.32,us,us7000h2t4,2022-04-17T04:41:07.040Z,"56 km S of Whites City, New Mexico",earthquake,1.3,2.0,0.074,70.0,reviewed,us,us
 2022-04-17T04:24:20.498Z,59.412,-152.5642,64.8,1.9,ml,,,,0.63,ak,ak0224x1121q,2022-04-17T04:35:22.787Z,"37 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-17T04:34:50.123Z,-17.3967,121.6562,10.0,4.4,mb,,78.0,3.86,0.73,us,us7000h2t5,2022-04-17T04:51:10.040Z,"83 km NW of Bilingurr, Australia",earthquake,7.7,1.7,0.269,5.0,reviewed,us,us
