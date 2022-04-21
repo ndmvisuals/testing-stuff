@@ -13385,3 +13385,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T06:18:56.060Z,32.901,-115.5228333,3.58,1.94,ml,27.0,76.0,0.03187,0.21,ci,ci40242904,2022-04-21T15:04:15.004Z,"7km NE of Imperial, CA",earthquake,0.35,0.22,0.178,12.0,reviewed,ci,ci
 2022-04-21T00:04:31.600Z,32.9245,-115.5195,3.79,1.68,ml,15.0,80.0,0.04158,0.16,ci,ci40242752,2022-04-21T14:58:08.965Z,"6km S of Brawley, CA",earthquake,0.38,0.24,0.255,5.0,reviewed,ci,ci
 2022-04-20T21:50:10.670Z,35.711,-117.4433333,1.09,-0.12,ml,5.0,122.0,0.1055,0.05,ci,ci37496181,2022-04-21T14:52:03.916Z,"7km SSW of Searles Valley, CA",earthquake,0.27,0.28,0.094,1.0,reviewed,ci,ci
+2022-04-21T15:27:04.470Z,38.831501,-122.81633,1.74,1.04,md,27.0,51.0,0.009455,0.03,nc,nc73721260,2022-04-21T15:29:42.348Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.16,5.0,automatic,nc,nc
+2022-04-21T15:22:45.425Z,65.1034,-149.0478,2.9,1.8,ml,,,,1.11,ak,ak02253tpu5k,2022-04-21T15:33:36.564Z,"15 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
