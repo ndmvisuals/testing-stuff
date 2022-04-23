@@ -13906,3 +13906,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T10:30:24.884Z,64.6359,-147.735,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:40:15.291Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T10:23:06.806Z,61.5289,-149.9052,41.3,1.4,ml,,,,0.67,ak,ak022571thug,2022-04-23T10:25:26.057Z,"2 km ENE of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-23T10:02:13.254Z,-8.7156,-74.2769,68.75,4.5,mb,,94.0,1.838,0.57,us,us6000hftt,2022-04-23T10:32:34.040Z,"45 km SE of San Fernando, Peru",earthquake,8.2,8.0,0.15,15.0,reviewed,us,us
+2022-04-23T10:43:44.250Z,35.7728333,-117.5868333,7.74,0.54,ml,9.0,147.0,0.04369,0.14,ci,ci40244280,2022-04-23T10:47:19.876Z,"16km W of Searles Valley, CA",earthquake,0.48,0.77,0.082,8.0,automatic,ci,ci
+2022-04-23T10:43:36.788Z,63.397,-152.0542,11.6,1.7,ml,,,,0.63,ak,ak022571xuha,2022-04-23T10:45:46.841Z,"22 km SW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T10:11:08.510Z,18.0081666666667,-66.8543333333333,16.97,2.23,md,10.0,135.0,,0.09,pr,pr71345568,2022-04-23T10:43:51.550Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.37,0.46,0.0462285864031515,4.0,reviewed,pr,pr
