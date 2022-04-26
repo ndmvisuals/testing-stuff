@@ -14845,3 +14845,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-26T23:17:54.550Z,38.8326683,-122.7943344,1.54,0.36,md,7.0,86.0,0.006525,0.01,nc,nc73724876,2022-04-26T23:19:28.259Z,"6km W of Cobb, CA",earthquake,0.56,1.35,,1.0,automatic,nc,nc
 2022-04-26T23:17:26.893Z,63.4102,-144.9523,7.3,1.7,ml,,,,0.94,ak,ak0225c84xdn,2022-04-26T23:20:48.226Z,"30 km SSW of Dry Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-26T22:18:25.700Z,18.0045,-66.9881666666667,7.78,1.4,md,5.0,132.0,,0.04,pr,pr71346258,2022-04-26T23:25:45.980Z,"6 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.41,0.77,0.131168674608701,4.0,reviewed,pr,pr
+2022-04-26T22:22:57.560Z,47.50516666666667,-122.00133333333332,5.28,2.0,ml,36.0,48.0,0.07739,0.26,uw,uw61834471,2022-04-26T23:39:41.610Z,"3 km SE of Issaquah, Washington",earthquake,0.28,1.02,0.2212750582938651,20.0,reviewed,uw,uw
