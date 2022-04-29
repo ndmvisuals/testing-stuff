@@ -15521,3 +15521,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T11:25:14.625Z,54.74,-156.8821,0.0,4.3,ml,,,,0.91,ak,ak0225gzngj1,2022-04-29T11:32:18.414Z,"193 km SE of Perryville, Alaska",earthquake,,11.3,,,automatic,ak,ak
 2022-04-29T11:42:26.860Z,33.1976662,-116.0198364,4.48,0.99,ml,12.0,148.0,0.04275,0.23,ci,ci40248272,2022-04-29T11:44:31.803Z,"12km ENE of Ocotillo Wells, CA",earthquake,2.19,3.17,0.147,3.0,automatic,ci,ci
 2022-04-29T11:34:19.020Z,38.8328323,-122.8178329,1.86,0.83,md,20.0,56.0,0.0112,0.02,nc,nc73726151,2022-04-29T11:43:10.257Z,"8km NW of The Geysers, CA",earthquake,0.21,0.53,0.29,3.0,automatic,nc,nc
+2022-04-29T11:44:33.128Z,62.3274,-148.2924,23.2,1.8,ml,,,,0.83,ak,ak0225gzrkip,2022-04-29T11:49:50.172Z,"59 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-29T11:23:11.643Z,31.1458,130.3551,157.8,4.5,mb,,114.0,0.371,0.38,us,us7000h5ts,2022-04-29T11:49:28.040Z,"13 km SSE of Makurazaki, Japan",earthquake,8.4,4.9,0.072,57.0,reviewed,us,us
+2022-04-29T10:50:46.220Z,18.0123333333333,-66.843,14.91,2.11,md,6.0,141.0,,0.14,pr,pr71346738,2022-04-29T11:51:56.700Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.72,1.11,0.287645113511779,3.0,reviewed,pr,pr
+2022-04-29T09:07:49.938Z,-5.4525,147.0795,214.91,4.5,mb,,58.0,3.398,1.01,us,us7000h5tb,2022-04-29T11:53:11.040Z,"140 km N of Lae, Papua New Guinea",earthquake,9.8,4.5,0.084,41.0,reviewed,us,us
