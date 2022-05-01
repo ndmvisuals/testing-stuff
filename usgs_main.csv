@@ -16030,3 +16030,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-01T10:20:59.960Z,38.7963333,-122.8143311,3.54,0.75,md,13.0,92.0,0.01189,0.02,nc,nc73727476,2022-05-01T10:29:26.058Z,"5km WNW of The Geysers, CA",earthquake,0.5,1.15,0.5,2.0,automatic,nc,nc
 2022-05-01T10:19:13.790Z,33.8763333,-116.8476667,13.92,0.66,ml,17.0,66.0,0.1193,0.16,ci,ci40249696,2022-05-01T10:22:48.416Z,"6km SSE of Banning, CA",earthquake,0.36,0.92,0.166,18.0,automatic,ci,ci
 2022-05-01T10:17:07.685Z,63.3073,-150.502,122.8,2.4,ml,,,,1.19,ak,ak0225ka2zx9,2022-05-01T10:32:49.462Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-01T09:49:37.870Z,17.9436666666667,-66.895,13.3,2.4,md,8.0,211.0,,0.08,pr,pr71346943,2022-05-01T10:41:54.000Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.89,0.33,0.0272105273260443,7.0,reviewed,pr,pr
