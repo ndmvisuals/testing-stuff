@@ -17198,3 +17198,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-05T20:50:21.372Z,62.0751,-150.5721,51.0,1.5,ml,,,,0.21,ak,ak0225r2dta1,2022-05-05T20:52:43.946Z,"32 km SSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-05T20:08:32.470Z,18.7628333333333,-65.1103333333333,8.77,3.44,md,12.0,306.0,,0.33,pr,pr71347558,2022-05-05T21:03:03.580Z,"50 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.05,3.28,0.0064754717552326,3.0,reviewed,pr,pr
 2022-05-05T01:04:12.580Z,38.4758333,-119.5345,2.63,2.19,md,14.0,54.0,0.08074,0.09,nc,nc73729471,2022-05-05T21:06:59.498Z,"6km SW of Walker, CA",earthquake,0.3,1.23,0.301,24.0,reviewed,nc,nc
+2022-05-05T21:05:24.169Z,-33.1245,-73.0439,10.0,5.1,mww,,61.0,1.176,1.04,us,us7000h7dn,2022-05-05T21:25:29.040Z,"Off the coast of Valparaiso, Chile",earthquake,5.1,1.8,0.093,11.0,reviewed,us,us
+2022-05-05T08:35:27.800Z,53.8935,-166.878,4.99,-0.24,ml,6.0,170.0,,0.08,av,av91057408,2022-05-05T21:12:01.520Z,"22 km W of Dutch Harbor, Alaska",earthquake,0.29,0.79,0.140134530288994,6.0,reviewed,av,av
+2022-05-05T04:49:08.080Z,37.6088333,-121.8246667,0.28,1.1,md,15.0,77.0,0.01744,0.1,nc,nc73729531,2022-05-05T21:28:14.348Z,"6km E of Sunol, CA",earthquake,0.24,0.64,0.263,17.0,reviewed,nc,nc
