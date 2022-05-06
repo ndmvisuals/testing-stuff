@@ -17252,3 +17252,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T00:38:58.160Z,34.5435,-117.3003333,0.57,1.51,ml,6.0,276.0,0.4025,0.19,ci,ci40253304,2022-05-06T00:42:39.577Z,"1km NW of Victorville, CA",earthquake,5.59,31.61,0.328,4.0,automatic,ci,ci
 2022-05-05T22:00:58.245Z,29.10827637,-97.7488511,7.091878255,2.2,ml,12.0,70.0,0.2057297968,0.3,tx,tx2022iufy,2022-05-06T01:12:38.142Z,"17 km S of Nixon, Texas",earthquake,1.337981919,3.285956341,0.2,9.0,reviewed,tx,tx
 2022-05-05T21:57:09.810Z,52.0463333333333,178.46,4.86,1.75,ml,4.0,340.0,,0.05,av,av91057463,2022-05-06T00:35:59.460Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.35,2.43,0.190383881115926,4.0,reviewed,av,av
+2022-05-06T03:22:03.456Z,61.2133,-151.2764,56.1,1.2,ml,,,,0.31,ak,ak0225sfmr21,2022-05-06T03:23:32.234Z,"13 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-06T03:15:33.390Z,33.035,-116.294,2.64,0.98,ml,30.0,77.0,0.08057,0.17,ci,ci40253328,2022-05-06T03:19:10.877Z,"19km SW of Ocotillo Wells, CA",earthquake,0.3,0.58,0.137,22.0,automatic,ci,ci
+2022-05-06T03:15:22.196Z,62.4177,-148.2397,18.5,2.1,ml,,,,0.69,ak,ak0225sflak1,2022-05-06T03:17:26.292Z,"70 km N of Chickaloon, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-05-06T02:52:21.830Z,64.4906,-149.4316,15.5,0.9,ml,,,,0.4,ak,ak0225sf7sda,2022-05-06T02:55:46.576Z,"18 km WSW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:46:57.941Z,63.3111,-151.272,0.9,1.2,ml,,,,0.56,ak,ak0225sf6ku6,2022-05-06T02:57:09.644Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:38:04.563Z,61.944,-149.2178,4.1,1.4,ml,,,,0.71,ak,ak0225sf4r06,2022-05-06T02:41:59.009Z,"22 km N of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-06T02:32:38.812Z,61.0516,-152.39,108.6,1.7,ml,,,,0.5,ak,ak0225sf3jc4,2022-05-06T02:37:53.773Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-06T02:31:46.680Z,60.2625,-151.035,65.6,1.1,ml,,,,0.44,ak,ak0225sf3c7h,2022-05-06T02:35:09.407Z,"15 km ESE of Kasilof, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-05-06T02:27:10.350Z,38.8111649,-122.8263321,14.32,0.65,md,12.0,158.0,0.003194,0.09,nc,nc73729916,2022-05-06T02:44:13.147Z,"7km WNW of The Geysers, CA",earthquake,1.97,1.09,0.27,3.0,automatic,nc,nc
+2022-05-06T02:26:40.689Z,63.3447,-151.5567,2.4,1.2,ml,,,,0.82,ak,ak0225sf296y,2022-05-06T02:29:51.554Z,"23 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-05T12:02:18.270Z,19.3023333333333,-154.999166666667,33.87,2.17,md,42.0,236.0,,0.12,hv,hv73003532,2022-05-06T02:22:13.830Z,"20 km SSW of Leilani Estates, Hawaii",earthquake,0.71,0.53,0.118867789226029,21.0,reviewed,hv,hv
