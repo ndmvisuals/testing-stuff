@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-11T12:05:54.620Z,38.8204994,-122.7789993,0.87,0.92,md,12,155,0.007349,0.11,nc,nc73732131,2022-05-11T12:07:30.479Z,"5km W of Cobb, CA",earthquake,0.82,0.99,0.19,3,automatic,nc,nc
+2022-05-11T11:58:38.302Z,62.131,-148.0214,32.9,1.2,ml,,,,0.53,ak,ak02260uaque,2022-05-11T12:08:24.398Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-11T11:53:28.640Z,34.3728333,-118.6313333,10.11,1.59,ml,30,81,0.03234,0.26,ci,ci40256176,2022-05-11T11:57:16.682Z,"11km SSW of Valencia, CA",earthquake,0.38,0.75,0.157,28,automatic,ci,ci
+2022-05-11T11:52:10.460Z,34.3733333,-118.637,8.65,1.49,ml,30,113,0.03504,0.27,ci,ci40256168,2022-05-11T11:55:56.679Z,"11km SW of Valencia, CA",earthquake,0.44,1.05,0.129,29,automatic,ci,ci
 2022-05-11T11:35:34.790Z,36.2275,-117.872,10.03,1.63,ml,15,116,0.1106,0.17,ci,ci40256152,2022-05-11T11:39:16.184Z,"13km ESE of Olancha, CA",earthquake,0.37,0.88,0.198,23,automatic,ci,ci
 2022-05-11T11:25:56.160Z,36.0308333,-117.3783333,1.51,1.01,ml,12,186,0.1595,0.13,ci,ci40256136,2022-05-11T11:29:26.857Z,"29km N of Searles Valley, CA",earthquake,0.6,1.23,0.121,11,automatic,ci,ci
 2022-05-11T11:07:36.710Z,38.8311653,-122.8156662,1.68,0.36,md,7,117,0.008904,0.03,nc,nc73732116,2022-05-11T11:33:16.476Z,"8km NW of The Geysers, CA",earthquake,0.45,1,,1,automatic,nc,nc
@@ -233,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T12:22:30.918Z,-6.5616,35.1294,10,4.3,mb,,167,5.085,0.38,us,us7000h8b5,2022-05-10T13:01:46.040Z,"75 km S of Kintinku, Tanzania",earthquake,7.7,1.9,0.201,7,reviewed,us,us
 2022-05-10T12:17:52.897Z,38.1624,-118.1696,8.9,1.2,ml,19,132.93,0.15,0.1335,nn,nn00838610,2022-05-11T02:38:38.834Z,"25 km SSW of Mina, Nevada",earthquake,,1.5,0.37,5,reviewed,nn,nn
 2022-05-10T12:12:24.620Z,38.7868347,-122.7695007,1.58,1.73,md,29,85,0.01573,0.05,nc,nc73731721,2022-05-10T15:23:11.161Z,"2km NW of The Geysers, CA",earthquake,0.23,0.35,0.04,7,automatic,nc,nc
-2022-05-10T12:10:42.580Z,33.7175,-116.8356667,15.42,0.99,ml,39,50,0.08786,0.12,ci,ci40255504,2022-05-10T16:23:39.560Z,"6km ESE of Valle Vista, CA",earthquake,0.2,0.35,0.152,24,reviewed,ci,ci
-2022-05-10T12:05:55.025Z,-11.1362,161.7049,10,4.9,mww,,41,2.415,0.66,us,us7000h8b3,2022-05-10T20:43:06.040Z,"79 km SSW of Kirakira, Solomon Islands",earthquake,2.9,1.8,0.093,11,reviewed,us,us
-2022-05-10T12:05:06.379Z,62.2647,-150.3737,11.9,0.9,ml,,,,0.72,ak,ak0225z71ehf,2022-05-10T15:02:27.593Z,"9 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
