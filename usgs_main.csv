@@ -19680,3 +19680,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T23:23:49.748Z,61.7289,-150.7992,47.5,3.1,ml,,,,0.84,ak,ak02267nduv5,2022-05-15T23:31:34.802Z,"25 km NW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-15T23:44:22.300Z,34.8330002,-118.942337,13.19,1.6,ml,21.0,62.0,0.06182,0.2,ci,ci40019775,2022-05-15T23:47:58.533Z,"1km N of Frazier Park, CA",earthquake,0.51,1.27,0.099,3.0,automatic,ci,ci
 2022-05-15T23:39:33.290Z,38.7966652,-122.7391663,1.86,0.79,md,9.0,103.0,0.01354,0.02,nc,nc73734206,2022-05-15T23:41:08.332Z,"3km NE of The Geysers, CA",earthquake,0.4,1.56,0.08,2.0,automatic,nc,nc
+2022-05-15T23:52:08.250Z,61.8281,-149.6789,21.0,1.1,ml,,,,0.67,ak,ak02267njzgh,2022-05-15T23:57:52.576Z,"20 km ENE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
