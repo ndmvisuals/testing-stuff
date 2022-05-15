@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-15T04:14:39.633Z,65.7138,-151.3832,13.9,1.6,ml,,,,0.92,ak,ak02267c0o61,2022-05-15T04:19:15.051Z,"60 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-15T04:40:21.370Z,38.8263321,-122.814003,1.98,1.41,md,24,74,0.01674,0.02,nc,nc73733901,2022-05-15T04:48:11.026Z,"7km NW of The Geysers, CA",earthquake,0.2,0.39,0.05,5,automatic,nc,nc
+2022-05-15T04:39:33.285Z,60.5734,-152.5961,9,0.8,ml,,,,0.42,ak,ak02267c60kw,2022-05-15T04:42:34.860Z,"70 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-15T04:36:12.080Z,40.4510002,-121.9905014,14.65,1.54,md,6,200,0.1356,0.03,nc,nc73733896,2022-05-15T04:43:11.877Z,"10km WSW of Shingletown, CA",earthquake,0.8,2.96,0.08,5,automatic,nc,nc
+2022-05-15T04:14:39.633Z,65.7138,-151.3832,13.9,1.6,ml,,,,0.92,ak,ak02267c0o61,2022-05-15T04:41:47.223Z,"60 km WNW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-15T04:04:08.453Z,57.9317,-155.8765,10.4,1.7,ml,,,,0.53,ak,ak02267byglp,2022-05-15T04:19:14.268Z,"93 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-15T04:03:05.960Z,38.8078346,-122.7929993,0.8,0.15,md,20,38,0.001805,0.02,nc,nc73733891,2022-05-15T04:12:10.712Z,"5km NW of The Geysers, CA",earthquake,0.17,0.35,0.08,3,automatic,nc,nc
 2022-05-15T04:02:24.530Z,35.768,-117.5786667,5.79,0.78,ml,10,158,0.05004,0.15,ci,ci40019207,2022-05-15T04:06:03.457Z,"16km W of Searles Valley, CA",earthquake,0.48,0.85,0.149,9,automatic,ci,ci
@@ -16,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T02:53:07.473Z,61.4255,-150.8688,75.8,1.4,ml,,,,0.3,ak,ak02267b23ej,2022-05-15T03:04:32.782Z,"23 km SW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-15T02:52:26.874Z,59.9593,-152.8632,95.2,1.7,ml,,,,0.53,ak,ak02267b1x71,2022-05-15T02:57:47.849Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-15T02:42:07.130Z,19.3108329772949,-155.111663818359,-0.639999985694885,2.59,ml,35,204,,0.230000004,hv,hv73012682,2022-05-15T02:47:38.860Z,"17 km S of Fern Forest, Hawaii",earthquake,0.99,0.289999992,4.4,7,automatic,hv,hv
-2022-05-15T02:36:04.420Z,38.8341675,-122.8199997,2.13,0.36,md,10,64,0.01288,0.01,nc,nc73733861,2022-05-15T02:44:10.215Z,"8km NW of The Geysers, CA",earthquake,0.46,1.66,,1,automatic,nc,nc
+2022-05-15T02:36:04.420Z,38.8341675,-122.8199997,2.13,0.36,md,10,64,0.01288,0.01,nc,nc73733861,2022-05-15T04:23:11.765Z,"8km NW of The Geysers, CA",earthquake,0.46,1.66,,1,automatic,nc,nc
 2022-05-15T02:33:33.910Z,31.5219994,-115.6221695,2.06,3,ml,12,102,0.1899,0.06,ci,ci40019135,2022-05-15T02:40:09.040Z,"89km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.19,0.87,0.204,25,automatic,ci,ci
 2022-05-15T02:32:14.941Z,36.8207,-117.5238,8.6,1.2,ml,12,198.47,0.216,0.2091,nn,nn00838922,2022-05-15T02:38:19.561Z,"48 km NE of Keeler, California",earthquake,,1.6,0.27,7,automatic,nn,nn
 2022-05-15T02:31:35.220Z,17.9218333333333,-66.8183333333333,16.76,2.15,md,6,224,,0.15,pr,pr71348903,2022-05-15T03:17:08.740Z,"8 km S of Indios, Puerto Rico",earthquake,1.89,1.3,0.180450860780602,2,reviewed,pr,pr
@@ -166,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T09:08:51.970Z,19.2046661376953,-155.440170288086,34.189998626709,2.00999999,md,37,129,,0.0900000036,hv,hv73011957,2022-05-14T09:12:00.340Z,"4 km E of Pāhala, Hawaii",earthquake,0.61,0.879999995,0.910000026,7,automatic,hv,hv
 2022-05-14T09:05:56.240Z,37.2528343,-121.6313324,4.81,1.4,md,16,68,0.0891,0.05,nc,nc73733561,2022-05-14T11:11:10.600Z,"14km N of Morgan Hill, CA",earthquake,0.22,0.9,0.16,12,automatic,nc,nc
 2022-05-14T09:00:11.060Z,44.4498333,-115.5621667,-0.94,1.94,ml,14,55,0.71,0.25,mb,mb80545794,2022-05-14T13:05:32.230Z,"38 km E of Cascade, Idaho",earthquake,0.66,2.66,0.199,12,reviewed,mb,mb
-2022-05-14T08:42:29.180Z,41.2945,-71.4061,6.34,2.2,ml,,224,0.494,0.38,us,us6000hl2t,2022-05-15T04:14:40.467Z,"15 km SSE of Narragansett Pier, Rhode Island",earthquake,2.8,7.6,0.069,28,reviewed,us,us
+2022-05-14T08:42:29.180Z,41.2945,-71.4061,6.34,2.2,ml,,224,0.494,0.38,us,us6000hl2t,2022-05-15T04:20:44.714Z,"15 km SSE of Narragansett Pier, Rhode Island",earthquake,2.8,7.6,0.069,28,reviewed,us,us
 2022-05-14T08:28:46.590Z,46.795,-121.96333333333334,8.92,0.59,ml,13,207,0.04779,0.1,uw,uw61831087,2022-05-14T18:33:33.610Z,"6 km NE of Ashford, Washington",earthquake,0.6,0.42,0.05704132512190435,4,reviewed,uw,uw
 2022-05-14T08:25:51.780Z,31.9821167,-102.3100467,7.263061523,2.7,ml,18,86,0.03001351732,0.1,tx,tx2022jjqp,2022-05-14T15:32:49.719Z,"7 km ESE of Gardendale, Texas",earthquake,1.475659998,1.453034714,0.2,12,reviewed,tx,tx
 2022-05-14T08:25:40.305Z,39.4516,-117.0381,11.4,1.9,ml,8,282.13,0.917,0.147,nn,nn00838901,2022-05-14T08:30:37.180Z,"5 km SSE of Austin, Nevada",earthquake,,3.3,0.37,6,automatic,nn,nn
@@ -207,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T05:01:54.484Z,-25.8209,179.8516,490.03,4.4,mb,,92,3.957,0.97,us,us6000hl20,2022-05-14T06:42:54.040Z,"south of the Fiji Islands",earthquake,15.2,8.2,0.112,23,reviewed,us,us
 2022-05-14T04:54:03.770Z,38.8283348,-122.8034973,1.78,0.85,md,10,75,0.007122,0.01,nc,nc73733471,2022-05-14T07:25:11.364Z,"7km NW of The Geysers, CA",earthquake,0.32,0.92,,1,automatic,nc,nc
 2022-05-14T04:53:49.970Z,46.82216666666667,-121.92266666666667,9.33,0.37,ml,10,141,0.02657,0.08,uw,uw61831062,2022-05-14T18:54:58.940Z,"10 km NE of Ashford, Washington",earthquake,0.48,0.53,0.050371966401690005,3,reviewed,uw,uw
-2022-05-14T04:51:56.040Z,48.28483333333333,-122.10283333333334,15.58,1.05,ml,9,172,0.02125,0.09,uw,uw61831057,2022-05-14T19:01:42.520Z,"6 km NE of Bryant, Washington",earthquake,0.5,0.41,0.056481857609214536,3,reviewed,uw,uw
-2022-05-14T04:51:06.156Z,39.6803,-119.4724,12.2,0.6,ml,4,148.8,0.074,0.0894,nn,nn00838910,2022-05-14T17:53:37.404Z,"16 km WNW of Wadsworth, Nevada",earthquake,,3.5,0.3,3,reviewed,nn,nn
-2022-05-14T04:34:44.350Z,64.513,-151.1311,4.2,1.2,ml,,,,0.74,ak,ak02265olmcz,2022-05-14T04:37:41.425Z,"59 km SSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
