@@ -21134,3 +21134,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T11:22:53.334Z,64.3431,-149.703,4.0,1.1,ml,,,,0.78,ak,ak0226hdgj5h,2022-05-21T11:25:56.048Z,"24 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-21T11:21:26.040Z,34.0763333,-116.6723333,0.0,0.77,ml,9.0,256.0,0.2194,0.14,ci,ci40023623,2022-05-21T11:25:08.459Z,"9km WNW of Morongo Valley, CA",earthquake,1.5,2.96,0.219,16.0,automatic,ci,ci
 2022-05-21T11:16:26.820Z,35.8675,-117.6541667,8.64,1.12,ml,17.0,106.0,0.06919,0.13,ci,ci40023615,2022-05-21T11:20:02.411Z,"24km ESE of Little Lake, CA",earthquake,0.35,0.78,0.181,15.0,automatic,ci,ci
+2022-05-21T11:52:22.448Z,84.2179,-0.4147,10.0,4.5,mb,,86.0,5.609,0.72,us,us6000hmwf,2022-05-21T12:14:01.040Z,north of Svalbard,earthquake,9.4,1.9,0.047,132.0,reviewed,us,us
+2022-05-21T11:12:09.990Z,17.9508333333333,-67.0045,10.9,1.58,md,4.0,219.0,,0.06,pr,pr71349738,2022-05-21T12:14:43.920Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.6,0.98,0.0285118472021196,4.0,reviewed,pr,pr
