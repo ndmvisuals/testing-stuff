@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T21:05:58.200Z,36.0998344,-120.6660004,6.35,1.01,md,11,161,0.06448,0.11,nc,nc73740651,2022-06-04T21:39:16.388Z,"23km ENE of San Ardo, CA",earthquake,1,1.35,0.11,6,automatic,nc,nc
 2022-06-04T20:56:56.762Z,31.6371,-104.3197,5,2.6,ml,,60,0.157,0.7,us,us7000hf10,2022-06-04T21:55:44.040Z,"59 km S of Whites City, New Mexico",earthquake,2.3,1.9,0.064,58,reviewed,us,us
 2022-06-04T20:48:36.849Z,63.247,-151.7655,9.3,1.4,ml,,,,1.03,ak,ak02274ohtuc,2022-06-04T20:57:02.583Z,"32 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-04T20:25:05.704Z,61.5686,-146.5799,34.4,1.2,ml,,,,0.44,ak,ak02274octzd,2022-06-04T20:36:08.741Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-04T20:24:55.163Z,54.3184,-163.9151,79.77,3,ml,,171,0.503,0.17,us,us7000hf0s,2022-06-04T21:33:50.040Z,"67 km SSW of False Pass, Alaska",earthquake,7.7,12.4,0.077,22,reviewed,us,us
