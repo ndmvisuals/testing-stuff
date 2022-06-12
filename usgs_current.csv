@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T06:28:11.130Z,38.8323326,-122.8073349,1.77,0.85,md,11,93,0.009177,0.02,nc,nc73744306,2022-06-12T07:17:10.821Z,"7km W of Cobb, CA",earthquake,0.31,1.33,,1,automatic,nc,nc
 2022-06-12T06:25:06.860Z,33.671,-116.9201667,14.36,0.79,ml,19,137,0.07291,0.19,ci,ci40038703,2022-06-12T13:36:53.925Z,"9km SSW of Valle Vista, CA",earthquake,0.4,0.7,0.144,21,reviewed,ci,ci
 2022-06-12T06:23:19.710Z,36.4623333,-117.8871667,8.36,1.84,ml,14,135,0.111,0.21,ci,ci40038695,2022-06-12T13:50:53.382Z,"21km SE of Lone Pine, CA",earthquake,0.56,1.22,0.15,23,reviewed,ci,ci
-2022-06-12T06:13:10.300Z,37.651,-118.9826667,4.25,-0.09,md,3,195,0.06218,0.41,nc,nc73744296,2022-06-12T19:49:42.210Z,"2km NNW of Mammoth Lakes, CA",earthquake,25.37,31.61,0.168,3,reviewed,nc,nc
+2022-06-12T06:13:10.300Z,37.651,-118.9826667,4.25,-0.09,md,3,195,0.06218,0.41,nc,nc73744296,2022-06-12T19:49:43.586Z,"2km NNW of Mammoth Lakes, CA",earthquake,25.37,31.61,0.168,3,reviewed,nc,nc
 2022-06-12T06:05:28.680Z,38.8274994,-122.8028336,1.74,0.35,md,9,75,0.006984,0.01,nc,nc73744291,2022-06-12T06:37:17.603Z,"7km NW of The Geysers, CA",earthquake,0.35,1,,1,automatic,nc,nc
 2022-06-12T05:56:23.650Z,37.4645,-118.9783333,5.19,0.58,md,8,199,0.1504,0.1,nc,nc73744286,2022-06-12T19:45:11.375Z,"19km S of Mammoth Lakes, CA",earthquake,0.81,3.64,0.19,8,reviewed,nc,nc
 2022-06-12T05:53:21.590Z,17.9793333333333,-66.96,8,2.78,md,23,183,,0.25,pr,pr71353703,2022-06-12T06:22:09.750Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.52,1.05,0.168064046875241,4,reviewed,pr,pr
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T20:20:02.340Z,39.1936684,-123.4516678,4.92,2.01,md,12,89,0.06171,0.04,nc,nc73744091,2022-06-11T23:35:11.073Z,"22km WNW of Ukiah, CA",earthquake,0.29,0.91,0.08,11,automatic,nc,nc
 2022-06-11T20:03:25.608Z,61.8862,-151.088,70.6,1.3,ml,,,,0.76,ak,ak0227g8zl82,2022-06-11T20:05:49.518Z,"19 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-11T20:00:59.000Z,38.7905006,-122.8073349,2.84,1.15,md,31,82,0.003978,0.04,nc,nc73744081,2022-06-11T23:20:09.972Z,"5km WNW of The Geysers, CA",earthquake,0.23,0.42,0.13,6,automatic,nc,nc
-2022-06-11T19:52:57.970Z,38.8241653,-122.8121643,1.86,0.83,md,17,38,0.01789,0.02,nc,nc73744076,2022-06-11T20:12:12.829Z,"7km NW of The Geysers, CA",earthquake,0.21,0.7,0.45,2,automatic,nc,nc
-2022-06-11T19:52:18.120Z,33.0891667,-116.528,0.37,0.84,ml,10,115,0.2316,0.21,ci,ci40038551,2022-06-11T19:56:04.631Z,"7km E of Julian, CA",earthquake,0.92,31.61,0.213,13,automatic,ci,ci
