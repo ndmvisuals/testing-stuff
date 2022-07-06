@@ -128,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T23:27:09.468Z,0.7842,126.8725,34.51,4.9,mb,82,56,0.494,0.65,us,us6000i05i,2022-07-06T00:01:02.040Z,"Molucca Sea",earthquake,6.4,1.8,0.058,95,reviewed,us,us
 2022-07-05T23:21:48.270Z,33.4101667,-116.4355,13.54,0.73,ml,17,127,0.1132,0.14,ci,ci40297664,2022-07-05T23:25:16.813Z,"18km NNW of Borrego Springs, CA",earthquake,0.38,0.81,0.349,12,automatic,ci,ci
 2022-07-05T23:21:28.400Z,38.8328323,-122.8271637,11.59,0.89,md,9,81,0.008678,0.06,nc,nc73755101,2022-07-05T23:28:11.252Z,"9km NW of The Geysers, CA",earthquake,2.11,4.88,,1,automatic,nc,nc
-2022-07-05T23:12:11.129Z,35.38725281,-97.85486603,1.842194438,2.16,ml,21,73.6293335,0.04992103577,0.7615765649,ok,ok2022nbtz,2022-07-05T23:14:23.503Z,"7 km E of Union City, Oklahoma",earthquake,2.45742138,2.161319158,,17,automatic,ok,ok
+2022-07-05T23:12:10.570Z,35.39483333,-97.86716667,6.24,1.97,ml,74,34,0.04049205408,0.24,ok,ok2022nbtz,2022-07-06T14:42:49.588Z,"Oklahoma",earthquake,,0.4,0.2,17,reviewed,ok,ok
 2022-07-05T23:11:12.433Z,-23.63,-67.0674,230.74,4.4,mb,25,106,1.224,0.4,us,us6000i05d,2022-07-05T23:49:12.040Z,"100 km NW of San Antonio de los Cobres, Argentina",earthquake,10.8,15.2,0.24,5,reviewed,us,us
 2022-07-05T22:57:37.982Z,33.2161,141.962,10,4.8,mb,108,116,1.804,0.42,us,us6000i054,2022-07-05T23:30:25.040Z,"262 km SE of Katsuura, Japan",earthquake,4.9,1.9,0.036,239,reviewed,us,us
 2022-07-05T22:48:01.060Z,39.4295,-110.307,-1.14,1.47,md,8,195,0.01502,0.08,uu,uu60504567,2022-07-05T22:55:40.620Z,"15 km SSE of Sunnyside, Utah",earthquake,0.78,0.34,0.151,6,reviewed,uu,uu
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T14:50:43.180Z,18.7085,-67.3478333333333,12.8,2.99,md,10,266,,0.51,pr,pr71357558,2022-07-05T16:40:09.220Z,"35 km NW of San Antonio, Puerto Rico",earthquake,2.55,1.98,0.0731048437131663,7,reviewed,pr,pr
 2022-07-05T14:50:17.879Z,10.2867,94.2806,10,4.9,mb,45,123,2.031,0.35,us,us6000i008,2022-07-05T16:01:24.040Z,"226 km SE of Port Blair, India",earthquake,8,1.9,0.087,44,reviewed,us,us
 2022-07-05T14:48:02.082Z,61.996,-150.4023,7.9,2.7,ml,,,,0.81,ak,ak0228jukwrg,2022-07-05T18:35:46.040Z,"33 km NW of Willow, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2022-07-05T14:45:08.270Z,38.7678337,-122.7188339,1.49,0.96,md,13,108,0.007812,0.04,nc,nc73754876,2022-07-05T14:58:11.140Z,"2km WSW of Anderson Springs, CA",earthquake,0.25,0.36,0.11,4,automatic,nc,nc
