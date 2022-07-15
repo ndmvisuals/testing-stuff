@@ -279,7 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T19:46:07.660Z,35.773,-117.5766667,10.07,0.73,ml,8,160,0.04589,0.13,ci,ci40063175,2022-07-14T22:10:46.798Z,"16km W of Searles Valley, CA",earthquake,0.44,0.61,0.134,2,reviewed,ci,ci
 2022-07-14T19:43:00.570Z,38.7325,-116.0991,0,1.7,ml,6,156.4,0.85,0.2987,nn,nn00842891,2022-07-15T02:40:08.671Z,"87 km S of Eureka, Nevada",earthquake,,0,0.18,3,reviewed,nn,nn
 2022-07-14T19:40:43.820Z,47.404,-114.5863333,-2,0.36,ml,9,73,0.112,0.22,mb,mb80551349,2022-07-14T20:15:51.120Z,"16 km E of Paradise, Montana",quarry blast,0.58,31.61,,0,reviewed,mb,mb
-2022-07-14T19:30:34.210Z,34.2206667,-117.5951667,13.57,3.25,ml,149,16,0.05554,0.21,ci,ci40063159,2022-07-15T16:37:39.040Z,"10km WSW of Lytle Creek, CA",earthquake,0.11,0.25,0.166,219,reviewed,ci,ci
-2022-07-14T19:28:18.599Z,53.6148,-165.8492,20.2,1.8,ml,,,,0.28,ak,ak0228yt9xmq,2022-07-14T20:38:18.557Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,3.9,,,reviewed,ak,ak
-2022-07-14T19:27:56.960Z,36.086,-117.8043333,5.87,1.56,ml,21,69,0.05165,0.1,ci,ci40063167,2022-07-14T22:09:15.249Z,"14km ENE of Coso Junction, CA",earthquake,0.15,0.34,0.365,4,reviewed,ci,ci
-2022-07-14T19:25:01.860Z,36.434,-121.0093333,10.52,1.65,md,32,74,0.01219,0.09,nc,nc73758636,2022-07-15T02:05:42.116Z,"16km SE of Pinnacles, CA",earthquake,0.25,0.47,0.309,28,reviewed,nc,nc
