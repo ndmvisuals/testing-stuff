@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-03T10:52:58.580Z,38.3866653,-119.3375015,0.35,1.75,md,5,191,0.08887,0.01,nc,nc73763505,2022-08-03T10:54:34.732Z,"17km NNW of Bridgeport, CA",earthquake,1.63,8.16,0.12,3,automatic,nc,nc
 2022-08-03T10:13:41.052Z,38.1848,-117.9657,0.6,1.1,ml,11,134.68,0.021,0.3044,nn,nn00844071,2022-08-03T10:17:47.374Z,"26 km SSE of Mina, Nevada",earthquake,,0.1,0.18,7,automatic,nn,nn
 2022-08-03T10:10:41.940Z,35.3545,-118.6491667,9.5,0.68,ml,8,120,0.1273,0.1,ci,ci40074199,2022-08-03T10:14:11.992Z,"23km NE of Arvin, CA",earthquake,0.38,1.33,0.259,5,automatic,ci,ci
 2022-08-03T10:05:28.203Z,36.0833,30.9477,81.908,4.2,mb,57,122,1.069,0.59,us,us6000i7q8,2022-08-03T10:20:34.040Z,"59 km SE of Tekirova, Turkey",earthquake,6.18,11.148,0.11,23,reviewed,us,us
@@ -307,4 +308,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-02T11:00:43.950Z,38.8139992,-122.8136673,2.56,0.84,md,14,88,0.009793,0.02,nc,nc73763020,2022-08-02T12:47:11.664Z,"6km NW of The Geysers, CA",earthquake,0.33,0.67,,1,automatic,nc,nc
 2022-08-02T10:59:14.820Z,38.8146667,-122.8143311,2.77,0.74,md,15,55,0.009328,0.01,nc,nc73763015,2022-08-02T12:19:10.485Z,"6km NW of The Geysers, CA",earthquake,0.34,0.63,0.1,2,automatic,nc,nc
 2022-08-02T10:59:02.039Z,38.1511,-117.8976,9.6,1.2,ml,18,124.92,0.05,0.0966,nn,nn00843981,2022-08-02T19:44:49.370Z,"32 km SE of Mina, Nevada",earthquake,,0.9,0.5,5,reviewed,nn,nn
-2022-08-02T10:45:28.260Z,17.9658333333333,-66.6913333333333,12.66,2.36,md,10,216,,0.12,pr,pr71362133,2022-08-02T11:04:30.280Z,"4 km SE of Tallaboa, Puerto Rico",earthquake,1.04,0.39,0.238992515317962,6,reviewed,pr,pr
