@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-09T11:04:23.643Z,-44.51,-80.3847,10,4.8,mb,41,102,6.093,0.33,us,us6000i9bu,2022-08-09T11:24:26.040Z,"Off the coast of Aisen, Chile",earthquake,10.06,1.898,0.105,28,reviewed,us,us
 2022-08-09T10:55:42.380Z,19.338,-65.693,68,3.56,md,8,293,1.1092,0.21,pr,pr2022221000,2022-08-09T12:17:58.747Z,"101 km N of Suárez, Puerto Rico",earthquake,2.98,6.6,0.02,4,reviewed,pr,pr
 2022-08-09T10:54:35.410Z,33.248,-116.106,4.86,1.02,ml,47,52,0.1056,0.17,ci,ci40078111,2022-08-09T22:14:37.630Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.14,0.45,0.183,17,reviewed,ci,ci
-2022-08-09T10:48:49.390Z,60.6418,-151.0334,52.9,1.5,ml,,,,0.35,ak,ak022a5o0fd7,2022-08-09T10:50:56.920Z,"12 km NNE of Ridgeway, Alaska",earthquake,,1.2,,,automatic,ak,ak
