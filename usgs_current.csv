@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-29T07:40:57.840Z,19.1821670532227,-155.484664916992,33.6300010681152,2.24,ml,45,80,,0.129999995,hv,hv73124892,2022-08-29T07:46:27.470Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.53,0.660000026,0.36,4,automatic,hv,hv
 2022-08-29T07:28:26.266Z,62.46,-150.6385,32,1.5,ml,,,,0.71,ak,ak022b2ouqbm,2022-08-29T07:31:18.201Z,"7 km ESE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-29T07:24:28.734Z,58.8867,-151.6357,38.1,1.2,ml,,,,0.35,ak,ak022b2otvnt,2022-08-29T07:26:50.512Z,"52 km SSE of Port Graham, Alaska",earthquake,,8.4,,,automatic,ak,ak
 2022-08-29T07:12:42.973Z,62.3029,-149.5112,58.9,0.8,ml,,,,0.56,ak,ak022b2orc5l,2022-08-29T07:14:15.664Z,"23 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
