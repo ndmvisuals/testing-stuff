@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-09T15:44:20.653Z,36.51657867,-98.40297699,0.7926286459,2.73,ml,73,54.02867508,0.07745648175,0.7590709677,ok,ok2022rruk,2022-09-09T15:47:25.925Z,"Oklahoma",earthquake,1.576606813,1.171328187,,53,automatic,ok,ok
+2022-09-09T15:59:21.870Z,38.8370018,-122.7931671,1.65,0.85,md,10,75,0.002614,0.01,nc,nc73779796,2022-09-09T16:00:56.923Z,"6km WNW of Cobb, CA",earthquake,0.39,1.18,,1,automatic,nc,nc
+2022-09-09T15:44:20.120Z,36.50033333,-98.42366667,7.91,2.54,ml,95,65,0,0.21,ok,ok2022rruk,2022-09-09T15:54:08.405Z,"2 km ESE of Aline, Oklahoma",earthquake,,0.4,0.25,42,reviewed,ok,ok
 2022-09-09T15:27:23.400Z,19.2221660614014,-155.401000976562,31.0799999237061,2.08999991,md,33,146,,0.209999993,hv,hv73135532,2022-09-09T15:30:33.820Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.74,1.01999998,2.08999991,4,automatic,hv,hv
 2022-09-09T15:25:12.042Z,60.4564,-150.8254,12.7,1.9,ml,,,,0.75,ak,ak022bl0icck,2022-09-09T15:28:19.372Z,"6 km SW of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-09T15:08:55.290Z,38.8040009,-122.75383,0.57,0.86,md,14,103,0.0057,0.04,nc,nc73779791,2022-09-09T15:32:14.322Z,"3km N of The Geysers, CA",earthquake,0.28,0.4,0.61,4,automatic,nc,nc
@@ -87,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T05:01:08.921Z,38.7792,-117.9594,0,1,ml,9,186.53,0.291,0.2732,nn,nn00846658,2022-09-09T05:04:52.897Z,"Nevada",earthquake,,55.5,0.45,6,automatic,nn,nn
 2022-09-09T04:57:40.300Z,40.477,-121.5161667,3.74,1.85,md,12,146,0.01286,0.09,nc,nc73779581,2022-09-09T07:20:11.204Z,"14km NNE of Mineral, CA",earthquake,0.32,0.35,0.209,22,reviewed,nc,nc
 2022-09-09T04:42:17.290Z,19.1499996185303,-155.466995239258,32.3499984741211,1.84000003,md,41,163,,0.129999995,hv,hv73135037,2022-09-09T04:45:32.450Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.56,0.879999995,0.310000002,9,automatic,hv,hv
+2022-09-09T04:35:40.580Z,39.9533333,-111.3735,12.09,2.23,ml,36,63,0.2091,0.17,uu,uu60514317,2022-09-09T15:59:53.090Z,"24 km ESE of Woodland Hills, Utah",earthquake,0.43,0.68,0.155,19,reviewed,uu,uu
 2022-09-09T04:23:12.350Z,44.794,-110.8095,5.58,0.53,md,8,230,0.02974,0.1,uu,uu60514312,2022-09-09T15:43:54.620Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.16,1.32,0.195,7,reviewed,uu,uu
 2022-09-09T04:23:05.930Z,17.94,-66.9318333333333,13.97,2.22,md,5,231,,0.08,pr,pr71370658,2022-09-09T04:34:54.330Z,"Puerto Rico region",earthquake,0.79,0.96,0.000120081396316252,3,reviewed,pr,pr
 2022-09-09T04:20:14.444Z,61.3699,-150.0509,48.4,1.6,ml,,,,0.94,ak,ak022bktxias,2022-09-09T04:22:27.699Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
