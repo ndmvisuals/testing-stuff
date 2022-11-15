@@ -295,6 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T11:49:27.840Z,17.9476,-66.954,9,3.46,md,20,208,0.0797,0.1,pr,pr2022318003,2022-11-14T12:57:56.362Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.49,0.34,0.11,13,reviewed,pr,pr
 2022-11-14T11:46:49.050Z,17.9471,-66.953,9,3.6,md,22,208,0.0789,0.12,pr,pr2022318002,2022-11-14T13:48:55.106Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.45,0.52,0.16,12,reviewed,pr,pr
 2022-11-14T11:33:34.430Z,19.4088325500488,-155.274337768555,0.970000028610229,1.87,ml,17,49,,0.159999996,hv,hv73221097,2022-11-14T11:39:05.770Z,"5 km SW of Volcano, Hawaii",earthquake,0.22,0.289999992,0.22,5,automatic,hv,hv
-2022-11-14T11:28:04.400Z,34.7491667,-118.9656667,13.7,1.25,ml,17,84,0.02613,0.18,ci,ci40132231,2022-11-14T14:10:25.602Z,"8km SSW of Frazier Park, CA",earthquake,0.58,0.67,0.222,23,reviewed,ci,ci
-2022-11-14T11:24:08.889Z,39.4089,-119.9001,6.1,0.2,ml,11,67.73,0.12,0.1255,nn,nn00851247,2022-11-14T16:55:42.143Z,"10 km E of Floriston, California",earthquake,,2,0.7,4,reviewed,nn,nn
-2022-11-14T11:22:13.640Z,58.2391666666667,-155.092,1.9,0,ml,6,124,,0.12,av,av91076433,2022-11-14T23:52:16.320Z,"83 km NNW of Karluk, Alaska",earthquake,0.27,1.68,0.220177342303937,6,reviewed,av,av
