@@ -226,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T20:43:32.076Z,17.5416,-60.9673,18.258,4.5,mwr,77,83,0.791,0.83,us,us6000j6f4,2022-12-02T23:07:04.040Z,"92 km E of Codrington, Antigua and Barbuda",earthquake,3.91,5.07,0.053,34,reviewed,us,us
 2022-12-02T20:40:57.360Z,61.3121666666667,-152.2485,2.03,-0.67,ml,6,231,,0.02,av,av91725376,2022-12-03T03:54:31.940Z,"65 km WNW of Beluga, Alaska",earthquake,0.41,0.87,0.137378321431423,7,reviewed,av,av
 2022-12-02T20:37:24.266Z,-7.9295,108.0843,93.167,4.5,mb,43,67,2.416,0.89,us,us6000j6f5,2022-12-03T16:24:03.040Z,"62 km SSW of Kawalu, Indonesia",earthquake,9.44,7.56,0.097,34,reviewed,us,us
-2022-12-02T20:25:39.680Z,48.5695,-123.52616666666667,-0.25,1.21,ml,11,88,0.09421,0.42,uw,uw61897046,2022-12-02T22:17:26.930Z,"13 km NNW of Six Mile, Canada",earthquake,1.27,3.41,0.06263922795240773,6,reviewed,uw,uw
