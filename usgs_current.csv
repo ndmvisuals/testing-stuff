@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-11T23:07:59.720Z,37.6349983,-118.8379974,6.87,1.27,md,10,91,0.003402,0.05,nc,nc73817466,2022-12-11T23:16:10.263Z,"12km E of Mammoth Lakes, CA",earthquake,0.58,1.69,0.07,10,automatic,nc,nc
-2022-12-11T23:06:48.450Z,38.8370018,-122.810997,1.63,0.22,md,9,106,0.01361,0.02,nc,nc73817461,2022-12-11T23:08:24.270Z,"8km WNW of Cobb, CA",earthquake,0.41,0.75,0.13,10,automatic,nc,nc
+2022-12-11T23:06:48.450Z,38.8370018,-122.810997,1.63,0.22,md,9,106,0.01361,0.02,nc,nc73817461,2022-12-11T23:29:12.342Z,"8km WNW of Cobb, CA",earthquake,0.41,0.75,0.13,10,automatic,nc,nc
 2022-12-11T23:04:59.340Z,33.5033333,-116.4338333,7.63,0.93,ml,26,91,0.02114,0.22,ci,ci40144655,2022-12-11T23:08:23.693Z,"21km SSW of La Quinta, CA",earthquake,0.35,0.79,0.09,15,automatic,ci,ci
 2022-12-11T23:00:14.718Z,62.0904,-149.3911,44.6,1.7,ml,,,,0.32,ak,ak022fuy3qf3,2022-12-11T23:01:38.724Z,"25 km ESE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-11T22:52:54.664Z,61.4036,-153.0483,34.9,1.8,ml,,,,0.72,ak,ak022fuxtj4q,2022-12-11T22:56:12.215Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T00:16:20.874Z,59.7434,-153.1188,105.6,2.1,ml,,,,0.34,ak,ak022fuki7fr,2022-12-11T00:20:43.836Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-10T23:57:53.930Z,38.8349991,-122.8033371,1.86,1.03,md,15,68,0.0107,0.02,nc,nc73817086,2022-12-11T00:30:13.031Z,"7km WNW of Cobb, CA",earthquake,0.29,0.58,0.25,17,automatic,nc,nc
 2022-12-10T23:53:36.187Z,32.942,141.6374,10,5.1,mb,93,93,1.542,0.92,us,us6000j8hx,2022-12-11T00:12:55.040Z,"273 km SSE of Katsuura, Japan",earthquake,7.82,1.86,0.048,141,reviewed,us,us
-2022-12-10T23:31:32.310Z,19.2509994506836,-155.392669677734,30.3099994659424,1.98000002,md,33,133,,0.109999999,hv,hv73265927,2022-12-10T23:47:02.756Z,"Island of Hawaii, Hawaii",earthquake,0.6,1.41999996,1.22000003,11,automatic,hv,hv
