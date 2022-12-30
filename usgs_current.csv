@@ -152,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T13:31:38.820Z,35.9920006,-120.5488358,3.6,1.1,md,9,119,0.01767,0.07,nc,nc73826366,2022-12-29T15:32:13.488Z,"15km NW of Parkfield, CA",earthquake,0.41,0.53,0.11,4,automatic,nc,nc
 2022-12-29T13:16:48.520Z,38.8349991,-122.8188324,2.1,1.03,md,8,214,0.01346,0.01,nc,nc73826361,2022-12-29T13:48:12.869Z,"8km NW of The Geysers, CA",earthquake,1.05,0.86,0.36,9,automatic,nc,nc
 2022-12-29T13:15:46.640Z,19.2356662750244,-155.408828735352,33.1500015258789,1.75999999,md,39,134,,0.119999997,hv,hv73286442,2022-12-29T13:18:58.390Z,"Hawaii region, Hawaii",earthquake,0.58,0.720000029,0.75,3,automatic,hv,hv
-2022-12-29T13:13:37.458Z,6.2678,126.1549,140.555,5.2,mww,98,102,0.981,0.91,us,us7000j0u9,2022-12-29T23:06:22.455Z,"10 km SSW of Pondaguitan, Philippines",earthquake,8.33,2.629,0.071,19,reviewed,us,us
+2022-12-29T13:13:37.458Z,6.2678,126.1549,140.555,5.2,mww,98,102,0.981,0.91,us,us7000j0u9,2022-12-30T07:53:13.593Z,"10 km SSW of Pondaguitan, Philippines",earthquake,8.33,2.629,0.071,19,reviewed,us,us
 2022-12-29T13:04:41.397Z,63.5516,-150.8454,0,1.6,ml,,,,0.42,ak,ak022gojuk6j,2022-12-29T13:06:35.115Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-29T13:01:34.230Z,17.9566666666667,-66.9726666666667,10.5,2.08,md,13,203,0.06287,0.13,pr,pr71389568,2022-12-29T14:47:32.590Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.39,0.66,0.192600299071174,8,reviewed,pr,pr
 2022-12-29T13:00:07.560Z,38.7994995,-122.7318344,0.86,1.11,md,13,106,0.01668,0.04,nc,nc73826351,2022-12-29T13:26:13.735Z,"3km SSW of Cobb, CA",earthquake,0.23,0.51,0.2,14,automatic,nc,nc
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T08:15:13.189Z,60.9836,-147.6719,0,2.5,ml,,,,0.68,ak,ak022gogxouu,2022-12-29T20:48:10.259Z,"55 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-29T08:10:39.979Z,38.4871,-117.9726,1.3,1.2,ml,8,146.96,0.153,0.1592,nn,nn00854308,2022-12-29T08:13:51.723Z,"16 km NE of Mina, Nevada",earthquake,,5.6,0.22,3,automatic,nn,nn
 2022-12-29T08:07:52.166Z,-7.1663,122.4568,9.978,4.5,mb,35,106,1.476,0.64,us,us7000j0sv,2022-12-29T09:08:57.040Z,"Flores Sea",earthquake,6.21,3.491,0.135,18,reviewed,us,us
-2022-12-29T08:00:48.651Z,66.1965,-151.4589,5.2,1.7,ml,,,,0.79,ak,ak022gogujuw,2022-12-29T08:04:09.578Z,"65 km SE of New Allakaket, Alaska",earthquake,,0.3,,,automatic,ak,ak
