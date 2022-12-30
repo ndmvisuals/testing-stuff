@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-30T14:30:13.740Z,38.8253326,-122.8044968,2.69,1.31,md,29,45,0.004767,0.02,nc,nc73826801,2022-12-30T14:31:50.597Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,29,automatic,nc,nc
 2022-12-30T14:07:36.380Z,19.1443328857422,-155.3681640625,29.7900009155273,2.11999989,md,44,182,,0.129999995,hv,hv73287772,2022-12-30T14:10:57.550Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.63,0.870000005,1.01999998,20,automatic,hv,hv
 2022-12-30T14:02:27.604Z,60.1603,-140.9006,0,2,ml,,,,1.05,ak,ak022gq7yvs8,2022-12-30T14:04:50.819Z,"94 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-30T14:01:36.890Z,38.8180008,-122.8450012,-0.34,0.31,md,5,154,0.009314,0.03,nc,nc73826796,2022-12-30T14:18:18.828Z,"9km WNW of The Geysers, CA",earthquake,0.73,4.39,0.18,7,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T13:39:58.971Z,61.787,-149.5735,40.8,1.8,ml,,,,0.54,ak,ak022gq7lg3d,2022-12-30T13:42:38.402Z,"18 km N of Meadow Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-30T13:27:44.044Z,62.4476,-149.3082,15.9,1.7,ml,,,,0.22,ak,ak022gq7iuck,2022-12-30T13:30:02.494Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-30T13:21:49.575Z,63.1515,-150.5273,104.3,1.4,ml,,,,0.4,ak,ak022gq7hkh9,2022-12-30T13:23:51.231Z,"73 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
-2022-12-30T12:50:45.350Z,38.7768326,-122.7016678,1.92,1.35,md,9,172,0.008842,0.13,nc,nc73826791,2022-12-30T13:59:11.715Z,"1km WNW of Anderson Springs, CA",earthquake,1.14,0.66,0.29,8,automatic,nc,nc
+2022-12-30T12:50:45.350Z,38.7768326,-122.7016678,1.92,1.35,md,9,172,0.008842,0.13,nc,nc73826791,2022-12-30T14:23:15.855Z,"1km WNW of Anderson Springs, CA",earthquake,1.14,0.66,0.29,8,automatic,nc,nc
 2022-12-30T12:49:27.370Z,38.767334,-122.6963348,0.82,0.86,md,6,154,0.002451,0.01,nc,nc73826786,2022-12-30T13:06:14.400Z,"1km SSW of Anderson Springs, CA",earthquake,0.83,0.43,0.37,7,automatic,nc,nc
 2022-12-30T12:33:11.894Z,63.9947,-149.7902,9.2,1.6,ml,,,,0.53,ak,ak022gq6ymk5,2022-12-30T12:35:41.879Z,"33 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-30T12:28:38.300Z,19.2416667938232,-155.386169433594,28.5300006866455,2.54999995,md,14,151,,0.140000001,hv,hv73287677,2022-12-30T12:31:39.800Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.83,1.07000005,1.00999999,3,automatic,hv,hv
