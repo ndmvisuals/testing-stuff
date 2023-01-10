@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-10T13:00:53.090Z,38.8516655,-122.8190002,2.54,0.95,md,8,128,0.004524,0.03,nc,nc73830696,2023-01-10T13:02:29.782Z,"9km WNW of Cobb, CA",earthquake,0.96,1.76,0.33,10,automatic,nc,nc
 2023-01-10T12:24:56.660Z,19.2401676177979,-155.38932800293,30.5699996948242,2.01,ml,44,141,,0.170000002,hv,hv73300802,2023-01-10T12:30:27.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.74000001,4.13,6,automatic,hv,hv
 2023-01-10T12:22:28.140Z,38.8466682,-122.8138351,1.46,1.24,md,13,64,0.0109,0.02,nc,nc73830671,2023-01-10T12:49:15.054Z,"8km WNW of Cobb, CA",earthquake,0.27,0.55,0.27,13,automatic,nc,nc
 2023-01-10T12:19:15.040Z,38.7993317,-122.7501678,1.99,1.5,md,14,152,0.007569,0.02,nc,nc73830661,2023-01-10T12:52:13.074Z,"2km NNE of The Geysers, CA",earthquake,0.58,0.51,0.28,13,automatic,nc,nc
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-10T03:51:46.110Z,17.9565,-66.9951666666667,8.54,1.75,md,7,206,0.04843,0.08,pr,pr71391918,2023-01-10T04:24:31.070Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.53,0.81,0.0904157358213211,6,reviewed,pr,pr
 2023-01-10T03:51:41.570Z,35.7728333,-117.5811667,6.84,1.03,ml,14,161,0.04483,0.16,ci,ci40155087,2023-01-10T03:55:09.840Z,"16km W of Searles Valley, CA",earthquake,0.46,0.8,0.135,9,automatic,ci,ci
 2023-01-10T03:51:35.540Z,38.8269997,-122.8058319,1.39,1.07,md,19,42,0.004892,0.02,nc,nc73830546,2023-01-10T04:25:11.066Z,"7km NW of The Geysers, CA",earthquake,0.19,0.39,0.16,20,automatic,nc,nc
-2023-01-10T03:47:45.950Z,17.9988333333333,-66.953,11.4,1.95,md,4,240,0.06884,0.11,pr,pr71391913,2023-01-10T04:16:28.570Z,"4 km WNW of Fuig, Puerto Rico",earthquake,0.93,1.26,0.163428214446655,3,reviewed,pr,pr
+2023-01-10T03:47:45.950Z,17.9988333333333,-66.953,11.4,1.95,md,4,240,0.06884,0.11,pr,pr71391913,2023-01-10T04:16:28.570Z,"Puerto Rico region",earthquake,0.93,1.26,0.163428214446655,3,reviewed,pr,pr
 2023-01-10T03:47:40.060Z,18.0653333333333,-65.3903333333333,18.58,2.33,md,4,215,0.08842,0.2,pr,pr71391923,2023-01-10T04:34:17.470Z,"9 km ESE of Esperanza, Puerto Rico",earthquake,3.1,0.58,0.20715315511217,2,reviewed,pr,pr
 2023-01-10T03:28:15.300Z,38.8243332,-122.8054962,1.46,0.71,md,10,63,0.01818,0.01,nc,nc73830536,2023-01-10T04:01:12.922Z,"7km NW of The Geysers, CA",earthquake,0.26,1.11,0.07,10,automatic,nc,nc
 2023-01-10T03:26:10.360Z,32.171,-116.9408333,0.57,1.59,ml,10,293,0.4355,0.12,ci,ci40155079,2023-01-10T03:29:48.571Z,"6km SSW of Primo Tapia, B.C., MX",earthquake,0.99,31.61,0.147,10,automatic,ci,ci
