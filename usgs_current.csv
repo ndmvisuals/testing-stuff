@@ -171,6 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T18:06:40.180Z,58.1881666666667,-155.292333333333,1.29,-0.56,ml,6,148,,0.05,av,av91746831,2023-01-14T00:51:36.850Z,"84 km NW of Karluk, Alaska",earthquake,0.3,0.75,0.359391265058094,6,reviewed,av,av
 2023-01-13T17:55:18.485Z,58.1546,-148.414,35,2.8,ml,,,,0.99,ak,ak023lsfpig,2023-01-13T19:13:17.040Z,"214 km S of Chenega, Alaska",earthquake,,3.3,,,automatic,ak,ak
 2023-01-13T17:53:52.575Z,62.4814,-149.5851,52.8,1.4,ml,,,,0.21,ak,ak023lsfcpl,2023-01-13T17:56:06.867Z,"26 km E of Chase, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-01-13T17:43:16.230Z,19.2483329772949,-155.394668579102,31.8299999237061,1.99000001,md,30,134,,0.129999995,hv,hv73302862,2023-01-13T17:45:13.200Z,"Island of Hawaii, Hawaii",earthquake,0.63,1,1.44000006,12,automatic,hv,hv
-2023-01-13T17:41:52.640Z,58.235,-155.177333333333,3.84,0.16,ml,9,78,,0.15,av,av91746821,2023-01-14T00:36:57.450Z,"85 km NNW of Karluk, Alaska",earthquake,0.35,0.69,0.238064355815238,9,reviewed,av,av
-2023-01-13T17:41:05.160Z,51.8585,-177.863666666667,10.4,0.99,ml,4,206,,0.14,av,av91084388,2023-01-14T00:46:09.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.77,1.54,0.252879120381033,4,reviewed,av,av
