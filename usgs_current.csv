@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-20T01:30:06.031Z,63.4206,-147.3137,63.1,1.6,ml,,,,0.52,ak,ak023x3itff,2023-01-20T01:32:23.444Z,"81 km E of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-20T01:22:30.650Z,38.8253326,-122.8554993,2.06,0.67,md,15,95,0.002456,0.04,nc,nc73834236,2023-01-20T01:53:21.270Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.51,0.32,17,automatic,nc,nc
 2023-01-20T01:20:11.791Z,35.4849,80.3517,10,4.2,mb,20,246,6.123,1.12,us,us7000j5nn,2023-01-20T01:53:06.040Z,"Xinjiang-Xizang border region",earthquake,11.87,2.016,0.236,5,reviewed,us,us
-2023-01-20T01:18:07.660Z,38.7511667,-123.0948333,6.28,3.59,mw,76,85,0.06508,0.09,nc,nc73834231,2023-01-20T05:38:51.712Z,"9km SW of Cloverdale, CA",earthquake,0.13,0.55,,4,reviewed,nc,nc
+2023-01-20T01:18:07.660Z,38.7511667,-123.0948333,6.28,3.59,mw,76,85,0.06508,0.09,nc,nc73834231,2023-01-20T05:56:41.957Z,"9km SW of Cloverdale, CA",earthquake,0.13,0.55,,4,reviewed,nc,nc
 2023-01-20T01:11:39.044Z,62.953,-150.3145,72.6,1.4,ml,,,,1.27,ak,ak023x3etdc,2023-01-20T01:13:27.396Z,"55 km NNE of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-20T01:02:26.650Z,37.3765,-122.216,7.71,1.1,md,16,54,0.03264,0.05,nc,nc73834226,2023-01-20T05:04:12.383Z,"2km ESE of Portola Valley, CA",earthquake,0.25,0.38,0.173,10,reviewed,nc,nc
 2023-01-20T00:57:15.739Z,11.9085,-87.7477,37.368,4.2,mb,27,171,1.057,0.54,us,us7000j5ni,2023-01-20T02:29:26.040Z,"89 km SW of Corinto, Nicaragua",earthquake,3.34,16.143,0.158,11,reviewed,us,us
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T06:25:24.664Z,59.6649,-153.0475,99.8,1.6,ml,,,,0.96,ak,ak023vixlte,2023-01-19T06:28:57.127Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-19T06:19:05.560Z,58.1161,-155.5663,23.6,0.9,ml,,,,0.62,ak,ak023viwa1o,2023-01-19T06:20:46.833Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-01-19T06:05:27.940Z,38.8354988,-122.8078308,2.1,1.03,md,16,78,0.01221,0.02,nc,nc73833856,2023-01-19T06:26:13.382Z,"8km WNW of Cobb, CA",earthquake,0.29,0.59,0.21,18,automatic,nc,nc
-2023-01-19T05:55:24.350Z,-24.1063,-66.7243,202.01,4.6,mb,68,49,1.761,0.85,us,us7000j5f1,2023-01-19T06:36:49.040Z,"Jujuy, Argentina",earthquake,5.91,7.053,0.034,252,reviewed,us,us
-2023-01-19T05:55:23.163Z,38.613,44.7799,10,4.2,mb,23,128,1.048,0.66,us,us7000j5f2,2023-01-19T06:50:19.040Z,"Turkey-Iran border region",earthquake,5.41,1.912,0.141,14,reviewed,us,us
