@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T22:59:37.890Z,58.1926666666667,-155.27,2.8,-0.42,ml,7,138,,0.12,av,av91753281,2023-01-31T03:19:36.410Z,"84 km NW of Karluk, Alaska",earthquake,0.37,0.49,0.138345101374433,7,reviewed,av,av
 2023-01-30T22:51:32.960Z,19.492,-67.1458,28,3.74,md,15,261,1.0251,0.35,pr,pr2023030000,2023-01-30T23:29:11.772Z,"110 km N of Isabela, Puerto Rico",earthquake,1.48,22.7,0.05,11,reviewed,pr,pr
 2023-01-30T22:48:46.320Z,54.1688333333333,-166.0535,3.29,-0.21,ml,6,262,,0.1,av,av91086183,2023-01-31T03:16:19.780Z,"18 km WNW of Akutan, Alaska",earthquake,0.46,0.27,0.209833070589249,6,reviewed,av,av
-2023-01-30T22:44:41.480Z,37.4691667,-118.8755,2.92,0.93,md,15,193,0.1262,0.02,nc,nc73839956,2023-01-31T00:09:15.276Z,"20km WSW of Toms Place, CA",earthquake,0.65,1.4,0.136,13,reviewed,nc,nc
