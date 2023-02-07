@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-07T08:47:08.190Z,35.6991667,-117.5353333,2.86,0.93,ml,16,221,0.1268,0.16,ci,ci40411768,2023-02-07T08:50:37.217Z,"14km WSW of Searles Valley, CA",earthquake,0.86,2.01,0.083,10,automatic,ci,ci
+2023-02-07T08:25:47.353Z,37.9445,37.4901,10,4.5,mb,31,72,0.803,0.71,us,us6000jm71,2023-02-07T08:48:18.040Z,"4 km ESE of Nurhak, Turkey",earthquake,4.14,1.949,0.127,18,reviewed,us,us
 2023-02-07T08:18:58.724Z,60.3329,-144.5007,13.3,1.8,ml,,,,0.59,ak,ak0231qzan0w,2023-02-07T08:20:33.674Z,"73 km ESE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-07T08:13:42.200Z,34.1968333,-117.2668333,0.25,1.31,ml,28,56,0.04429,0.28,ci,ci40411760,2023-02-07T08:17:40.473Z,"5km SSE of Crestline, CA",earthquake,0.32,31.61,0.142,27,automatic,ci,ci
 2023-02-07T08:01:26.422Z,56.231,-149.284,15.058,3.3,ml,25,239,2.383,0.32,us,us6000jm6y,2023-02-07T08:37:14.040Z,"238 km SE of Chiniak, Alaska",earthquake,11.06,8.931,0.062,34,reviewed,us,us
@@ -240,5 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T09:04:16.590Z,19.193000793457,-155.392837524414,32.1800003051758,2.76999998,md,33,180,,0.119999997,hv,hv73320217,2023-02-06T09:07:27.210Z,"9 km E of Pāhala, Hawaii",earthquake,0.62,0.779999971,2.76999998,4,automatic,hv,hv
 2023-02-06T08:58:45.507Z,61.1102,-151.1627,53.9,2,ml,,,,0.75,ak,ak0231pbzu3m,2023-02-06T09:01:03.183Z,"4 km NNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-06T08:58:35.484Z,38.054,38.2569,15.265,4.5,mb,62,98,1.211,0.57,us,us6000jlpx,2023-02-06T14:34:04.040Z,"3 km NNE of Çelikhan, Turkey",earthquake,5.46,4.57,0.084,42,reviewed,us,us
-2023-02-06T08:52:37.335Z,37.449,37.2334,10,4.8,mb,58,61,0.277,0.78,us,us6000jlpv,2023-02-06T09:31:48.040Z,"7 km SW of Pazarcık, Turkey",earthquake,7.54,1.884,0.072,60,reviewed,us,us
-2023-02-06T08:51:11.930Z,38.8426666,-122.8296661,2.48,0.66,md,11,115,0.01295,0.03,nc,nc73842531,2023-02-06T11:26:13.198Z,"10km WNW of Cobb, CA",earthquake,0.33,0.99,0.24,12,automatic,nc,nc
