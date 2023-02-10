@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-10T10:04:21.940Z,64.6767,-149.1414,13.8,1.6,ml,,,,0.53,ak,ak0231vz0guq,2023-02-10T10:06:03.623Z,"8 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-10T10:00:24.030Z,38.7993317,-122.8095016,2,1.07,md,15,69,0.01208,0.02,nc,nc73844476,2023-02-10T10:02:00.789Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.56,0.24,17,automatic,nc,nc
 2023-02-10T09:52:33.850Z,38.8266678,-122.7971649,2.29,1.14,md,8,81,0.0106,0.01,nc,nc73844471,2023-02-10T09:54:10.653Z,"6km W of Cobb, CA",earthquake,0.46,0.73,0.2,11,automatic,nc,nc
 2023-02-10T09:43:09.130Z,36.1428337,-120.232666,9.99,2.22,md,26,85,0.1219,0.08,nc,nc73844466,2023-02-10T09:50:13.323Z,"11km E of Coalinga, CA",earthquake,0.42,0.54,0.17,27,automatic,nc,nc
 2023-02-10T09:36:03.436Z,59.6927,-145.2543,16.9,2.2,ml,,,,0.5,ak,ak0231vyluqf,2023-02-10T09:38:23.206Z,"98 km SSE of Cordova, Alaska",earthquake,,0.6,,,automatic,ak,ak
