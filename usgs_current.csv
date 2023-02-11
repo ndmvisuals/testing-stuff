@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-11T18:01:06.505Z,65.0133,-149.1019,0,1.1,ml,,,,0.56,ak,ak0231xralsm,2023-02-11T18:04:11.212Z,"19 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-11T17:45:25.447Z,58.2583,-154.9802,0.8,1.4,ml,,,,0.48,ak,ak0231xqyn7h,2023-02-11T17:47:49.861Z,"82 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-11T17:35:47.901Z,59.9646,-153.569,119.9,2.4,ml,,,,0.49,ak,ak0231xqwjs6,2023-02-11T17:38:03.806Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-11T17:23:34.945Z,61.3159,-150.4844,35,2.2,ml,,,,0.73,ak,ak0231xqty6u,2023-02-11T17:30:29.608Z,"25 km S of Susitna, Alaska",earthquake,,2.1,,,automatic,ak,ak
