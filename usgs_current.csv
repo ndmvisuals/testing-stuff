@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:49:38.339Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
+2023-02-17T08:54:46.962Z,61.524,-149.915,34.9,1.4,ml,,,,0.65,ak,ak02327ivsu0,2023-02-17T08:56:40.086Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-17T08:46:00.150Z,34.125,-117.4716667,6.24,1.61,ml,51,33,0.03727,0.22,ci,ci40415616,2023-02-17T08:58:55.468Z,"3km NNW of Fontana, CA",earthquake,0.26,0.67,0.16,26,automatic,ci,ci
 2023-02-17T08:39:47.321Z,62.1426,-147.8462,35.7,1.2,ml,,,,0.66,ak,ak02327isl4c,2023-02-17T08:41:55.835Z,"38 km NNW of Glacier View, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-02-17T08:35:22.045Z,18.9673,-65.9228,46.566,3.3,ml,15,237,0.672,0.31,us,us6000jpjm,2023-02-17T08:46:04.040Z,"58 km NNE of San Juan, Puerto Rico",earthquake,6.51,17.925,0.066,30,reviewed,us,us
 2023-02-17T08:09:36.040Z,35.8886667,-117.6605,2.43,2.39,ml,21,81,0.08896,0.16,ci,ci40415608,2023-02-17T08:20:23.780Z,"23km ESE of Little Lake, CA",earthquake,0.25,0.52,0.173,26,automatic,ci,ci
@@ -17,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T06:57:58.361Z,63.1131,-144.4623,0,1.1,ml,,,,0.83,ak,ak02327hpllx,2023-02-17T07:03:33.391Z,"41 km WNW of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-17T06:55:48.840Z,50.4455,-129.6254,10,4.6,mb,65,159,1.983,0.73,us,us6000jpja,2023-02-17T07:44:00.414Z,"180 km W of Port McNeill, Canada",earthquake,7.47,1.804,0.036,235,reviewed,us,us
 2023-02-17T06:41:23.664Z,60.292,-150.8956,56.4,1.6,ml,,,,0.96,ak,ak02327hm3im,2023-02-17T06:43:26.946Z,"21 km ESE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-17T06:35:49.890Z,38.8338318,-122.8048325,2.05,1.01,md,18,53,0.0112,0.01,nc,nc73847616,2023-02-17T07:01:14.047Z,"7km W of Cobb, CA",earthquake,0.23,0.46,0.1,20,automatic,nc,nc
+2023-02-17T06:35:49.890Z,38.8338318,-122.8048325,2.05,1.01,md,18,53,0.0112,0.01,nc,nc73847616,2023-02-17T08:51:13.659Z,"7km W of Cobb, CA",earthquake,0.23,0.46,0.1,20,automatic,nc,nc
 2023-02-17T06:32:50.757Z,61.9441,-150.29,21.7,1.5,ml,,,,0.19,ak,ak02327hk85v,2023-02-17T06:34:35.937Z,"25 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-17T06:24:28.333Z,63.2138,-151.3004,8.1,1.7,ml,,,,0.82,ak,ak02327higpd,2023-02-17T06:26:36.427Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-17T06:14:58.090Z,32.8886667,-116.2343333,5.72,1.8,ml,40,65,0.08773,0.19,ci,ci40415560,2023-02-17T06:18:29.681Z,"28km NW of Ocotillo, CA",earthquake,0.24,1.51,0.181,29,automatic,ci,ci
@@ -124,10 +125,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T17:42:09.644Z,61.6329,-146.449,36.7,1.6,ml,,,,0.47,ak,ak023260mpb8,2023-02-16T17:43:45.708Z,"43 km SSE of Nelchina, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-16T17:41:20.841Z,63.106,-150.6483,118.4,1.6,ml,,,,0.17,ak,ak023260migk,2023-02-16T17:43:21.198Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-16T17:34:58.062Z,61.6171,-149.8355,72.3,1.4,ml,,,,0.66,ak,ak023260l3bi,2023-02-16T17:37:06.855Z,"1 km SSW of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-02-16T17:30:39.380Z,44.7915,-110.8106667,5.71,0.66,md,11,187,0.02854,0.14,uu,uu60531406,2023-02-16T20:14:45.190Z,"Wyoming",earthquake,0.58,0.97,0.369,8,reviewed,uu,uu
+2023-02-16T17:30:39.380Z,44.7915,-110.8106667,5.71,0.66,md,11,187,0.02854,0.14,uu,uu60531406,2023-02-16T20:14:45.190Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.58,0.97,0.369,8,reviewed,uu,uu
 2023-02-16T17:27:04.220Z,44.4833333,-110.4488333,3.21,-0.23,md,4,156,0.08398,0.13,uu,uu60032684,2023-02-16T20:13:10.240Z,"55 km ESE of West Yellowstone, Montana",earthquake,0.53,31.61,0.243,2,reviewed,uu,uu
 2023-02-16T17:26:32.670Z,44.7773333,-110.815,5.4,1.47,ml,17,90,0.02757,0.19,uu,uu60531401,2023-02-16T20:11:04.520Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.43,1.06,0.276,3,reviewed,uu,uu
-2023-02-16T17:25:47.110Z,44.799,-110.8101667,7.24,0.91,md,13,189,0.03064,0.13,uu,uu60531396,2023-02-16T20:07:26.340Z,"Yellowstone National Park, Wyoming",earthquake,0.57,0.75,0.227,10,reviewed,uu,uu
+2023-02-16T17:25:47.110Z,44.799,-110.8101667,7.24,0.91,md,13,189,0.03064,0.13,uu,uu60531396,2023-02-16T20:07:26.340Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.57,0.75,0.227,10,reviewed,uu,uu
 2023-02-16T17:14:19.870Z,17.9391666666667,-66.8966666666667,11.53,2.08,md,6,218,0.03935,0.09,pr,pr71396488,2023-02-16T17:25:07.190Z,"Puerto Rico region",earthquake,0.67,0.33,0.0391759524728093,5,reviewed,pr,pr
 2023-02-16T16:54:51.460Z,35.8835,-117.6536667,4.23,1.46,ml,14,106,0.06703,0.14,ci,ci40415344,2023-02-16T19:26:53.608Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.57,0.115,14,reviewed,ci,ci
 2023-02-16T16:54:05.189Z,60.5519,-151.053,52.5,1.6,ml,,,,0.61,ak,ak0232603tye,2023-02-16T16:56:24.480Z,"2 km NE of Ridgeway, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -230,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T09:04:19.224Z,37.4105,-115.4706,0,1.2,ml,8,130.3,0.321,0.1102,nn,nn00856140,2023-02-16T17:38:45.497Z,"27 km W of Alamo, Nevada",earthquake,,0,0.05,3,reviewed,nn,nn
 2023-02-16T09:04:05.790Z,33.4455,-117.1163333,11.88,0.54,ml,25,46,0.04713,0.13,ci,ci40415224,2023-02-16T16:00:58.296Z,"6km SSE of Temecula, CA",earthquake,0.2,0.5,0.244,5,reviewed,ci,ci
 2023-02-16T09:00:52.907Z,63.2463,-150.4274,30.5,1.6,ml,,,,1.04,ak,ak02325vmbqi,2023-02-16T09:02:52.322Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-02-16T08:56:36.520Z,38.1613,-118.237,12.4,1.1,ml,7,72.38,0.202,0.0971,nn,nn00856139,2023-02-16T17:26:17.622Z,"California-Nevada border region",earthquake,,3.3,0.24,4,reviewed,nn,nn
-2023-02-16T08:51:42.680Z,38.8333321,-122.8075027,2.28,0.26,md,9,90,0.01012,0.01,nc,nc73847201,2023-02-16T09:43:18.052Z,"7km W of Cobb, CA",earthquake,0.43,1.52,0.16,8,automatic,nc,nc
-2023-02-16T08:50:43.520Z,34.0478333,-117.2566667,14.32,1.06,ml,33,46,0.1126,0.18,ci,ci40415216,2023-02-16T14:30:26.713Z,"0km E of Loma Linda, CA",earthquake,0.28,0.66,0.144,28,reviewed,ci,ci
