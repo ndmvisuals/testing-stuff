@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-17T07:50:09.960Z,38.8318329,-122.8148346,1.81,0.71,md,12,67,0.00921,0.03,nc,nc73847636,2023-02-17T07:51:44.859Z,"8km NW of The Geysers, CA",earthquake,0.27,0.61,0.12,14,automatic,nc,nc
 2023-02-17T07:45:08.900Z,35.8891667,-117.6621667,2.25,1.35,ml,14,144,0.09015,0.15,ci,ci40415592,2023-02-17T07:48:44.996Z,"23km ESE of Little Lake, CA",earthquake,0.3,0.44,0.138,14,automatic,ci,ci
-2023-02-17T07:44:25.740Z,38.7936668,-122.7279968,1.92,1.1,md,15,96,0.01245,0.02,nc,nc73847631,2023-02-17T07:46:00.157Z,"3km NE of The Geysers, CA",earthquake,0.29,0.64,0.17,15,automatic,nc,nc
+2023-02-17T07:44:25.740Z,38.7936668,-122.7279968,1.92,1.1,md,15,96,0.01245,0.02,nc,nc73847631,2023-02-17T08:02:11.400Z,"3km NE of The Geysers, CA",earthquake,0.29,0.64,0.17,15,automatic,nc,nc
 2023-02-17T07:31:20.670Z,35.9505,-117.6676667,4.49,1.02,ml,13,139,0.1189,0.09,ci,ci40415584,2023-02-17T07:34:48.955Z,"22km E of Little Lake, CA",earthquake,0.32,0.54,0.174,11,automatic,ci,ci
 2023-02-17T07:28:59.290Z,33.8635,-118.8725,18.94,1.75,ml,8,267,0.2191,0.38,ci,ci40415576,2023-02-17T07:32:43.223Z,"17km SSW of Malibu, CA",earthquake,3.88,6.45,0.305,31,automatic,ci,ci
 2023-02-17T07:06:07.944Z,65.3265,-149.9902,9.3,1.4,ml,,,,0.45,ak,ak02327hzzui,2023-02-17T07:13:46.412Z,"21 km SSE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-16T08:32:36.440Z,53.8795,-166.460666666667,6.06,-0.11,ml,6,273,,0.17,av,av91089098,2023-02-17T03:24:04.150Z,"4 km E of Unalaska, Alaska",earthquake,0.78,0.78,0.142077674632988,6,reviewed,av,av
 2023-02-16T08:27:50.420Z,35.9031667,-117.6908333,4.46,1.48,ml,21,79,0.1119,0.1,ci,ci40415208,2023-02-16T17:08:18.609Z,"20km E of Little Lake, CA",earthquake,0.16,0.36,0.099,12,reviewed,ci,ci
 2023-02-16T08:09:21.740Z,32.919,-116.2421667,6,1.07,ml,28,87,0.06253,0.19,ci,ci40415200,2023-02-16T14:31:06.710Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.27,1.08,0.139,17,reviewed,ci,ci
-2023-02-16T07:57:19.630Z,35.6883333,-117.5326667,10.98,0.7,ml,16,95,0.1376,0.16,ci,ci40415192,2023-02-16T17:03:20.828Z,"15km SW of Searles Valley, CA",earthquake,0.31,0.63,0.081,5,reviewed,ci,ci
