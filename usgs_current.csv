@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-05T19:25:43.975Z,-16.1554,-73.4448,57.215,5.1,mb,88,122,3.694,0.71,us,us7000jhhu,2023-03-05T19:43:34.040Z,"19 km ENE of Atico, Peru",earthquake,8.62,6.998,0.03,358,reviewed,us,us
 2023-03-05T19:13:25.140Z,56.8547,-158.208,0,2.5,ml,,,,1.16,ak,ak0232y5saci,2023-03-05T19:15:25.484Z,"27 km ESE of Port Heiden, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-05T19:02:16.658Z,-17.9405,-174.8544,256.519,4.9,mb,64,49,1.075,1.14,us,us7000jhhp,2023-03-05T19:26:31.040Z,"121 km NW of Neiafu, Tonga",earthquake,6.24,6.902,0.054,108,reviewed,us,us
 2023-03-05T18:59:48.283Z,61.6551,-149.788,12.6,1.2,ml,,,,0.78,ak,ak0232y5grgs,2023-03-05T19:01:43.492Z,"3 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -171,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T20:30:32.171Z,59.8593,-152.8992,99.2,1.8,ml,,,,0.26,ak,ak0232wiy169,2023-03-04T20:32:15.848Z,"60 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-04T20:18:07.203Z,-16.789,-172.8379,46.486,5.2,mb,48,77,2.156,1.31,us,us7000jhd8,2023-03-04T20:40:31.040Z,"137 km SE of Hihifo, Tonga",earthquake,7.03,7.49,0.1,36,reviewed,us,us
 2023-03-04T20:00:31.020Z,37.5834999,-118.8503342,3.99,1.52,md,12,210,0.01808,0.02,nc,nc73855446,2023-03-04T21:31:14.112Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.8,0.57,0.14,11,automatic,nc,nc
-2023-03-04T19:34:00.880Z,34.0451667,-117.2501667,22.71,0.98,ml,25,72,0.07299,0.28,ci,ci40420968,2023-03-04T19:37:32.785Z,"1km ESE of Loma Linda, CA",earthquake,0.5,1.16,0.242,18,automatic,ci,ci
