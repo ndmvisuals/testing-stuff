@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-10T08:29:42.030Z,17.811,-66.75,4.34,2.82,md,8,264,0.2044,0.1,pr,pr71399008,2023-03-10T08:50:20.800Z,"20 km S of Tallaboa, Puerto Rico",earthquake,0.68,0.54,0.171754950827975,4,reviewed,pr,pr
 2023-03-10T08:20:34.280Z,36.4433333,-117.9155,4.38,1.94,ml,16,124,0.1328,0.17,ci,ci40182727,2023-03-10T08:31:30.180Z,"20km NNE of Olancha, CA",earthquake,0.5,1.46,0.126,17,automatic,ci,ci
 2023-03-10T08:10:17.130Z,33.4688333,-116.5576667,8.88,1.08,ml,40,51,0.04529,0.19,ci,ci40182719,2023-03-10T08:21:18.770Z,"14km SE of Anza, CA",earthquake,0.23,0.47,0.183,27,automatic,ci,ci
 2023-03-10T07:57:56.170Z,34.0008333,-116.9721667,11.01,0.84,ml,15,63,0.09727,0.15,ci,ci40182711,2023-03-10T08:01:31.565Z,"8km ESE of Yucaipa, CA",earthquake,0.28,0.59,0.067,20,automatic,ci,ci
@@ -416,5 +417,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T09:04:39.625Z,60.18,-142.1668,0,1.3,ml,,,,1.03,ak,ak02334lxfy2,2023-03-09T09:06:40.059Z,"145 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-09T09:00:55.030Z,33.6893333,-116.8046667,16.34,1.47,ml,79,22,0.06926,0.17,ci,ci40182103,2023-03-09T16:21:52.770Z,"10km SW of Idyllwild, CA",earthquake,0.13,0.27,0.205,48,reviewed,ci,ci
 2023-03-09T08:59:09.457Z,62.9466,-148.2919,13.3,1.1,ml,,,,0.53,ak,ak02334lnqe9,2023-03-09T09:00:43.638Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-09T08:44:32.838Z,56.1899,-157.7254,39.9,2,ml,,,,0.34,ak,ak02334lkkgj,2023-03-09T08:46:15.152Z,"43 km ESE of Chignik, Alaska",earthquake,,9.1,,,automatic,ak,ak
-2023-03-09T08:42:14.841Z,57.6791,-156.5022,125.5,1.9,ml,,,,0.41,ak,ak02334lk3n0,2023-03-09T08:45:17.037Z,"56 km ENE of Ugashik, Alaska",earthquake,,2.1,,,automatic,ak,ak
