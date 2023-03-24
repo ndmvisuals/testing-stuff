@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-24T22:39:42.250Z,33.1848333,-116.4098333,10.28,1.57,ml,59,30,0.08337,0.24,ci,ci40189599,2023-03-24T22:43:20.553Z,"8km SSW of Borrego Springs, CA",earthquake,0.26,0.69,0.14,26,automatic,ci,ci
+2023-03-24T22:37:55.560Z,36.1834984,-120.7721634,2.47,1.89,md,17,139,0.04,0.13,nc,nc73861790,2023-03-24T22:39:32.582Z,"22km NNE of San Ardo, CA",earthquake,0.75,1.75,0.06,9,automatic,nc,nc
+2023-03-24T22:31:03.410Z,36.7019997,-121.3421631,3.54,1.71,md,13,148,0.006473,0.09,nc,nc73861785,2023-03-24T22:46:09.830Z,"10km SSW of Tres Pinos, CA",earthquake,0.47,0.68,0.27,13,automatic,nc,nc
 2023-03-24T21:51:56.285Z,63.5705,-147.3584,0,2.2,ml,,,,0.58,ak,ak0233tmeyjw,2023-03-24T21:54:02.382Z,"79 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-24T21:50:07.570Z,17.9621666666667,-66.9691666666667,9.1,2.15,md,6,195,0.05846,0.1,pr,pr71401463,2023-03-24T22:00:05.230Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.97,0.0132257722705891,3,reviewed,pr,pr
+2023-03-24T21:49:46.800Z,51.8568333333333,-178.084666666667,3.25,1.53,ml,5,207,,0.17,av,av91818101,2023-03-24T22:42:34.570Z,"99 km W of Adak, Alaska",earthquake,0.66,0.49,0.175619115938914,5,reviewed,av,av
 2023-03-24T21:44:08.700Z,33.1893333,-116.4061667,11.35,1.09,ml,31,74,0.07919,0.18,ci,ci40189567,2023-03-24T21:47:45.961Z,"8km SSW of Borrego Springs, CA",earthquake,0.29,0.44,0.179,22,automatic,ci,ci
 2023-03-24T21:39:32.880Z,33.1875,-116.398,10.42,1.06,ml,33,65,0.08207,0.23,ci,ci40189559,2023-03-24T21:43:07.352Z,"8km SSW of Borrego Springs, CA",earthquake,0.38,0.78,0.145,23,automatic,ci,ci
 2023-03-24T21:29:04.930Z,19.2721672058105,-155.391830444336,-0.709999978542328,2.37,ml,35,124,,0.310000002,hv,hv73348447,2023-03-24T21:44:17.040Z,"11 km NE of Pāhala, Hawaii",earthquake,0.56,0.280000001,0.26,14,automatic,hv,hv
@@ -25,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T19:23:37.340Z,44.804,-110.9683333,7.33,-0.15,md,6,172,0.05216,0.06,uu,uu60535036,2023-03-24T20:01:45.690Z,"17 km ENE of Hebgen Lake Estates, Montana",earthquake,0.56,1.12,0.224,4,reviewed,uu,uu
 2023-03-24T18:56:15.900Z,33.1831667,-116.4096667,10.47,1.8,ml,58,31,0.08504,0.23,ci,ci40189487,2023-03-24T20:26:50.850Z,"9km SSW of Borrego Springs, CA",earthquake,0.26,0.64,0.148,26,automatic,ci,ci
 2023-03-24T18:55:38.730Z,33.1836667,-116.406,9.78,1.75,ml,51,31,0.08482,0.26,ci,ci40189479,2023-03-24T21:17:50.297Z,"8km SSW of Borrego Springs, CA",earthquake,0.3,0.81,0.158,25,automatic,ci,ci
-2023-03-24T18:55:37.070Z,38.8311653,-122.8141632,1.75,1.3,md,27,48,0.008391,0.02,nc,nc73861690,2023-03-24T20:05:19.737Z,"8km NW of The Geysers, CA",earthquake,0.18,0.33,0.11,27,automatic,nc,nc
+2023-03-24T18:55:37.070Z,38.8311653,-122.8141632,1.75,1.3,md,27,48,0.008391,0.02,nc,nc73861690,2023-03-24T22:49:14.854Z,"8km NW of The Geysers, CA",earthquake,0.18,0.33,0.11,27,automatic,nc,nc
 2023-03-24T18:44:42.450Z,47.3685,-117.87966666666667,-0.66,2.17,ml,13,58,0.1655,0.96,uw,uw61904677,2023-03-24T21:37:56.070Z,"10 km NE of Sprague, Washington",explosion,2.25,31.61,0.03736012427452984,5,reviewed,uw,uw
 2023-03-24T18:43:41.250Z,19.2508333333333,-155.376666666667,5.64,2.5,ml,25,161,,0.11,hv,hv73348337,2023-03-24T20:43:41.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.44,0.82,0.243839062959337,19,reviewed,hv,hv
 2023-03-24T18:39:14.007Z,57.1052,-155.9494,4.9,2.1,ml,,,,0.89,ak,ak0233tkjzvs,2023-03-24T18:41:11.894Z,"98 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -317,6 +321,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-23T22:55:37.810Z,34.4948333,-116.4936667,4.22,1.35,ml,22,59,0.1617,0.1,ci,ci40188855,2023-03-24T00:15:01.770Z,"40km SW of Ludlow, CA",earthquake,0.18,0.7,0.146,19,reviewed,ci,ci
 2023-03-23T22:52:59.800Z,36.107,-117.8896667,4.52,1.78,ml,22,79,0.0301,0.14,ci,ci40188847,2023-03-24T00:10:24.690Z,"9km NE of Coso Junction, CA",earthquake,0.24,0.28,0.186,22,reviewed,ci,ci
 2023-03-23T22:51:02.730Z,19.5005,-155.468166666667,6.02,2.48,ml,33,71,,0.11,hv,hv73347417,2023-03-23T23:59:24.580Z,"25 km WNW of Volcano, Hawaii",earthquake,0.3,0.83,0.168352458011637,11,reviewed,hv,hv
-2023-03-23T22:49:50.530Z,58.2046666666667,-155.2035,5.06,-0.1,ml,8,112,,0.16,av,av91817181,2023-03-23T23:18:05.490Z,"83 km NNW of Karluk, Alaska",earthquake,0.37,1.14,0.258350277635647,8,reviewed,av,av
-2023-03-23T22:35:16.390Z,38.5471667,-122.5636667,9.85,1.4,md,48,44,0.1102,0.11,nc,nc73861255,2023-03-24T20:31:13.867Z,"4km SSE of Calistoga, CA",earthquake,0.2,0.57,0.198,42,reviewed,nc,nc
-2023-03-23T22:32:36.350Z,19.2534999847412,-155.391006469727,31.1599998474121,1.82000005,md,28,133,,0.129999995,hv,hv73347412,2023-03-23T22:35:50.540Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.75,0.779999971,1.36000001,8,automatic,hv,hv
