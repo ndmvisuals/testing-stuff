@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T07:26:34.980Z,34.0981667,-118.1868333,10.02,1.81,ml,37,72,0.06198,0.24,ci,ci40189975,2023-03-26T07:30:21.852Z,"3km SSE of Highland Park, CA",earthquake,0.35,0.7,0.206,26,automatic,ci,ci
-2023-03-26T07:11:27.745Z,31.6471,-104.3549,8.793,3.2,ml,25,109,0.126,0.38,us,us7000jmtm,2023-03-26T07:18:38.040Z,"western Texas",earthquake,1.93,8.38,0.06,62,reviewed,us,us
+2023-03-26T07:34:52.970Z,38.8376656,-122.8356705,1.75,0.74,md,6,98,0.0009331,0.01,nc,nc73862445,2023-03-26T07:36:26.928Z,"10km NW of The Geysers, CA",earthquake,0.52,0.78,0.47,7,automatic,nc,nc
+2023-03-26T07:26:34.980Z,34.0981667,-118.1868333,10.02,1.81,ml,37,72,0.06198,0.24,ci,ci40189975,2023-03-26T07:37:24.330Z,"3km SSE of Highland Park, CA",earthquake,0.35,0.7,0.206,26,automatic,ci,ci
+2023-03-26T07:11:27.633Z,31.63829301,-104.3496446,6.697143555000001,3.3,ml,29,71,0.07250576178,0.3,tx,tx2023fyan,2023-03-26T07:37:19.985Z,"western Texas",earthquake,1.2403122520000003,1.272505356,0.1,22,reviewed,tx,tx
 2023-03-26T06:55:50.410Z,59.7214,-153.485,121.1,2,ml,,,,0.23,ak,ak0233wokzvl,2023-03-26T07:05:56.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T06:45:48.684Z,62.1433,-147.7803,20.5,1.4,ml,,,,1.27,ak,ak0233woiul0,2023-03-26T06:48:09.623Z,"37 km N of Glacier View, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-26T06:38:37.828Z,63.3357,-145.5293,0,1.7,ml,,,,0.51,ak,ak0233wohbqe,2023-03-26T06:41:20.497Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T04:43:49.523Z,21.5254,121.4208,10,4.4,mb,33,123,1.324,0.57,us,us7000jmt2,2023-03-26T06:31:29.479Z,"87 km SE of Hengchun, Taiwan",earthquake,6.23,1.896,0.12,21,reviewed,us,us
 2023-03-26T04:31:12.719Z,61.7512,-150.3888,11.3,1.6,ml,,,,0.58,ak,ak0233wn8wkn,2023-03-26T04:33:04.900Z,"18 km W of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T04:07:41.730Z,38.8214989,-122.805336,2.79,1.04,md,22,40,0.004157,0.02,nc,nc73862380,2023-03-26T04:27:16.198Z,"6km NW of The Geysers, CA",earthquake,0.23,0.58,0.11,22,automatic,nc,nc
-2023-03-26T04:06:48.245Z,54.3886,-159.7074,35,3.3,ml,26,199,1.061,0.92,us,us7000jmsz,2023-03-26T04:24:22.040Z,"south of Alaska",earthquake,7.67,2.021,0.088,17,reviewed,us,us
+2023-03-26T04:06:48.245Z,54.3886,-159.7074,35,3.3,ml,26,199,1.061,0.92,us,us7000jmsz,2023-03-26T04:24:22.040Z,"117 km SSE of Sand Point, Alaska",earthquake,7.67,2.021,0.088,17,reviewed,us,us
 2023-03-26T04:05:49.700Z,38.8216667,-122.8036652,3.38,2.36,md,45,34,0.005295,0.06,nc,nc73862375,2023-03-26T06:22:15.798Z,"6km NW of The Geysers, CA",earthquake,0.19,0.27,0.19,47,automatic,nc,nc
 2023-03-26T03:58:11.610Z,19.3243,-67.9091,30,3.73,md,14,269,0.9379,0.43,pr,pr2023085002,2023-03-26T05:15:38.764Z,"97 km NNE of Punta Cana, Dominican Republic",earthquake,3.19,27.91,0.07,7,reviewed,pr,pr
 2023-03-26T03:54:14.443Z,59.4769,-152.8309,89.5,1.8,ml,,,,0.28,ak,ak0233wmsf6n,2023-03-26T03:56:15.917Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T07:53:35.451Z,58.4359,-155.4444,124.2,1.7,ml,,,,0.4,ak,ak0233v1mmcu,2023-03-25T07:56:23.379Z,"76 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-25T07:48:32.420Z,51.866,-178.081333333333,-1.8,1.28,ml,4,193,,0.14,av,av91818441,2023-03-25T22:20:05.220Z,"99 km W of Adak, Alaska",earthquake,0.97,1.74,0.314293395321683,4,reviewed,av,av
 2023-03-25T07:42:18.769Z,60.4907,-146.7128,14.1,2,ml,,,,0.71,ak,ak0233v1k88k,2023-03-25T07:44:26.945Z,"41 km S of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-25T07:38:12.707Z,59.9656,-147.0436,0.7,2.6,ml,,,,0.86,ak,ak0233v1jcwm,2023-03-25T08:22:45.040Z,"55 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
