@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T16:52:37.330Z,37.6156654,-119.0090027,0.82,0.77,md,9,158,0.01019,0.02,nc,nc73972501,2023-12-06T16:54:13.967Z,"4 km SW of Mammoth Lakes, CA",earthquake,0.99,0.86,0.31,8,automatic,nc,nc
 2023-12-06T16:15:50.262Z,31.575,-103.91,4.9715,1.7,ml,15,91,0.1,0.2,tx,tx2023xwpt,2023-12-06T16:32:03.386Z,"western Texas",earthquake,0,1.253704304,0.1,13,automatic,tx,tx
 2023-12-06T15:59:45.980Z,36.006,-117.8098333,3.18,1.29,ml,25,101,0.02347,0.13,ci,ci40616880,2023-12-06T16:05:42.770Z,"12 km NE of Little Lake, CA",earthquake,0.2,0.27,0.175,11,automatic,ci,ci
 2023-12-06T15:55:11.321Z,58.2701,-153.8872,54.8,2.8,ml,,,,0.74,ak,ak023fmjzaff,2023-12-06T16:00:43.674Z,"62 km WNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -66,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T04:42:37.810Z,38.7886658,-122.7505035,3.63,0.77,md,12,108,0.01206,0.02,nc,nc73972411,2023-12-06T07:10:13.346Z,"1 km NNE of The Geysers, CA",earthquake,0.38,0.98,0.31,13,automatic,nc,nc
 2023-12-06T04:38:26.570Z,32.7386667,-115.8805,1.68,1.77,ml,47,35,0.09748,0.23,ci,ci40616784,2023-12-06T04:47:01.183Z,"11 km E of Ocotillo, CA",earthquake,0.2,0.39,0.188,26,automatic,ci,ci
 2023-12-06T04:38:12.790Z,32.7423333,-115.8721667,-0.08,0.91,ml,3,203,0.1036,0.09,ci,ci40616776,2023-12-06T04:44:27.822Z,"11 km E of Ocotillo, CA",earthquake,0.51,8.44,0.158,6,automatic,ci,ci
-2023-12-06T04:30:22.170Z,32.7360001,-115.8793335,8.53,3.67,mlr,100,29,0.09537,0.29,ci,ci40616768,2023-12-06T06:17:14.616Z,"11 km E of Ocotillo, CA",earthquake,0.25,0.81,0.309,15,reviewed,ci,ci
+2023-12-06T04:30:22.080Z,32.737,-115.8783333,9.29,3.65,ml,69,29,0.09661,0.25,ci,ci40616768,2023-12-06T16:53:56.507Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.57,0.136,134,reviewed,ci,ci
 2023-12-06T04:28:39.229Z,35.104,-97.49716667,0.25,0.8,ml,12,89,0.03689276038,0.28,ok,ok2023xvsk,2023-12-06T15:38:43.988Z,"4 km SSW of Goldsby, Oklahoma",earthquake,,0.6,0.25,6,reviewed,ok,ok
 2023-12-06T04:20:29.290Z,32.7343333,-115.8733333,4.36,1.71,ml,40,35,0.0959,0.21,ci,ci40616760,2023-12-06T04:27:07.084Z,"11 km E of Ocotillo, CA",earthquake,0.21,0.67,0.181,26,automatic,ci,ci
 2023-12-06T04:15:36.320Z,32.7375,-115.8808333,4.79,1.78,ml,42,37,0.09629,0.23,ci,ci40616752,2023-12-06T15:47:36.530Z,"10 km E of Ocotillo, CA",earthquake,0.22,0.64,0.173,27,reviewed,ci,ci
@@ -181,13 +182,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T18:13:17.930Z,31.742,-104.115,6.4401,2,ml,28,44,0,0.1,tx,tx2023xuyc,2023-12-05T23:15:39.138Z,"49 km W of Mentone, Texas",earthquake,0.5694291596,0.6942340389,0.2,16,reviewed,tx,tx
 2023-12-05T18:12:47.390Z,38.8071671,-122.7714996,1.41,0.94,md,14,81,0.009408,0.05,nc,nc73972196,2023-12-05T20:35:13.669Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.49,0.24,14,automatic,nc,nc
 2023-12-05T18:10:32.918Z,12.0707,47.3968,10,4.5,mb,85,50,4.487,0.5,us,us7000lgh7,2023-12-05T21:52:36.040Z,"Gulf of Aden",earthquake,5.12,1.8,0.065,78,reviewed,us,us
-2023-12-05T18:09:49.325Z,8.9826,126.9131,43.977,4.5,mb,85,44,2.315,0.63,us,us7000lgh5,2023-12-05T20:22:39.040Z,"67 km E of Aras-asan, Philippines",earthquake,9.66,6.951,0.067,76,reviewed,us,us
+2023-12-05T18:09:49.325Z,8.9826,126.9131,43.977,4.5,mb,85,44,2.315,0.63,us,us7000lgh5,2023-12-05T20:22:39.040Z,"Mindanao, Philippines",earthquake,9.66,6.951,0.067,76,reviewed,us,us
 2023-12-05T18:00:07.140Z,48.23233333333334,-121.6525,11.74,0.63,md,5,188,0.03417,0.21,uw,uw61966357,2023-12-05T20:55:52.250Z,"Washington",earthquake,1.53,1.56,0.33977176855469005,4,reviewed,uw,uw
 2023-12-05T17:55:19.772Z,63.101,-150.4596,29.7,1.8,ml,,,,0.98,ak,ak023fkxmull,2023-12-05T17:56:53.982Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-05T17:52:42.020Z,38.793499,-122.7826691,3.56,0.6,md,12,104,0.004114,0.02,nc,nc73972191,2023-12-05T20:04:13.467Z,"3 km NW of The Geysers, CA",earthquake,0.44,0.86,0.15,14,automatic,nc,nc
 2023-12-05T17:41:27.623Z,64.6296,-147.6839,9.4,1.3,ml,,,,0.69,ak,ak023fkxjv6i,2023-12-05T17:43:30.259Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-05T17:33:21.864Z,8.95,126.6158,53.701,4.8,mb,132,55,2.132,0.59,us,us7000lgfs,2023-12-05T19:33:15.270Z,"Mindanao, Philippines",earthquake,9.14,6.649,0.051,129,reviewed,us,us
-2023-12-05T17:27:42.758Z,31.655,-104.36,4.4683,1.5,ml,17,70,0.1,0.3,tx,tx2023xuwp,2023-12-05T18:13:35.997Z,"57 km S of Whites City, New Mexico",earthquake,0,1.245240592,0.2,12,automatic,tx,tx
+2023-12-05T17:27:42.677Z,31.669,-104.367,6.5943,1.5,ml,16,69,0.1,0.2,tx,tx2023xuwp,2023-12-06T16:46:34.200Z,"western Texas",earthquake,1.117194287,1.070976759,0.1,6,reviewed,tx,tx
 2023-12-05T17:21:56.270Z,31.659,-104.359,7.3141,2.2,ml,22,58,0.1,0.2,tx,tx2023xuwm,2023-12-05T19:15:45.325Z,"57 km S of Whites City, New Mexico",earthquake,0.7921870839,0.926390039,0.1,13,reviewed,tx,tx
 2023-12-05T17:18:04.107Z,12.1546,47.4024,10,4.4,mb,63,111,4.503,0.64,us,us7000lgfp,2023-12-05T17:51:45.040Z,"Gulf of Aden",earthquake,6.19,1.894,0.075,56,reviewed,us,us
 2023-12-05T17:17:59.040Z,33.947,-117.9688333,7.11,1.15,ml,19,187,0.03754,0.23,ci,ci40616360,2023-12-05T21:48:34.416Z,"2 km SW of La Habra Heights, CA",earthquake,0.53,0.47,0.252,11,reviewed,ci,ci
