@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-11T17:41:01.750Z,33.0141667,-116.3048333,10.3,1.33,ml,54,40,0.05942,0.2,ci,ci40685632,2024-03-11T17:47:13.767Z,"22 km SW of Ocotillo Wells, CA",earthquake,0.18,0.42,0.239,29,automatic,ci,ci
+2024-03-11T17:34:17.816Z,62.5064,-151.213,95.8,1.4,ml,,,,1.56,ak,ak02439phc2d,2024-03-11T17:42:39.002Z,"23 km W of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-03-11T17:27:58.140Z,38.8269997,-122.8526688,2.45,0.73,md,9,144,0.003329,0.01,nc,nc74015726,2024-03-11T17:29:30.369Z,"10 km WNW of The Geysers, CA",earthquake,0.49,1.14,0.26,11,automatic,nc,nc
+2024-03-11T17:22:08.960Z,37.0616684,-121.508667,11.57,1.32,md,9,78,0.04106,0.07,nc,nc74015721,2024-03-11T17:23:45.313Z,"8 km NE of Gilroy, CA",earthquake,0.62,1.68,0.1,7,automatic,nc,nc
 2024-03-11T17:10:24.410Z,38.7943344,-122.7471695,1.37,0.29,md,10,94,0.01164,0.02,nc,nc74015716,2024-03-11T17:12:00.167Z,"2 km NNE of The Geysers, CA",earthquake,0.27,1.7,0.08,9,automatic,nc,nc
 2024-03-11T17:09:45.200Z,38.7938347,-122.7481689,1.78,1.77,md,34,46,0.01128,0.05,nc,nc74015711,2024-03-11T17:13:09.777Z,"2 km NNE of The Geysers, CA",earthquake,0.2,0.32,0.12,33,automatic,nc,nc
 2024-03-11T16:57:18.110Z,19.216833114624,-155.578994750977,-0.46000000834465,1.70000005,md,27,82,0.04478,0.300000012,hv,hv74133916,2024-03-11T16:58:53.830Z,"10 km W of Pāhala, Hawaii",earthquake,0.5,0.419999987,0.370000005,4,automatic,hv,hv
@@ -207,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-10T18:04:38.164Z,-29.2116,-72.6169,10,4.8,mb,34,149,1.392,1,us,us7000m4kd,2024-03-10T18:50:21.040Z,"148 km NW of Coquimbo, Chile",earthquake,5.18,1.915,0.105,28,reviewed,us,us
 2024-03-10T17:56:58.580Z,19.1748332977295,-155.486663818359,34.0999984741211,2.1099999,md,35,139,0.0302,0.140000001,hv,hv74133201,2024-03-10T17:58:37.590Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.56,0.730000019,0.170000002,4,automatic,hv,hv
 2024-03-10T17:54:24.179Z,35.24516667,-97.75733333,4.3,1.09,ml,37,79,0.007198587392,0.31,ok,ok2024exld,2024-03-11T13:00:18.868Z,"2 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.29,13,reviewed,ok,ok
-2024-03-10T17:20:01.772Z,31.8278,141.8007,10,4.8,mb,56,122,2.114,0.62,us,us7000m4ka,2024-03-10T17:46:16.040Z,"Izu Islands, Japan region",earthquake,10.27,1.882,0.045,150,reviewed,us,us
