@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-22T13:44:51.940Z,35.7976685,-117.7574997,6.94,1.43,ml,27,88,0.01241,0.13,ci,ci40521967,2024-03-22T13:47:11.656Z,"18 km NNE of Inyokern, CA",earthquake,0.28,0.59,0.124,6,automatic,ci,ci
+2024-03-22T13:37:05.320Z,34.2983333,-116.7635,2.41,1.49,ml,48,40,0.1351,0.11,ci,ci40521959,2024-03-22T13:48:10.630Z,"9 km ENE of Big Bear City, CA",earthquake,0.12,0.49,0.196,30,automatic,ci,ci
 2024-03-22T12:31:10.038Z,61.0048,-151.8842,28.5,1.6,ml,,,,0.55,ak,ak0243rtebq3,2024-03-22T12:33:52.530Z,"40 km W of Tyonek, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2024-03-22T12:19:00.430Z,38.8288345,-122.819664,1,0.76,md,6,131,0.009253,0.04,nc,nc74022071,2024-03-22T12:20:37.365Z,"8 km NW of The Geysers, CA",earthquake,0.55,1.4,0.35,8,automatic,nc,nc
 2024-03-22T12:13:31.850Z,33.882,-116.8505,11.77,0.6,ml,32,79,0.06547,0.13,ci,ci40521871,2024-03-22T12:19:25.225Z,"5 km SSE of Banning, CA",earthquake,0.18,0.42,0.124,11,automatic,ci,ci
@@ -102,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T02:43:17.930Z,37.996666,-121.6326675,7.42,1.46,md,7,178,0.2081,0.05,nc,nc74021846,2024-03-22T02:44:58.123Z,"2 km SSE of Bethel Island, CA",earthquake,3.44,8.47,,1,automatic,nc,nc
 2024-03-22T02:39:22.850Z,38.8266678,-122.7758331,1.87,0.44,md,6,110,0.005984,0.05,nc,nc74021841,2024-03-22T02:40:54.406Z,"5 km W of Cobb, CA",earthquake,0.66,0.73,0.23,8,automatic,nc,nc
 2024-03-22T02:36:28.606Z,62.6874,-149.589,59,1.3,ml,,,,0.97,ak,ak0243rnh3os,2024-03-22T02:38:24.831Z,"37 km NE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-03-22T02:32:02.956Z,31.681,-104.198,6.0999,2,ml,23,68,0.1,0.2,tx,tx2024fseu,2024-03-22T11:32:13.013Z,"55 km NW of Toyah, Texas",earthquake,0.471871399055218,0.6227036753902117,0.1,18,reviewed,tx,tx
+2024-03-22T02:32:02.956Z,31.681,-104.198,6.0999,2,ml,23,68,0.1,0.2,tx,tx2024fseu,2024-03-22T13:24:46.443Z,"55 km NW of Toyah, Texas",earthquake,0.471871399055218,0.6227036753902117,0.1,18,reviewed,tx,tx
 2024-03-22T02:31:55.344Z,61.7274,-150.8484,0,2,ml,,,,0.94,ak,ak0243rng366,2024-03-22T02:34:09.969Z,"27 km NW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-22T02:30:45.960Z,38.8359985,-122.8099976,1.86,0.66,md,7,80,0.01554,0.01,nc,nc74021836,2024-03-22T02:32:20.258Z,"8 km WNW of Cobb, CA",earthquake,0.6,1.78,0.31,8,automatic,nc,nc
 2024-03-22T02:25:15.878Z,61.0368,-146.5347,13.9,1.3,ml,,,,0.73,ak,ak0243rneptv,2024-03-22T02:27:20.687Z,"14 km SW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -231,8 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T13:51:35.810Z,60.0041666666667,-153.098,1.1,-0.79,ml,5,113,,0.08,av,av92237816,2024-03-21T22:50:07.360Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.27,1.02,0.112465370152515,5,reviewed,av,av
 2024-03-21T13:50:56.520Z,36.9633333,-121.5986667,3.92,0.83,md,17,66,0.01554,0.1,nc,nc74021406,2024-03-21T22:51:59.598Z,"5 km SSW of Gilroy, CA",earthquake,0.23,0.32,0.174,13,reviewed,nc,nc
 2024-03-21T13:50:10.530Z,19.2689990997314,-155.383834838867,30.2399997711182,1.95000005,md,41,129,0.06408,0.150000006,hv,hv74144122,2024-03-21T13:52:00.530Z,"12 km NE of Pāhala, Hawaii",earthquake,0.46,0.660000026,0.389999986,9,automatic,hv,hv
-2024-03-21T13:49:42.000Z,34.1606667,-117.5695,11.33,1.03,ml,19,80,0.04501,0.12,ci,ci40520735,2024-03-21T20:00:14.487Z,"4 km NNE of Rancho Cucamonga, CA",earthquake,0.2,0.25,0.291,7,reviewed,ci,ci
-2024-03-21T13:47:00.236Z,37.8776,-117.6056,0.6,1.1,ml,6,347,1.015,0.1951,nn,nn00875174,2024-03-22T02:04:48.233Z,"13 km N of Silver Peak, Nevada",earthquake,,6.3,0.56,5,reviewed,nn,nn
-2024-03-21T13:46:18.030Z,38.8076668,-122.8213348,3.49,0.81,md,8,108,0.006244,0.01,nc,nc74021401,2024-03-21T13:47:52.680Z,"7 km WNW of The Geysers, CA",earthquake,0.66,2.35,0.12,9,automatic,nc,nc
-2024-03-21T13:35:29.195Z,40.3594,-119.7914,13.9,0.6,ml,4,292.68,0.195,0.0356,nn,nn00875173,2024-03-22T02:04:45.313Z,"37 km NE of Herlong, California",earthquake,,4.7,0.48,2,reviewed,nn,nn
-2024-03-21T13:33:35.710Z,38.8373337,-122.7890015,2,0.72,md,12,80,0.001501,0.01,nc,nc74021396,2024-03-21T13:35:12.592Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.52,0.2,12,automatic,nc,nc
