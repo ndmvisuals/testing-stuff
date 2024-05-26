@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-26T05:41:56.920Z,19.5270004272461,-156.06916809082,13.6199998855591,2.35,ml,31,270,0.2703,0.230000004,hv,hv74248326,2024-05-26T05:44:34.040Z,"12 km WSW of Kahaluu-Keauhou, Hawaii",earthquake,4.18,20.7800007,0.61,5,automatic,hv,hv
+2024-05-26T06:21:47.930Z,38.8414993286133,-122.807830810547,0.389999985694885,1.84,md,14,135,0.03488,0.09,nc,nc75012256,2024-05-26T06:23:23.201Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.13999999,0.13,13,automatic,nc,nc
+2024-05-26T06:20:53.410Z,38.8346672058105,-122.8056640625,2.29999995231628,2.59,md,40,40,0.02786,0.09,nc,nc75012251,2024-05-26T06:24:50.040Z,"7 km WNW of Cobb, CA",earthquake,0.15,0.479999989,0.16,48,automatic,nc,nc
+2024-05-26T05:41:38.630Z,19.9073333333333,-157.413,7.55,3.48,ml,54,222,1.277,0.2,hv,hv74248326,2024-05-26T06:22:08.000Z,"113 km SSW of Lanai City, Hawaii",earthquake,0.99,0.97,0.120904362914725,9,reviewed,hv,hv
 2024-05-26T05:34:08.880Z,33.5876667,-116.8073333,8.05,0.34,ml,17,70,0.03658,0.15,ci,ci40600703,2024-05-26T05:39:59.624Z,"13 km WNW of Anza, CA",earthquake,0.33,0.56,0.204,7,automatic,ci,ci
 2024-05-26T05:27:11.360Z,18.2411666666667,-66.4195,38.19,2.58,md,14,63,0.09407,0.09,pr,pr71450428,2024-05-26T05:41:47.430Z,"3 km WNW of Orocovis, Puerto Rico",earthquake,0.41,0.63,0.14875158112673,6,reviewed,pr,pr
 2024-05-26T05:05:36.104Z,-22.0671,-179.5636,570.182,4.5,mb,66,38,4.154,0.79,us,us6000n11n,2024-05-26T05:24:56.040Z,"south of the Fiji Islands",earthquake,7.83,8.263,0.04,182,reviewed,us,us
@@ -107,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T12:29:07.707Z,28.634,-98.29,5.4672,2.2,ml,20,52,0,0.8,tx,tx2024kfwr,2024-05-25T13:21:34.805Z,"21 km NNW of Three Rivers, Texas",earthquake,0,1.92419399132484,0.1,16,automatic,tx,tx
 2024-05-25T12:22:13.685Z,66.1242,-149.1471,10.9,1.5,ml,,,,0.66,ak,ak0246pnqm60,2024-05-25T12:24:30.195Z,"13 km N of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T12:02:47.495Z,-37.9567,-74.0036,11.876,4.7,mwr,37,144,1.37,0.72,us,us6000n0y7,2024-05-25T12:35:52.040Z,"49 km SW of Lebu, Chile",earthquake,6.31,4.571,0.071,19,reviewed,us,us
+2024-05-25T11:56:12.583Z,-14.9676,-72.1447,107.103,4.3,mb,29,122,3.653,0.76,us,us6000n0y5,2024-05-26T05:50:29.040Z,"35 km SSW of Cayarani, Peru",earthquake,4.48,9.021,0.102,27,reviewed,us,us
 2024-05-25T11:54:12.279Z,31.597,-104.531,4.0803,1.5,ml,17,155,0.1,0.2,tx,tx2024kfvn,2024-05-25T12:35:28.209Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.05833036703084,0.1,12,automatic,tx,tx
 2024-05-25T11:53:07.793Z,59.9946,-151.117,44.4,1.5,ml,,,,0.71,ak,ak0246pnbtaz,2024-05-25T11:54:48.072Z,"17 km NNW of Fox River, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-05-25T11:52:45.521Z,-4.7914,133.898,10,4.6,mb,26,92,2.483,0.9,us,us6000n0y4,2024-05-25T12:44:28.040Z,"157 km NE of Tual, Indonesia",earthquake,5.12,1.892,0.129,18,reviewed,us,us
@@ -147,8 +150,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T06:53:53.370Z,19.0248,-68.1301,19,3.52,md,13,210,0.5694,0.48,pr,pr2024146000,2024-05-25T07:54:13.466Z,"56 km NNE of Punta Cana, Dominican Republic",earthquake,2.57,5.41,0.13,12,reviewed,pr,pr
 2024-05-25T06:43:44.504Z,59.9959,-140.2101,4.3,1.5,ml,,,,1.06,ak,ak0246pkakya,2024-05-25T06:46:36.284Z,"56 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T06:32:13.655Z,60.0524,-152.8334,124.5,1.1,ml,,,,0.62,ak,ak0246pk85jk,2024-05-25T06:35:18.772Z,"62 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-25T06:27:30.234Z,60.9164,-150.7727,36.1,1.4,ml,,,,0.53,ak,ak0246pk74e7,2024-05-25T06:29:21.758Z,"4 km W of Point Possession, Alaska",earthquake,,6.7,,,automatic,ak,ak
-2024-05-25T06:27:10.271Z,28.625,-98.28,6.9149,1.6,ml,11,70,0,0.6,tx,tx2024kfks,2024-05-25T06:59:27.511Z,"20 km NNW of Three Rivers, Texas",earthquake,0,2.68267104542996,0.1,9,automatic,tx,tx
-2024-05-25T06:27:06.952Z,38.1661,-117.9801,9.7,0.9,ml,8,117.74999999999997,0.033,0.0872,nn,nn00878129,2024-05-25T21:55:04.364Z,"27 km SSE of Mina, Nevada",earthquake,,1.1,0.25,4,reviewed,nn,nn
-2024-05-25T06:03:39.338Z,61.4245,-149.9103,19.5,2.1,ml,,,,0.87,ak,ak0246pk1zws,2024-05-25T06:06:36.952Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-25T05:55:51.733Z,0.8071,131.704,10,4.8,mb,53,138,3.741,0.68,us,us6000n0wr,2024-05-25T06:12:48.040Z,"176 km NE of Waisai, Indonesia",earthquake,9.83,1.894,0.086,42,reviewed,us,us
