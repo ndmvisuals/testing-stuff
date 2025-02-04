@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-04T22:28:31.728Z,35.13379288,-98.07666779,6.641482353,2.35,ml,26,102.608139,0.08370555192,0.8994644436,ok,ok2025clvp,2025-02-04T22:31:38.010Z,"5 km N of Verden, Oklahoma",earthquake,2.519594795,2.761811471,0.26,24,automatic,ok,ok
+2025-02-04T22:32:53.442Z,64.8277,-149.0789,27.2,0.8,ml,,,,1.08,ak,ak0251m93no9,2025-02-04T22:35:12.628Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-02-04T22:28:32.070Z,35.12866667,-98.08066667,9.88,1.91,ml,99,56,0,0.28,ok,ok2025clvp,2025-02-04T23:08:25.348Z,"5 km N of Verden, Oklahoma",earthquake,,1.1,0.23,38,reviewed,ok,ok
 2025-02-04T22:08:24.700Z,33.3048333,-117.4541667,2.49,0.78,ml,25,189,0.1143,0.19,ci,ci40179666,2025-02-04T22:12:13.428Z,"11 km NW of Camp Pendleton South, CA",earthquake,0.76,0.56,0.137,10,automatic,ci,ci
 2025-02-04T21:56:13.878Z,65.4442,-148.2385,11.5,0.8,ml,,,,0.14,ak,ak0251m8na5n,2025-02-04T21:58:05.359Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-04T21:54:18.578Z,64.5889,-149.215,0,1.8,ml,,,,0.87,ak,ak0251m8mv1i,2025-02-04T21:56:41.499Z,"4 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-04T13:28:32.480Z,58.1769,-155.2386,0.1,0.6,ml,,,,0.6,ak,ak0251m3pupc,2025-02-04T21:50:45.320Z,"82 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-04T13:19:20.310Z,33.3623333,-116.6795,14.04,0.58,ml,38,29,0.09934,0.17,ci,ci40179450,2025-02-04T15:17:19.885Z,"10 km NNW of Warner Springs, CA",earthquake,0.18,0.5,0.146,16,reviewed,ci,ci
 2025-02-04T13:15:13.720Z,61.4872,-146.421,117.8,2.8,ml,,,,1.07,ak,ak0251m3n0y4,2025-02-04T13:17:49.120Z,"39 km N of Valdez, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-02-04T13:13:39.140Z,19.395000457764,-155.47782897949,6.3200001716614,2.31,ml,54,28,0.02998,0.209999993,hv,hv74608252,2025-02-04T13:16:47.620Z,"21 km N of Pāhala, Hawaii",earthquake,0.27,0.469999999,0.73,15,automatic,hv,hv
+2025-02-04T13:13:38.980Z,19.391,-155.48016666667,8.46,2.74,md,44,38,0.0287,0.12,hv,hv74608252,2025-02-04T22:51:18.590Z,"20 km N of Pāhala, Hawaii",earthquake,0.25,0.55,0.2534635047514,16,reviewed,hv,hv
 2025-02-04T13:04:13.366Z,36.4572,25.5722,10,5.3,mww,101,74,1.292,0.66,us,us7000pb82,2025-02-04T20:39:38.283Z,"12 km ENE of Mesariá, Greece",earthquake,5.97,1.862,0.048,41,reviewed,us,us
 2025-02-04T12:54:45.190Z,38.793167114258,-122.75150299072,0.81999999284744,0.72,md,9,205,0.009829,0.03,nc,nc75127846,2025-02-04T12:56:19.704Z,"2 km NNE of The Geysers, CA",earthquake,0.54,0.560000002,0.24,10,automatic,nc,nc
 2025-02-04T12:52:35.566Z,63.1259,-150.2496,32.7,1.8,ml,,,,1.07,ak,ak0251m39kis,2025-02-04T12:56:52.003Z,"71 km WSW of Cantwell, Alaska",earthquake,,2.3,,,automatic,ak,ak
@@ -115,6 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-04T10:35:48.333Z,36.6579,25.6513,10,4.2,mb,45,101,1.5,0.52,us,us7000pb7n,2025-02-04T14:24:29.040Z,"29 km SW of Amorgós, Greece",earthquake,4.83,1.886,0.11,23,reviewed,us,us
 2025-02-04T10:35:46.206Z,60.914,-152.1805,65.7,1.7,ml,,,,1.14,ak,ak0251m1z1wd,2025-02-04T10:38:17.066Z,"54 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-04T10:31:39.370Z,38.83150100708,-122.81366729736,1.6100000143051,1.17,md,15,136,0.008567,0.01,nc,nc75127806,2025-02-04T10:34:22.683Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.569999993,0.27,16,automatic,nc,nc
+2025-02-04T10:20:56.470Z,38.7695,-122.72966666667,1.16,0.36,md,4,180,0.008744,0.03,nc,nc75127801,2025-02-04T22:51:39.975Z,"2 km ESE of The Geysers, CA",earthquake,0.55,1.14,0.117,3,reviewed,nc,nc
 2025-02-04T10:09:07.490Z,46.202,-122.18,7.17,-0.19,md,7,97,0.004223,0.09,uw,uw62065672,2025-02-04T18:01:49.950Z,"38 km NNE of Amboy, Washington",earthquake,0.64,0.83,0.18888097716829,5,reviewed,uw,uw
 2025-02-04T10:02:54.540Z,38.821998596191,-122.81199645996,2.8599998950958,1.6,md,28,40,0.002049,0.02,nc,nc75127796,2025-02-04T10:07:25.270Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.419999987,0.12,26,automatic,nc,nc
 2025-02-04T09:57:34.090Z,37.275,-119.40983333333,28.56,1.96,md,17,94,0.04669,0.13,nc,nc75127791,2025-02-04T12:48:05.748Z,"11 km ENE of North Fork, CA",earthquake,0.43,0.64,0.184,9,reviewed,nc,nc
@@ -188,14 +190,18 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-04T03:03:52.289Z,36.6262,25.6369,10,4,mb,16,103,1.467,1.12,us,us7000pb5l,2025-02-04T03:12:52.040Z,"29 km NE of Firá, Greece",earthquake,4.35,1.553,0.134,15,reviewed,us,us
 2025-02-04T02:58:43.400Z,32.9765,-116.3058333,9.45,0.82,ml,39,40,0.02194,0.18,ci,ci40179322,2025-02-04T15:18:48.344Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.18,0.41,0.188,19,reviewed,ci,ci
 2025-02-04T02:49:27.610Z,32.8603333,-116.1348333,14.84,0.75,ml,19,95,0.0753,0.19,ci,ci40179314,2025-02-04T15:34:52.631Z,"19 km NW of Ocotillo, CA",earthquake,0.4,0.7,0.205,13,reviewed,ci,ci
+2025-02-04T02:47:47.780Z,61.272333333333,-152.2565,2.18,-1.11,ml,5,200,0.04952,0.11,av,av93483196,2025-02-04T23:03:22.500Z,"64 km WNW of Tyonek, Alaska",earthquake,0.58,1.49,0.19775865487998,5,reviewed,av,av
 2025-02-04T02:46:06.292Z,36.5816,25.636,10,5.1,mww,27,100,1.426,0.89,us,us7000pb5h,2025-02-04T13:24:46.399Z,"25 km NE of Firá, Greece",earthquake,5.47,1.941,0.098,10,reviewed,us,us
 2025-02-04T02:38:04.780Z,61.273,-152.25833333333,3.01,-0.31,ml,6,164,0.05049,0.08,av,av93031774,2025-02-04T21:32:35.010Z,"64 km WNW of Tyonek, Alaska",earthquake,0.33,0.47,0.13870522426386,7,reviewed,av,av
 2025-02-04T02:37:37.634Z,61.2634,-152.211,7.3,1,ml,,,,0.44,ak,ak0251lx80w3,2025-02-04T21:29:39.080Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-02-04T02:31:30.660Z,61.2735,-152.25933333333,3.2,0.19,ml,8,165,0.05105,0.07,av,av93483176,2025-02-04T21:22:11.970Z,"64 km WNW of Tyonek, Alaska",earthquake,0.28,0.39,0.12150622171929,8,reviewed,av,av
+2025-02-04T02:31:30.660Z,61.273166666667,-152.259,3.21,0.19,ml,8,164,0.05084,0.07,av,av93483176,2025-02-04T22:36:44.820Z,"64 km WNW of Tyonek, Alaska",earthquake,0.26,0.37,0.12150622171929,8,reviewed,av,av
+2025-02-04T02:31:19.010Z,58.1865,-155.30416666667,1.13,-0.31,ml,5,153,0.02676,0.13,av,av93031794,2025-02-04T22:42:31.550Z,"85 km NW of Karluk, Alaska",earthquake,0.54,1.18,0.23121731478684,5,reviewed,av,av
 2025-02-04T02:30:47.824Z,58.798,-153.3814,220.5,2.3,ml,,,,0.97,ak,ak0251lx6jny,2025-02-04T02:33:29.013Z,"86 km NNW of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-02-04T02:24:13.130Z,60.0063,-152.0672,85.4,1.6,ml,,,,0.21,ak,ak0251lx56ox,2025-02-04T02:25:44.561Z,"19 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-02-04T02:23:47.150Z,61.303333333333,-152.23533333333,1.28,-0.63,ml,6,257,0.05429,0.17,av,av93031799,2025-02-04T22:55:20.130Z,"64 km WNW of Beluga, Alaska",earthquake,0.87,1.87,0.24252523948692,6,reviewed,av,av
 2025-02-04T02:10:14.110Z,37.6305,-118.84633333333,3.85,0.24,md,10,109,0.00817,0.04,nc,nc75127716,2025-02-04T09:12:38.830Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.52,0.71,0.19,8,reviewed,nc,nc
 2025-02-04T02:02:15.890Z,33.6653333,-116.7765,15.2,0.92,ml,46,39,0.06913,0.16,ci,ci40179306,2025-02-04T15:20:10.400Z,"10 km SSW of Idyllwild, CA",earthquake,0.17,0.33,0.165,29,reviewed,ci,ci
+2025-02-04T01:42:40.780Z,61.270666666667,-152.25983333333,3.16,-1.04,ml,6,160,0.05092,0.04,av,av93031789,2025-02-04T22:34:13.990Z,"64 km WNW of Tyonek, Alaska",earthquake,0.33,0.51,0.11426576883777,6,reviewed,av,av
 2025-02-04T01:42:17.630Z,61.272333333333,-152.25933333333,3.13,-0.59,ml,7,162,0.05088,0.06,av,av93483151,2025-02-04T22:28:57.380Z,"64 km WNW of Tyonek, Alaska",earthquake,0.26,0.4,0.11979241985649,7,reviewed,av,av
 2025-02-04T01:40:33.545Z,-38.94,-92.496,10,5.7,mww,100,70,12.223,0.83,us,us7000pb59,2025-02-04T17:48:20.040Z,"West Chile Rise",earthquake,10.83,1.868,0.047,44,reviewed,us,us
 2025-02-04T01:37:30.440Z,58.117,-155.20166666667,4.84,-0.26,ml,6,242,0.02648,0.07,av,av93031784,2025-02-04T22:21:45.270Z,"75 km NW of Karluk, Alaska",earthquake,0.59,0.4,0.32426535737008,7,reviewed,av,av
@@ -229,13 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-03T23:41:09.240Z,60.034166666667,-153.07283333333,-2.09,-0.33,ml,5,129,0.02372,0.06,av,av93483036,2025-02-04T08:01:03.960Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.22,2.62,0.37405073766455,5,reviewed,av,av
 2025-02-03T23:35:58.740Z,57.02,-135.6475,5.38,1.18,ml,6,199,0.04133,0.1,av,av93483031,2025-02-04T04:55:50.580Z,"19 km W of Sitka, Alaska",earthquake,0.94,1.07,0.27752106344571,5,reviewed,av,av
 2025-02-03T23:31:41.720Z,34.5771667,-118.03,9.54,1.73,ml,48,40,0.04999,0.14,ci,ci40179218,2025-02-04T00:54:55.400Z,"6 km E of Palmdale, CA",earthquake,0.14,0.31,0.169,26,reviewed,ci,ci
-2025-02-03T23:07:55.810Z,60.0385,-153.07366666667,0.71,-0.37,ml,5,125,0.01958,0.13,av,av93483001,2025-02-04T07:55:13.160Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.31,0.91,0.25916193418433,5,reviewed,av,av
-2025-02-03T23:07:50.960Z,38.788501739502,-122.7620010376,1.960000038147,1.44,md,17,64,0.01224,0.02,nc,nc75127641,2025-02-03T23:10:43.184Z,"1 km  of The Geysers, CA",earthquake,0.26,0.479999989,0.16,14,automatic,nc,nc
-2025-02-03T23:07:32.851Z,43.3042,11.3608,10.646,2.4,ml,11,138,0.235,0.53,us,us7000pb8c,2025-02-04T15:13:44.085Z,"2 km ESE of Siena, Italy",earthquake,2.68,4.538,0.081,20,reviewed,us,us
-2025-02-03T23:00:28.053Z,61.2315,-147.0882,8.6,1.4,ml,,,,0.39,ak,ak0251klytv9,2025-02-03T23:02:15.902Z,"41 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-03T22:59:17.609Z,34.37666667,-97,0,1.17,ml,26,121,0.3455321948,0.39,ok,ok2025ckbc,2025-02-04T13:21:44.239Z,"5 km ESE of Dougherty, Oklahoma",quarry blast,,0.7,0.29,9,reviewed,ok,ok
-2025-02-03T22:58:24.885Z,39.3941,-81.3887,10,2.8,mb_lg,17,60,0.093,0.21,us,us7000pb4c,2025-02-04T15:28:48.145Z,"2 km NNE of Reno, Ohio",earthquake,1.12,1.546,0.058,79,reviewed,us,us
-2025-02-03T22:56:09.036Z,64.7945,-149.0585,18.3,1.2,ml,,,,0.63,ak,ak0251klpcw7,2025-02-03T22:57:55.084Z,"21 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-03T22:46:21.280Z,60.516833333333,-152.77266666667,1.23,-0.92,ml,4,255,0.04627,0.08,av,av93482991,2025-02-04T07:44:28.920Z,"80 km NW of Ninilchik, Alaska",earthquake,0.67,0.39,0.060210150914736,3,reviewed,av,av
-2025-02-03T22:41:38.300Z,61.304166666667,-152.45483333333,4.98,-0.66,ml,6,312,0.06032,0.13,av,av93031769,2025-02-04T07:49:50.480Z,"75 km WNW of Tyonek, Alaska",earthquake,1.7,0.96,0.17626773881702,5,reviewed,av,av
-2025-02-03T22:36:01.170Z,45.093,-111.70716666667,-2,1.51,ml,13,116,0.1204,0.16,mb,mb90072103,2025-02-03T22:56:59.330Z,"28 km S of Ennis, Montana",quarry blast,0.66,31.61,0.08231510307369,7,reviewed,mb,mb
