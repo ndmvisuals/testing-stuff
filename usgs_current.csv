@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-13T10:05:32.700Z,38.823665618896,-122.81099700928,1.3799999952316,0.71,md,12,55,0.00077,0.01,nc,nc75209142,2025-07-13T10:07:09.632Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.829999983,0.44,13,automatic,nc,nc
+2025-07-13T10:05:04.050Z,34.828,-116.3985,4.19,1.28,ml,22,73,0.05226,0.17,ci,ci41021631,2025-07-13T10:08:33.769Z,"25 km WNW of Ludlow, CA",earthquake,0.26,0.5,0.189,16,automatic,ci,ci
+2025-07-13T10:03:58.640Z,36.09,-117.8645,6.6,0.99,ml,16,77,0.02861,0.14,ci,ci41021623,2025-07-13T10:07:30.354Z,"9 km ENE of Coso Junction, CA",earthquake,0.23,0.33,0.106,18,automatic,ci,ci
+2025-07-13T10:03:21.070Z,34.8296667,-116.3971667,4.38,2.01,ml,30,67,0.05114,0.16,ci,ci41021615,2025-07-13T10:07:04.756Z,"25 km WNW of Ludlow, CA",earthquake,0.19,0.42,0.152,26,automatic,ci,ci
+2025-07-13T09:59:20.340Z,33.2665,-116.4215,4.9,0.62,ml,45,52,0.004012,0.21,ci,ci41021607,2025-07-13T10:03:13.730Z,"4 km WNW of Borrego Springs, CA",earthquake,0.18,0.34,0.156,14,automatic,ci,ci
+2025-07-13T09:42:40.986Z,61.0207,-148.2099,15.4,1.3,ml,,,,0.88,ak,ak0258wzvbhe,2025-07-13T09:44:01.073Z,"37 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-13T09:36:48.633Z,65.0028,-148.9232,7.5,1,ml,,,,1.06,ak,ak0258wzu1rz,2025-07-13T09:38:40.354Z,"25 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-13T09:15:55.558Z,39.3575,-119.9976,2.2,1.3,ml,19,62.62,0.071,0.2809,nn,nn00900502,2025-07-13T09:17:49.709Z,"4 km SSE of Floriston, California",earthquake,,0.7,0.35,13,automatic,nn,nn
 2025-07-13T09:02:03.970Z,33.2296667,-116.737,11.74,0.66,ml,44,33,0.01929,0.15,ci,ci41021591,2025-07-13T09:05:30.309Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.16,0.42,0.204,18,automatic,ci,ci
 2025-07-13T08:46:56.740Z,32.8885,-115.9745,10.8,0.98,ml,36,37,0.004779,0.19,ci,ci41021583,2025-07-13T08:50:22.184Z,"17 km N of Ocotillo, CA",earthquake,0.19,0.42,0.141,11,automatic,ci,ci
@@ -256,11 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T10:21:55.710Z,44.5705,-112.48216666667,8.29,1.63,ml,17,72,0.06681,0.12,mb,mb90101993,2025-07-12T14:22:51.430Z,"11 km SE of Lima, Montana",earthquake,0.29,0.73,0.17131111236686,30,reviewed,mb,mb
 2025-07-12T10:17:50.280Z,36.532666666667,-121.08266666667,4.94,0.66,md,17,107,0.05741,0.14,nc,nc75208772,2025-07-12T18:14:39.797Z,"5 km E of Pinnacles, CA",earthquake,0.44,1.44,0.319,15,reviewed,nc,nc
 2025-07-12T10:15:08.660Z,46.8465,-121.76883333333,-0.02,0.36,ml,14,79,0.01712,0.06,uw,uw62140217,2025-07-12T17:29:50.490Z,"22 km ENE of Ashford, Washington",earthquake,0.28,0.99,0.1662951617947,9,reviewed,uw,uw
-2025-07-12T10:04:32.970Z,19.208833694458,-155.49482727051,31.569999694824,1.95,ml,55,75,0.03953,0.150000006,hv,hv74723152,2025-07-12T10:08:12.970Z,"1 km WNW of Pāhala, Hawaii",earthquake,0.44,0.589999974,0.69,6,automatic,hv,hv
-2025-07-12T09:53:58.653Z,62.3071,-148.9523,27.7,2.7,ml,,,,0.72,ak,ak0258vced8n,2025-07-12T17:28:21.767Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-12T09:49:59.560Z,36.069,-117.861,1.87,0.79,ml,23,82,0.04873,0.14,ci,ci41020959,2025-07-12T09:53:27.291Z,"8 km ENE of Coso Junction, CA",earthquake,0.16,0.21,0.181,16,automatic,ci,ci
-2025-07-12T09:48:10.992Z,36.8791,-115.9642,8.2,-0.4,ml,7,231.98,0.019,0.0622,nn,nn00900467,2025-07-13T02:04:25.381Z,"43 km NW of Indian Springs, Nevada",earthquake,,2.6,0.12,3,reviewed,nn,nn
-2025-07-12T09:41:06.841Z,61.3523,-150.2894,37.6,1.3,ml,,,,0.47,ak,ak0258vcbon0,2025-07-12T09:42:32.105Z,"16 km W of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-07-12T09:31:15.850Z,38.804832458496,-122.77799987793,2.4700000286102,0.76,md,9,68,0.008672,0.02,nc,nc75208762,2025-07-12T09:32:53.908Z,"4 km NNW of The Geysers, CA",earthquake,0.43,0.970000029,0.02,10,automatic,nc,nc
-2025-07-12T09:31:02.440Z,38.804666666667,-122.77783333333,2.48,0.29,md,21,69,0.008864,0.03,nc,nc75208757,2025-07-12T23:56:48.649Z,"4 km NNW of The Geysers, CA",earthquake,0.22,0.45,0.183,18,reviewed,nc,nc
-2025-07-12T09:30:14.300Z,33.9925,-116.7825,15.37,0.84,ml,39,72,0.04744,0.15,ci,ci41020951,2025-07-12T09:34:04.469Z,"8 km N of Cabazon, CA",earthquake,0.17,0.44,0.132,26,automatic,ci,ci
