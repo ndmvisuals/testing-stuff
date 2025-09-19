@@ -1,4 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-19T12:10:40.500Z,37.8607,-115.618,7.8,2.4,ml,8,343.23,0.952,0.438,nn,nn00904650,2025-09-19T12:13:22.871Z,"26 km NNE of Rachel, Nevada",earthquake,,3.2,0.23,6,automatic,nn,nn
+2025-09-19T11:59:47.000Z,38.786998748779,-122.76349639893,0.69999998807907,1.05,md,15,69,0.01392,0.03,nc,nc75239457,2025-09-19T12:01:23.933Z,"1 km NNW of The Geysers, CA",earthquake,0.23,0.469999999,0.22,14,automatic,nc,nc
+2025-09-19T11:59:07.402Z,57.7416,-152.0121,49.5,2.5,ml,,,,0.95,ak,ak025c1hpcus,2025-09-19T12:01:44.948Z,"21 km NE of Chiniak, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-09-19T11:47:53.476Z,36.7751,-116.249,10.5,-0.1,ml,12,95.03,0.046,0.0553,nn,nn00904649,2025-09-19T11:50:03.579Z,"47 km ESE of Beatty, Nevada",earthquake,,1.2,0.57,6,automatic,nn,nn
+2025-09-19T11:33:03.613Z,52.63,160.9214,21.488,5,mb,98,125,1.433,0.88,us,us7000qxa1,2025-09-19T11:52:36.040Z,"161 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.05,5.468,0.036,242,reviewed,us,us
+2025-09-19T11:27:54.929Z,31.653,-104.503,3.3843,1.7,ml,23,141,0,0.3,tx,tx2025slzinb,2025-09-19T12:04:40.513Z,"59 km SSW of Whites City, New Mexico",earthquake,0,1.3868643045425,0.2,18,automatic,tx,tx
+2025-09-19T11:25:06.551Z,52.8746,160.6135,32.772,5.1,mb,100,124,1.197,0.93,us,us7000qx9y,2025-09-19T11:43:11.040Z,"135 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.75,5.478,0.024,546,reviewed,us,us
 2025-09-19T11:01:03.657Z,52.7831,160.9378,16.651,4.9,mb,116,164,1.406,0.79,us,us7000qx9v,2025-09-19T11:20:04.040Z,"158 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.27,6.038,0.044,160,reviewed,us,us
 2025-09-19T10:53:07.066Z,32.764,-100.663,2.853,1.5,ml,17,79,0.1,0.5,tx,tx2025slyeni,2025-09-19T11:00:24.166Z,"16 km NNE of Hermleigh, Texas",earthquake,0,1.3919557332993,0.1,12,automatic,tx,tx
 2025-09-19T10:40:34.880Z,40.298500061035,-124.53849792481,19.64999961853,1.89,md,9,290,0.1502,0.04,nc,nc75239452,2025-09-19T11:12:24.102Z,"22 km W of Petrolia, CA",earthquake,3.17,0.49000001,0.11,5,automatic,nc,nc
@@ -18,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T09:17:01.451Z,53.2313,160.0287,53.535,4.7,mb,61,116,0.857,1.06,us,us7000qx93,2025-09-19T10:09:20.040Z,"95 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.64,7.144,0.033,276,reviewed,us,us
 2025-09-19T09:15:05.020Z,62.9503,-150.4841,1.4,1.9,ml,,,,0.55,ak,ak025c1g91ye,2025-09-19T09:17:11.027Z,"52 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-19T09:15:02.420Z,33.2355,-116.3531667,14.47,1.06,ml,47,26,0.1731,0.19,ci,ci40446138,2025-09-19T09:18:56.682Z,"3 km SE of Borrego Springs, CA",earthquake,0.19,0.46,0.12,28,automatic,ci,ci
-2025-09-19T09:11:56.378Z,-58.7694,-24.6102,10,5.4,mb,59,83,7.954,0.44,us,us7000qx91,2025-09-19T09:39:01.697Z,"South Sandwich Islands region",earthquake,10.81,1.879,0.058,101,reviewed,us,us
+2025-09-19T09:11:56.378Z,-58.7694,-24.6102,10,5.4,mb,59,83,7.954,0.44,us,us7000qx91,2025-09-19T11:39:34.756Z,"South Sandwich Islands region",earthquake,10.81,1.879,0.058,101,reviewed,us,us
 2025-09-19T08:39:59.000Z,36.416168212891,-120.8673324585,14.810000419617,1.64,md,20,90,0.1001,0.16,nc,nc75239437,2025-09-19T09:57:17.521Z,"17 km W of New Idria, CA",earthquake,0.39,1.23000002,0.15,12,automatic,nc,nc
 2025-09-19T08:37:57.375Z,61.744,-149.6036,31.4,1.5,ml,,,,0.67,ak,ak025c1fsg55,2025-09-19T08:40:56.215Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-19T08:35:49.415Z,52.9671,160.4116,42.463,4.5,mb,35,118,1.066,0.62,us,us7000qx8w,2025-09-19T09:02:03.040Z,"120 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.54,5.761,0.096,32,reviewed,us,us
@@ -97,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-19T01:49:50.097Z,-1.2704,-80.8101,35,4.6,mb,35,164,1.326,1.27,us,us7000qx6e,2025-09-19T02:19:24.593Z,"27 km WNW of Jipijapa, Ecuador",earthquake,4.36,1.933,0.107,26,reviewed,us,us
 2025-09-19T01:46:16.907Z,41.2023,-116.6686,10,2.5,ml,11,87,0.877,1.2,us,us7000qx69,2025-09-19T04:58:26.040Z,"59 km NE of Valmy, Nevada",earthquake,4.48,2.01,0.053,46,reviewed,us,us
 2025-09-19T01:32:31.845Z,61.381,-149.5251,11.4,1.4,ml,,,,0.52,ak,ak025c1blacw,2025-09-19T01:41:41.964Z,"7 km NNE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-19T01:23:08.835Z,32.116,-101.112,3.7438,1.6,mlv,19,82,0.2,0.4,tx,tx2025slfhju,2025-09-19T11:13:13.269Z,"24 km E of Forsan, Texas",earthquake,0,1.4129629135132,0.2,12,automatic,tx,tx
+2025-09-19T01:23:09.213Z,32.121,-101.107,8.3252,1.2,ml,12,84,0.2,0.1,tx,tx2025slfhju,2025-09-19T11:59:49.600Z,"24 km E of Forsan, Texas",earthquake,0.71072454068585,2.6271398057922,0.1,7,reviewed,tx,tx
 2025-09-19T01:16:18.165Z,63.4578,-150.288,1.9,1.7,ml,,,,1.08,ak,ak025c1bhtug,2025-09-19T01:19:40.053Z,"67 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-19T01:12:02.724Z,53.3606,160.7106,35,5,mb,50,123,1.285,0.71,us,us7000qx60,2025-09-19T01:32:07.040Z,"143 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.84,1.908,0.046,153,reviewed,us,us
 2025-09-19T01:01:52.830Z,35.0605,-118.9495,9.4,2.36,ml,54,65,0.1102,0.25,ci,ci40445482,2025-09-19T03:49:52.488Z,"13 km N of Grapevine, CA",earthquake,0.23,0.68,0.187,19,reviewed,ci,ci
@@ -260,15 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T12:48:57.483Z,1.6323,126.4783,51.278,4.6,mb,56,105,1.233,1,us,us7000qwxs,2025-09-18T13:16:51.040Z,"137 km NW of Ternate, Indonesia",earthquake,6.69,7.457,0.079,48,reviewed,us,us
 2025-09-18T12:41:53.258Z,12.0787,95.3428,10,4.9,mb,40,69,4.367,1.48,us,us7000qwyi,2025-09-18T13:05:21.040Z,"286 km E of Port Blair, India",earthquake,10.61,1.893,0.11,26,reviewed,us,us
 2025-09-18T12:27:24.207Z,61.739,-146.2543,35.5,1.5,ml,,,,0.82,ak,ak025bzukmck,2025-09-18T12:29:18.756Z,"37 km SSE of Mendeltna, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-09-18T12:14:34.880Z,32.7886667,-115.4488333,13.51,1.38,ml,24,55,0.0167,0.31,ci,ci40444210,2025-09-18T12:18:02.819Z,"7 km WSW of Holtville, CA",earthquake,0.44,0.73,0.286,13,automatic,ci,ci
-2025-09-18T12:12:38.084Z,38.6236,-115.9516,6.6,2.7,ml,9,147.25,0.397,0.1268,nn,nn00904568,2025-09-19T02:07:14.478Z,"83 km WSW of Preston, Nevada",earthquake,,11.7,0.38,6,reviewed,nn,nn
-2025-09-18T12:07:01.940Z,32.895,-116.5946667,7.7,0.7,ml,22,55,0.06473,0.13,ci,ci40444202,2025-09-18T13:16:47.302Z,"10 km NW of Pine Valley, CA",earthquake,0.18,0.52,0.211,6,reviewed,ci,ci
-2025-09-18T12:00:05.730Z,33.2521667,-116.2883333,6.67,0.79,ml,41,69,0.06593,0.21,ci,ci40444058,2025-09-18T12:04:08.807Z,"8 km E of Borrego Springs, CA",earthquake,0.25,0.58,0.185,17,automatic,ci,ci
-2025-09-18T12:00:02.149Z,48.6434,-123.8017,10,2.6,ml,25,67,0.232,0.62,us,us7000qwwx,2025-09-18T23:20:28.503Z,"16 km SW of Cowichan Bay, Canada",earthquake,1.33,1.972,0.051,50,reviewed,us,us
-2025-09-18T11:54:31.320Z,38.799835205078,-122.76916503906,1.5299999713898,1.49,md,19,100,0.007428,0.04,nc,nc75239122,2025-09-18T13:22:16.689Z,"3 km NNW of The Geysers, CA",earthquake,0.25,0.379999995,0.2,20,automatic,nc,nc
-2025-09-18T11:50:30.950Z,36.552833557129,-121.05982971191,8.1800003051758,1.67,md,18,75,0.03036,0.15,nc,nc75239117,2025-09-18T12:57:17.518Z,"8 km E of Pinnacles, CA",earthquake,0.41,1.07000005,0.15,14,automatic,nc,nc
-2025-09-18T11:36:38.880Z,33.9776667,-116.5768333,8.02,0.68,ml,35,56,0.0416,0.14,ci,ci40444050,2025-09-18T11:40:10.555Z,"7 km WNW of Desert Hot Springs, CA",earthquake,0.16,0.57,0.18,19,automatic,ci,ci
-2025-09-18T11:35:40.450Z,46.892166666667,-121.89316666667,9.42,0.94,ml,36,65,0.03678,0.16,uw,uw62191121,2025-09-18T17:57:05.800Z,"18 km NE of Ashford, Washington",earthquake,0.22,0.38,0.13303565041956,18,reviewed,uw,uw
-2025-09-18T11:35:17.750Z,38.820999145508,-122.84683227539,1.789999961853,1.02,md,12,122,0.01021,0.02,nc,nc75239112,2025-09-18T12:32:19.345Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.569999993,0.27,12,automatic,nc,nc
-2025-09-18T11:28:39.219Z,34.4045,-97.466,4.61,1.73,ml,80,86,0.0413918775,0.44,ok,ok2025shxn,2025-09-18T12:17:15.483Z,"6 km SE of Ratliff City, Oklahoma",earthquake,,0.9,0.25,36,reviewed,ok,ok
-2025-09-18T11:26:31.779Z,36.8809,-115.8154,12.8,0.4,ml,32,150.14,0.128,0.1251,nn,nn00904566,2025-09-19T02:06:54.241Z,"36 km NNW of Indian Springs, Nevada",earthquake,,1.5,0.17,13,reviewed,nn,nn
