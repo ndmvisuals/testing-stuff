@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-24T07:29:14.999Z,58.1696,-155.3976,1.1,0.8,ml,,,,0.19,ak,ak025c9oty0b,2025-09-24T07:31:17.172Z,"87 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2025-09-24T07:24:52.931Z,62.0489,-150.9348,63,1.9,ml,,,,0.31,ak,ak025c9osyct,2025-09-24T07:26:44.327Z,"25 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T07:12:59.110Z,33.177,-115.6056667,4.02,1.27,ml,16,116,0.008377,0.18,ci,ci40449538,2025-09-24T07:16:30.652Z,"10 km NW of Calipatria, CA",earthquake,1.35,0.58,0.228,22,automatic,ci,ci
-2025-09-24T07:10:58.710Z,38.819667816162,-122.84233093262,2.539999961853,1.01,md,13,104,0.01382,0.01,nc,nc75241247,2025-09-24T07:12:33.169Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.49000001,0.1,13,automatic,nc,nc
-2025-09-24T07:07:42.047Z,31.713,-104.273,4.1628,2.4,ml,37,57,0,0.3,tx,tx2025suvinz,2025-09-24T07:12:52.508Z,"52 km S of Whites City, New Mexico",earthquake,0,0.95534551143646,0.2,22,automatic,tx,tx
-2025-09-24T07:05:04.515Z,56.354,-156.5619,44.5,4.6,ml,,,,0.54,ak,ak025c9oos1n,2025-09-24T07:20:27.143Z,"114 km E of Chignik, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2025-09-24T07:10:58.710Z,38.819667816162,-122.84233093262,2.539999961853,1.01,md,13,104,0.01382,0.01,nc,nc75241247,2025-09-24T07:42:16.655Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.49000001,0.1,13,automatic,nc,nc
+2025-09-24T07:07:42.484Z,31.769,-104.253,6.0999,2.4,ml,24,107,0,0.1,tx,tx2025suvinz,2025-09-24T07:21:29.592Z,"46 km SSE of Whites City, New Mexico",earthquake,1.6009369152553,0.72714439958353,0.2,40,reviewed,tx,tx
+2025-09-24T07:05:04.515Z,56.354,-156.5619,44.5,4.6,ml,,,,0.54,ak,ak025c9oos1n,2025-09-24T07:31:29.040Z,"114 km E of Chignik, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2025-09-24T06:59:15.920Z,60.8549,-146.2718,23.8,1.3,ml,,,,0.69,ak,ak025c9oexyg,2025-09-24T07:00:30.719Z,"22 km E of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-24T06:58:46.221Z,31.629,-104.481,3.8495,2.4,ml,35,105,0,0.2,tx,tx2025suvazo,2025-09-24T07:03:20.810Z,"61 km S of Whites City, New Mexico",earthquake,0,1.1706784963608,0.2,23,automatic,tx,tx
 2025-09-24T06:52:51.950Z,35.9768333,-117.3381667,3.53,1.04,ml,21,70,0.09657,0.15,ci,ci40449530,2025-09-24T06:56:21.051Z,"24 km N of Trona, CA",earthquake,0.24,0.65,0.105,15,automatic,ci,ci
@@ -72,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T23:07:57.345Z,28.8,-99.103,6.7039,2.3,ml,11,140,0.3,0.4,tx,tx2025suflgs,2025-09-24T00:00:20.851Z,"10 km S of Pearsall, Texas",earthquake,0,7.0716061592102,0.2,9,automatic,tx,tx
 2025-09-23T22:48:19.100Z,33.1326667,-115.9418333,7.14,0.9,ml,32,56,0.05065,0.18,ci,ci40449178,2025-09-23T22:52:21.089Z,"18 km E of Ocotillo Wells, CA",earthquake,0.21,0.49,0.198,14,automatic,ci,ci
 2025-09-23T22:46:12.670Z,38.836833953857,-122.78233337402,1.8500000238419,1.83,md,32,66,0.006451,0.03,nc,nc75241132,2025-09-24T01:32:15.962Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.280000001,0.12,31,automatic,nc,nc
-2025-09-23T22:27:48.697Z,39.1701,28.1482,12.108,4.6,mww,38,43,0.972,0.7,us,us6000rcfc,2025-09-24T03:05:18.344Z,"8 km SSW of Sındırgı, Turkey",earthquake,3.77,2.939,0.11,8,reviewed,us,us
+2025-09-23T22:27:48.697Z,39.1701,28.1482,12.108,4.6,mww,38,43,0.972,0.7,us,us6000rcfc,2025-09-24T08:07:01.751Z,"8 km SSW of Sındırgı, Turkey",earthquake,3.77,2.939,0.11,8,reviewed,us,us
 2025-09-23T22:12:38.810Z,32.123,-101.039,8.052,1.8,mlv,13,154,0.2,0.5,tx,tx2025sudpqe,2025-09-23T23:18:41.075Z,"25 km S of Westbrook, Texas",earthquake,0,4.7166256904602,0.2,11,automatic,tx,tx
 2025-09-23T22:06:57.780Z,38.7936668396,-122.75316619873,0.62999999523163,1.08,md,8,104,0.008628,0.01,nc,nc75241122,2025-09-23T22:32:19.675Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.589999974,0.18,7,automatic,nc,nc
 2025-09-23T22:06:46.560Z,38.802665710449,-122.77983093262,0.80000001192093,0.75,md,10,112,0.0106,0.02,nc,nc75241117,2025-09-23T22:22:16.593Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.709999979,0.4,11,automatic,nc,nc
@@ -219,8 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T08:33:27.020Z,37.854331970215,-122.24016571045,7.0700001716614,1.09,md,11,79,0.02215,0.03,nc,nc75240827,2025-09-23T08:52:18.710Z,"3 km  of Piedmont, CA",earthquake,0.31,0.5,0.18,6,automatic,nc,nc
 2025-09-23T08:21:42.119Z,32.409,-101.399,6.8604,0.9,ml,23,61,0,0.2,tx,tx2025stcbnh,2025-09-23T11:35:07.526Z,"14 km NNW of Sand Springs, Texas",earthquake,0.68399134254903,0.83728114916496,0.1,12,reviewed,tx,tx
 2025-09-23T08:14:26.973Z,31.967,-103.799,7.9456,1.2,ml,33,69,0,0.2,tx,tx2025stbtyv,2025-09-23T09:37:50.935Z,"34 km NNW of Mentone, Texas",earthquake,0.61381796153387,0.69281355549656,0.2,15,reviewed,tx,tx
-2025-09-23T08:11:35.560Z,46.883833333333,-121.9905,10.88,0.52,ml,20,125,0.0307,0.08,uw,uw62192961,2025-09-23T17:27:38.130Z,"14 km NNE of Ashford, Washington",earthquake,0.3,0.49,0.20786838474649,11,reviewed,uw,uw
-2025-09-23T07:55:31.490Z,35.6106667,-117.4273333,6.1,0.8,ml,20,78,0.05441,0.14,ci,ci40448570,2025-09-23T16:27:46.705Z,"18 km S of Searles Valley, CA",earthquake,0.23,0.58,0.167,10,automatic,ci,ci
-2025-09-23T07:47:02.427Z,61.6553,-150.8062,54.9,1.6,ml,,,,0.59,ak,ak025c81effm,2025-09-23T07:48:32.286Z,"19 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-09-23T07:44:46.460Z,37.428333282471,-118.55133056641,13.979999542236,2.08,md,26,133,0.09731,0.05,nc,nc75240822,2025-09-23T09:22:19.891Z,"4 km E of Round Valley, CA",earthquake,0.46,1.60000002,0.2,22,automatic,nc,nc
-2025-09-23T07:32:23.831Z,28.878,-99.083,3.3497,1.6,ml,20,66,0,0.4,tx,tx2025stalch,2025-09-23T12:15:07.778Z,"1 km SE of Pearsall, Texas",earthquake,2.9323763852723,1.3800574093108,0.1,11,reviewed,tx,tx
