@@ -1,6 +1,19 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-05T09:55:41.300Z,33.1691667,-116.4398333,12.05,0.97,ml,61,36,0.09163,0.2,ci,ci41102855,2025-10-05T09:59:28.955Z,"11 km SSW of Borrego Springs, CA",earthquake,0.17,0.48,0.136,27,automatic,ci,ci
+2025-10-05T09:54:31.529Z,60.0017,-152.8658,115.9,1.9,ml,,,,0.77,ak,ak025crx30uf,2025-10-05T09:59:41.396Z,"63 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-05T09:51:36.800Z,34.3213348,-116.8566666,4.95,3.35,ml,148,26,0.03596,0.16,ci,ci41102847,2025-10-05T09:58:23.459Z,"7 km N of Big Bear City, CA",earthquake,0.15,0.58,0.225,16,automatic,ci,ci
+2025-10-05T09:34:12.156Z,68.4394,-146.8469,0,2.1,ml,,,,0.81,ak,ak025crwyoy3,2025-10-05T09:46:29.070Z,"64 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-05T09:33:15.880Z,18.101833333333,-67.733333333333,53.1,3.2,md,16,193,0.5713,0.57,pr,pr71497048,2025-10-05T09:52:38.730Z,"56 km WSW of Stella, Puerto Rico",earthquake,3.33,2.34,0.13452782621162,12,reviewed,pr,pr
+2025-10-05T09:31:03.380Z,38.831665039062,-122.81483459473,1.9700000286102,0.4,md,8,121,0.009057,0.03,nc,nc75245016,2025-10-05T09:57:17.619Z,"8 km NW of The Geysers, CA",earthquake,0.4,1.25999999,0.26,8,automatic,nc,nc
+2025-10-05T09:29:55.150Z,38.829498291016,-122.813331604,1.9900000095367,1.05,md,17,87,0.006604,0.02,nc,nc75245011,2025-10-05T09:47:19.541Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.469999999,0.09,19,automatic,nc,nc
+2025-10-05T09:25:00.501Z,63.214,-150.5601,129.5,2.3,ml,,,,0.36,ak,ak025crwwqnk,2025-10-05T09:29:15.149Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-05T09:13:57.070Z,33.2653351,-116.6138306,16.92,1.61,ml,60,23,0.07171,0.24,ci,ci41102839,2025-10-05T09:28:43.736Z,"3 km SE of Warner Springs, CA",earthquake,0.26,0.61,0.294,25,automatic,ci,ci
+2025-10-05T09:08:15.019Z,71.1768,-7.9169,10,5.2,mww,107,45,8.169,0.81,us,us6000rex4,2025-10-05T09:27:48.040Z,"40 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,3.58,1.861,0.061,26,reviewed,us,us
+2025-10-05T08:57:33.120Z,35.9106667,-117.727,7.45,0.86,ml,28,39,0.07244,0.14,ci,ci41102831,2025-10-05T09:01:07.445Z,"16 km E of Little Lake, CA",earthquake,0.18,0.43,0.154,15,automatic,ci,ci
+2025-10-05T08:57:14.158Z,30.948,-103.359,4.924,1.7,ml,24,131,0,0.7,tx,tx2025tpdyto,2025-10-05T09:01:38.720Z,"37 km E of Balmorhea, Texas",earthquake,0,1.3237121105194,0.2,16,automatic,tx,tx
+2025-10-05T08:53:42.510Z,33.1345,-115.9588333,5.37,0.84,ml,45,47,0.042,0.23,ci,ci41102823,2025-10-05T08:57:29.415Z,"16 km E of Ocotillo Wells, CA",earthquake,0.2,0.47,0.184,14,automatic,ci,ci
 2025-10-05T08:50:36.223Z,55.4977,-158.7783,15.8,2.2,ml,,,,0.44,ak,ak025crwgqpy,2025-10-05T08:52:49.662Z,"51 km SSE of Perryville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-05T08:37:35.510Z,36.526000976562,-121.07849884033,1.7300000190735,1.35,md,6,139,0.06104,0.14,nc,nc75245006,2025-10-05T08:39:11.817Z,"6 km E of Pinnacles, CA",earthquake,0.9,2.1400001,0.37,7,automatic,nc,nc
+2025-10-05T08:37:35.510Z,36.526000976562,-121.07849884033,1.7300000190735,1.35,md,6,139,0.06104,0.14,nc,nc75245006,2025-10-05T09:17:21.327Z,"6 km E of Pinnacles, CA",earthquake,0.9,2.1400001,0.37,7,automatic,nc,nc
 2025-10-05T08:23:29.580Z,63.045,-150.8736,120.4,2.2,ml,,,,0.41,ak,ak025crwaxt2,2025-10-05T08:26:35.301Z,"61 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-10-05T08:01:00.971Z,63.128,-149.3821,80.1,1.8,ml,,,,0.63,ak,ak025crw65wx,2025-10-05T08:03:17.738Z,"36 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-05T08:00:27.970Z,33.3965,-116.4355,11.52,0.95,ml,47,45,0.09008,0.22,ci,ci41102815,2025-10-05T08:04:47.221Z,"17 km NNW of Borrego Springs, CA",earthquake,0.21,0.59,0.093,6,automatic,ci,ci
@@ -52,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T02:12:53.019Z,31.667,-104.397,4.3825,1.9,ml,30,70,0,0.4,tx,tx2025toqnwu,2025-10-05T02:16:16.010Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0409215688705,0.1,21,automatic,tx,tx
 2025-10-05T01:51:46.057Z,51.5783,-179.4936,76.304,4.3,mb,50,162,0.424,0.85,us,us6000revp,2025-10-05T02:51:39.463Z,"200 km W of Adak, Alaska",earthquake,8.11,7.662,0.061,77,reviewed,us,us
 2025-10-05T01:50:26.534Z,31.714,-104.592,1.7204,1.7,mlv,24,113,0.1,0.6,tx,tx2025topuzb,2025-10-05T05:16:41.611Z,"55 km SSW of Whites City, New Mexico",earthquake,0,1.3511202335358,0.2,18,automatic,tx,tx
-2025-10-05T01:46:21.641Z,43.8547,-76.0231,5.772,1.6,ml,15,82,0.445,0.44,us,us6000revv,2025-10-05T02:48:38.480Z,"1 km WSW of Adams Center, New York",earthquake,1.34,4.29,0.097,14,reviewed,us,us
+2025-10-05T01:46:21.641Z,43.8547,-76.0231,5.772,1.6,ml,15,82,0.445,0.44,us,us6000revv,2025-10-05T09:11:08.642Z,"1 km WSW of Adams Center, New York",earthquake,1.34,4.29,0.097,14,reviewed,us,us
 2025-10-05T01:45:47.931Z,18.6235,119.6653,10,5,mb,43,139,4.378,0.97,us,us6000revn,2025-10-05T02:02:20.040Z,"97 km W of Davila, Philippines",earthquake,10.8,1.908,0.066,76,reviewed,us,us
 2025-10-05T01:44:20.730Z,43.8485,-76.0237,5,1.5,ml,17,82,0.439,0.51,us,us6000revk,2025-10-05T04:16:04.307Z,"1 km SW of Adams Center, New York",earthquake,1.42,1.45,0.097,14,reviewed,us,us
 2025-10-05T01:41:27.290Z,18.9638,-67.812,66,3.72,md,24,210,0.7257,0.47,pr,pr2025278001,2025-10-05T02:17:03.946Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,3.52,5.23,0.08,19,reviewed,pr,pr
@@ -161,7 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T14:42:10.660Z,38.836498260498,-122.80833435059,2.2599999904633,0.21,md,8,78,0.01315,0.01,nc,nc75244716,2025-10-04T15:37:18.762Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.90999997,0.09,8,automatic,nc,nc
 2025-10-04T14:40:52.821Z,32.115,-102.184,4.7352,1.3,mlv,34,78,0,0.5,tx,tx2025tntpyr,2025-10-04T23:31:37.000Z,"16 km NW of Midland, Texas",earthquake,0,0.89027607440948,0.2,25,automatic,tx,tx
 2025-10-04T14:40:51.910Z,38.823001861572,-122.84300231934,1.9500000476837,0.65,md,8,83,0.01777,0.01,nc,nc75244711,2025-10-04T15:12:19.574Z,"9 km NW of The Geysers, CA",earthquake,0.33,1.05999994,0.42,8,automatic,nc,nc
-2025-10-04T14:37:53.747Z,32.119,-102.187,4.6851,1.7,mlv,72,49,0,0.4,tx,tx2025tntnkv,2025-10-04T23:31:32.999Z,"16 km NW of Midland, Texas",earthquake,0,0.63721966743469,0.2,50,automatic,tx,tx
+2025-10-04T14:37:54.380Z,32.118,-102.192,6.958,1.7,ml,48,63,0,0.1,tx,tx2025tntnkv,2025-10-05T09:43:46.019Z,"17 km NW of Midland, Texas",earthquake,0.40683767177645,0.60029173161543,0.2,37,reviewed,tx,tx
 2025-10-04T14:24:16.630Z,47.7535,-121.89016666667,20.43,1.16,ml,8,113,0.09213,0.05,uw,uw62189267,2025-10-04T22:25:13.460Z,"7 km NNE of Lake Marcel-Stillwater, Washington",earthquake,0.5,0.51,0.14309713744371,3,reviewed,uw,uw
 2025-10-04T14:20:28.089Z,31.616,-104.128,3.4258,1.6,mlv,24,57,0,0.5,tx,tx2025tnsykb,2025-10-04T17:12:36.195Z,"46 km NW of Toyah, Texas",earthquake,0,1.1211372613907,0.1,19,automatic,tx,tx
 2025-10-04T14:17:02.780Z,33.3486667,-116.9556667,14.94,0.69,ml,28,45,0.07539,0.16,ci,ci41102487,2025-10-04T14:21:46.762Z,"9 km W of Palomar Observatory, CA",earthquake,0.19,0.38,0.128,20,automatic,ci,ci
@@ -202,14 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T10:17:25.880Z,34.2403333,-117.1386667,5.4,0.84,ml,46,59,0.04479,0.15,ci,ci41102423,2025-10-04T10:21:12.742Z,"4 km NW of Running Springs, CA",earthquake,0.16,0.34,0.18,19,automatic,ci,ci
 2025-10-04T10:14:11.822Z,30.886,-103.489,3.075,2.2,ml,22,89,0.1,0.2,tx,tx2025tnkuer,2025-10-04T10:47:53.759Z,"26 km ESE of Balmorhea, Texas",earthquake,0.87077506096904,1.3350751866645,0.1,13,reviewed,tx,tx
 2025-10-04T10:13:05.980Z,35.8625,-117.692,7.57,0.9,ml,23,66,0.08984,0.14,ci,ci41102415,2025-10-04T10:16:36.156Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.6,0.144,17,automatic,ci,ci
-2025-10-04T09:50:17.086Z,10.8943,123.9099,10,4.6,mb,39,127,6.316,0.83,us,us6000reru,2025-10-04T10:07:32.040Z,"2 km ESE of Maravilla, Philippines",earthquake,14.04,1.896,0.096,32,reviewed,us,us
-2025-10-04T09:41:18.157Z,10.8955,123.9567,10,5,mb,56,51,4.125,0.74,us,us6000rers,2025-10-04T10:07:46.493Z,"1 km SW of Ilihan, Philippines",earthquake,10.79,1.877,0.075,56,reviewed,us,us
-2025-10-04T09:34:18.612Z,60.6144,-151.9448,83.8,1.3,ml,,,,0.68,ak,ak025cq9fd04,2025-10-04T09:36:53.799Z,"34 km W of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
-2025-10-04T09:31:13.445Z,64.99,-148.7933,27.4,0.9,ml,,,,1.4,ak,ak025cq9epgw,2025-10-04T09:33:33.415Z,"31 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-04T09:27:24.010Z,46.148166666667,-122.515,9.7,0.61,ml,12,110,0.1177,0.1,uw,uw62189157,2025-10-04T18:52:26.180Z,"26 km NNW of Amboy, Washington",earthquake,0.49,0.95,0.14371036844606,5,reviewed,uw,uw
-2025-10-04T09:19:54.930Z,36.0036667,-118.4598333,7.79,0.92,ml,23,67,0.1899,0.17,ci,ci41102407,2025-10-04T09:23:43.914Z,"28 km N of Kernville, CA",earthquake,0.24,1.21,0.146,15,automatic,ci,ci
-2025-10-04T09:19:00.060Z,36.0068333,-118.4563333,8,1.95,ml,32,67,0.1856,0.16,ci,ci41102399,2025-10-04T09:22:35.904Z,"28 km N of Kernville, CA",earthquake,0.16,0.81,0.148,26,automatic,ci,ci
-2025-10-04T09:02:03.383Z,8.3666,-103.881,10,5.5,mww,46,201,10.503,0.77,us,us6000rerp,2025-10-04T11:25:07.269Z,"northern East Pacific Rise",earthquake,12.95,1.958,0.054,33,reviewed,us,us
-2025-10-04T08:59:04.048Z,28.814,-99.049,6.203,1.5,ml,13,88,0.1,0.4,tx,tx2025tnihle,2025-10-04T13:01:09.001Z,"9 km SSE of Pearsall, Texas",earthquake,2.7341298986418,2.2978146835358,0.1,8,reviewed,tx,tx
-2025-10-04T08:58:41.978Z,30.892,-103.487,3.9465,2.2,ml,24,72,0.1,0.2,tx,tx2025tnihdh,2025-10-04T10:02:59.508Z,"26 km ESE of Balmorhea, Texas",earthquake,0.90813147340168,1.7230957722352,0.2,12,reviewed,tx,tx
-2025-10-04T08:54:08.147Z,19.0084,-68.983,5.342,3,ml,17,136,0.753,0.93,us,us6000rerl,2025-10-04T12:02:45.040Z,"7 km ENE of Miches, Dominican Republic",earthquake,6.09,3.465,0.064,32,reviewed,us,us
