@@ -458854,3 +458854,56 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-11-13T00:37:57.857Z,35.19942856,-98.2983551,5.048131943,1.82,ml,10.0,102.1188507,0.1835586131,0.7557475743,ok,ok2026wfkf,2026-11-13T00:40:15.189Z,"3 km WNW of Gracemont, Oklahoma",earthquake,4.151627556,3.971881086,0.07,4.0,automatic,ok,ok
 2026-11-13T00:31:29.250Z,38.809833526611,-122.81449890137,3.6900000572205,0.75,md,9.0,99.0,0.01151,0.01,nc,nc75465967,2026-11-13T00:33:07.782Z,"6 km NW of The Geysers, CA",earthquake,0.51,1.75999999,0.17,9.0,automatic,nc,nc
 2026-11-13T00:26:52.513Z,63.201,-142.853,5.0,1.8,ml,23.0,85.0,0.3,0.8,ak,aka2026wlruxb,2026-11-13T00:28:22.397Z,"16 km SSE of Tok, Alaska",earthquake,5.7,,0.2,5.0,automatic,ak,ak
+2026-11-13T12:12:10.935Z,60.475,-152.52,50.9,0.5,ml,6.0,230.0,0.1,0.1,ak,aka2026wmpilf,2026-11-13T12:15:06.146Z,"66 km NW of Ninilchik, Alaska",earthquake,64.9,92.9314,0.4,5.0,automatic,ak,ak
+2026-11-13T11:35:56.710Z,33.02767,-116.4155,8.8,1.18,ml,52.0,30.0,0.05304,0.18,ci,ci41361671,2026-11-13T11:39:19.449Z,"18 km ESE of Julian, CA",earthquake,0.16,0.41,0.20210126344254,26.0,automatic,ci,ci
+2026-11-13T11:29:49.393Z,61.069,-150.752,15.6,1.8,ml,34.0,51.0,0.5,0.5,ak,aka2026wmnxrq,2026-11-13T11:33:15.741Z,"16 km NNW of Point Possession, Alaska",earthquake,2.9,2.7013,0.2,25.0,automatic,ak,ak
+2026-11-13T11:28:58.980Z,60.273,-153.313,12.7,1.2,ml,8.0,251.0,0.2,0.4,ak,aka2026wmnwzi,2026-11-13T11:29:42.997Z,"56 km E of Port Alsworth, Alaska",earthquake,63.1,35.4565,0.4,5.0,automatic,ak,ak
+2026-11-13T11:21:29.796Z,60.04,-153.085,1.0,0.6,ml,6.0,99.0,0.0,0.1,ak,aka2026wmnqmp,2026-11-13T11:23:00.059Z,"63 km ENE of Pedro Bay, Alaska",earthquake,11.6,17.7631,0.2,5.0,automatic,ak,ak
+2026-11-13T11:20:14.809Z,60.377,-152.895,131.1,1.9,ml,42.0,137.0,0.1,0.6,ak,aka2026wmnpns,2026-11-13T11:22:26.115Z,"77 km WNW of Ninilchik, Alaska",earthquake,5.9,2.5952,0.5,18.0,automatic,ak,ak
+2026-11-13T11:18:22.952Z,60.082,-153.124,13.7,0.7,ml,7.0,181.0,0.0,0.2,ak,aka2026wmnnsa,2026-11-13T11:19:25.670Z,"63 km ENE of Pedro Bay, Alaska",earthquake,26.2,13.391,0.3,6.0,automatic,ak,ak
+2026-11-13T11:18:12.734Z,-21.3036,-175.8541,162.78,4.8,mb,30.0,179.0,6.593,0.54,us,us7000txzd,2026-11-13T11:51:31.040Z,"59 km WSW of Houma, Tonga",earthquake,17.79,11.43,0.109,26.0,reviewed,us,us
+2026-11-13T11:11:22.103Z,60.042,-153.065,5.0,0.6,ml,6.0,149.0,0.0,0.4,ak,aka2026wmnhsg,2026-11-13T11:11:58.004Z,"64 km ENE of Pedro Bay, Alaska",earthquake,11.9,,0.2,5.0,automatic,ak,ak
+2026-11-13T11:07:51.930Z,33.41367,-116.64283,7.01,0.73,ml,47.0,45.0,0.08767,0.19,ci,ci41361655,2026-11-13T11:11:24.091Z,"15 km N of Warner Springs, CA",earthquake,0.17,0.69,0.082205015156696,19.0,automatic,ci,ci
+2026-11-13T11:07:18.054Z,56.034,-156.334,5.0,2.6,ml,18.0,154.0,0.5,0.5,ak,aka2026wmnegi,2026-11-13T11:08:36.011Z,"131 km ESE of Chignik, Alaska",earthquake,9.1,,0.3,5.0,automatic,ak,ak
+2026-11-13T11:04:36.190Z,60.053,-153.098,5.0,0.5,ml,7.0,147.0,0.0,0.3,ak,aka2026wmnbvt,2026-11-13T11:05:23.977Z,"63 km ENE of Pedro Bay, Alaska",earthquake,8.3,,0.1,7.0,automatic,ak,ak
+2026-11-13T10:56:20.194Z,60.151,-153.137,29.3,0.6,ml,7.0,212.0,0.1,0.2,ak,aka2026wmmrlw,2026-11-13T10:57:04.169Z,"65 km E of Port Alsworth, Alaska",earthquake,58.4,24.7641,0.2,5.0,automatic,ak,ak
+2026-11-13T10:31:27.855Z,60.042,-153.049,0.4,0.4,ml,6.0,96.0,0.0,0.2,ak,aka2026wmlzcr,2026-11-13T10:32:21.656Z,"65 km ENE of Pedro Bay, Alaska",earthquake,9.3,13.1225,0.3,4.0,automatic,ak,ak
+2026-11-13T10:30:20.747Z,61.225,-147.632,5.0,0.9,ml,10.0,96.0,0.3,0.6,ak,aka2026wmlydn,2026-11-13T10:31:16.770Z,"64 km S of Glacier View, Alaska",earthquake,6.4,,0.3,5.0,automatic,ak,ak
+2026-11-13T10:18:46.010Z,35.59317,-117.40417,6.68,1.03,ml,28.0,43.0,0.07353,0.15,ci,ci41361647,2026-11-13T10:22:11.020Z,"19 km S of Trona, CA",earthquake,0.16,0.39,0.14303040374108,10.0,automatic,ci,ci
+2026-11-13T10:17:50.170Z,38.810665130615,-122.73733520508,1.039999961853,1.19,md,15.0,128.0,0.02015,0.02,nc,nc75466072,2026-11-13T10:19:29.246Z,"2 km SW of Cobb, CA",earthquake,0.28,0.560000002,0.14,14.0,automatic,nc,nc
+2026-11-13T10:13:20.528Z,59.151,-152.832,69.7,1.9,ml,37.0,97.0,0.4,0.5,ak,aka2026wmljju,2026-11-13T10:16:45.830Z,"56 km WSW of Nanwalek, Alaska",earthquake,4.3,3.9494,0.2,26.0,automatic,ak,ak
+2026-11-13T10:12:21.878Z,60.226,-153.375,5.0,0.9,ml,10.0,249.0,0.2,0.5,ak,aka2026wmline,2026-11-13T10:13:06.030Z,"52 km E of Port Alsworth, Alaska",earthquake,39.7,,0.3,5.0,automatic,ak,ak
+2026-11-13T10:05:08.966Z,60.277,-153.223,8.4,1.0,ml,8.0,239.0,0.2,0.5,ak,aka2026wmlchi,2026-11-13T10:05:55.220Z,"61 km E of Port Alsworth, Alaska",earthquake,53.7,42.873,0.3,6.0,automatic,ak,ak
+2026-11-13T09:55:45.053Z,-22.3729,173.4492,10.0,4.9,mb,25.0,135.0,5.556,0.42,us,us7000txz3,2026-11-13T10:21:18.040Z,southeast of the Loyalty Islands,earthquake,13.6,1.952,0.123,21.0,reviewed,us,us
+2026-11-13T09:50:08.660Z,33.02617,-116.416,9.35,0.6,ml,33.0,71.0,0.0543,0.19,ci,ci41361639,2026-11-13T09:53:32.208Z,"18 km ESE of Julian, CA",earthquake,0.25,0.47,0.12037410934635,8.0,automatic,ci,ci
+2026-11-13T09:47:19.137Z,60.651,-151.123,61.3,3.3,ml,167.0,45.0,0.1,1.1,ak,aka2026wmkmus,2026-11-13T12:15:50.115Z,"10 km ESE of Nikiski, Alaska",earthquake,2.0,2.2507,0.1,118.0,automatic,ak,ak
+2026-11-13T09:40:47.087Z,8.2136,127.2035,10.0,4.6,mb,38.0,113.0,1.971,0.45,us,us7000txz0,2026-11-13T11:20:08.040Z,"84 km E of Barcelona, Philippines",earthquake,8.94,1.452,0.1,30.0,reviewed,us,us
+2026-11-13T09:35:52.866Z,60.487,-152.779,1.1,0.3,ml,6.0,91.0,0.0,0.4,ak,aka2026wmkcxq,2026-11-13T09:36:41.624Z,"78 km NW of Ninilchik, Alaska",earthquake,7.3,9.6907,0.2,4.0,automatic,ak,ak
+2026-11-13T09:32:14.072Z,60.944,-151.311,67.1,1.7,ml,37.0,52.0,0.4,0.7,ak,aka2026wmjztg,2026-11-13T09:33:36.706Z,"16 km SW of Tyonek, Alaska",earthquake,3.9,4.2628,0.2,17.0,automatic,ak,ak
+2026-11-13T09:27:24.793Z,60.034,-140.977,0.0,2.4,ml,25.0,154.0,0.3,0.9,ak,aka2026wmjvpg,2026-11-13T09:29:06.008Z,"88 km NW of Yakutat, Alaska",earthquake,5.1,2.9543,0.1,13.0,automatic,ak,ak
+2026-11-13T09:18:01.810Z,38.82833480835,-122.81016540527,1.210000038147,1.26,md,19.0,65.0,0.004933,0.02,nc,nc75466062,2026-11-13T10:17:27.667Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.469999999,0.18,20.0,automatic,nc,nc
+2026-11-13T09:01:24.200Z,38.820499420166,-122.80183410644,2.4000000953674,1.69,md,35.0,48.0,0.007056,0.04,nc,nc75466057,2026-11-13T09:52:20.499Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.17,36.0,automatic,nc,nc
+2026-11-13T08:54:58.484Z,62.161,-150.434,58.3,1.8,ml,32.0,78.0,0.4,0.7,ak,aka2026wmitlc,2026-11-13T08:56:14.896Z,"20 km SSW of Trapper Creek, Alaska",earthquake,3.1,5.2619,0.1,6.0,automatic,ak,ak
+2026-11-13T08:47:30.470Z,37.645000457764,-122.50650024414,6.4699997901917,1.59,md,12.0,188.0,0.02633,0.02,nc,nc75466052,2026-11-13T09:17:27.271Z,"4 km NNW of Pacifica, CA",earthquake,0.45,0.5,0.26,8.0,automatic,nc,nc
+2026-11-13T08:44:11.680Z,61.966,-148.498,18.7,1.4,ml,12.0,105.0,0.2,0.5,ak,aka2026wmijuc,2026-11-13T08:47:26.049Z,"18 km N of Chickaloon, Alaska",earthquake,4.7,2.7096,0.4,7.0,automatic,ak,ak
+2026-11-13T08:01:57.936Z,7.7821,-81.4943,10.0,4.6,mb,38.0,139.0,2.14,0.92,us,us7000txyr,2026-11-13T08:37:22.040Z,"18 km WNW of Río Grande, Panama",earthquake,7.19,1.89,0.116,22.0,reviewed,us,us
+2026-11-13T08:01:00.060Z,33.41133,-116.642,7.02,0.67,ml,39.0,63.0,0.08956,0.19,ci,ci41361631,2026-11-13T08:04:18.985Z,"14 km N of Warner Springs, CA",earthquake,0.2,0.73,0.16470131116355,17.0,automatic,ci,ci
+2026-11-13T07:55:35.646Z,-3.6466,131.1335,10.0,4.4,mb,21.0,110.0,9.138,1.11,us,us7000txyq,2026-11-13T08:28:37.040Z,"152 km WSW of Fakfak, Indonesia",earthquake,13.27,1.882,0.12,20.0,reviewed,us,us
+2026-11-13T07:26:40.723Z,61.938,-148.497,15.9,1.1,ml,10.0,107.0,0.2,0.6,ak,aka2026wmfuwq,2026-11-13T07:27:46.153Z,"15 km N of Chickaloon, Alaska",earthquake,6.3,3.1601,0.4,4.0,automatic,ak,ak
+2026-11-13T07:22:39.025Z,38.2979,-116.1259,4.1995,2.02,ml,12.0,227.0,1.099,0.224,nn,nn00926953,2026-11-13T07:25:17.250Z,"79 km NNW of Rachel, Nevada",earthquake,,1.2819,0.31,4.0,automatic,nn,nn
+2026-11-13T06:12:58.710Z,36.27667,-117.2125,1.61,2.16,ml,27.0,50.0,0.1183,0.19,ci,ci41361623,2026-11-13T06:16:47.327Z,"37 km S of Stovepipe Wells, CA",earthquake,0.23,0.53,0.10962586602558,26.0,automatic,ci,ci
+2026-11-13T05:58:22.734Z,61.406,-152.237,5.0,0.4,ml,6.0,220.0,0.1,0.4,ak,aka2026wmcwij,2026-11-13T05:59:06.070Z,"68 km WNW of Beluga, Alaska",earthquake,19.7,,0.0,5.0,automatic,ak,ak
+2026-11-13T05:43:47.170Z,33.41133,-116.6455,5.85,0.66,ml,44.0,59.0,0.09068,0.21,ci,ci41361615,2026-11-13T05:47:11.532Z,"14 km N of Warner Springs, CA",earthquake,0.2,0.64,0.16597865522412,16.0,automatic,ci,ci
+2026-11-13T05:25:18.300Z,33.472,-116.56183,12.26,0.56,ml,38.0,70.0,0.04063,0.16,ci,ci41361607,2026-11-13T05:28:51.204Z,"14 km SE of Anza, CA",earthquake,0.19,0.39,0.056284105746241,11.0,automatic,ci,ci
+2026-11-13T05:10:00.135Z,60.055,-153.08,5.0,0.3,ml,6.0,162.0,0.0,0.4,ak,aka2026wmbgjt,2026-11-13T05:10:39.825Z,"64 km ENE of Pedro Bay, Alaska",earthquake,13.3,,0.2,4.0,automatic,ak,ak
+2026-11-13T05:06:59.658Z,61.973,-148.544,5.5,1.6,ml,27.0,74.0,0.2,1.0,ak,aka2026wmbdtz,2026-11-13T05:08:30.870Z,"20 km NNW of Chickaloon, Alaska",earthquake,2.7,2.0525,0.2,8.0,automatic,ak,ak
+2026-11-13T04:58:41.010Z,60.7,-146.738,23.3,1.4,ml,11.0,84.0,0.1,0.6,ak,aka2026wmawon,2026-11-13T04:59:56.493Z,"18 km S of Tatitlek, Alaska",earthquake,6.3,3.3215,0.2,6.0,automatic,ak,ak
+2026-11-13T04:49:33.549Z,-8.262,116.7507,9.626,4.7,mb,26.0,83.0,4.393,0.91,us,us7000txy5,2026-11-13T05:36:07.087Z,"27 km NNE of Labuan Lombok, Indonesia",earthquake,11.99,4.652,0.12,21.0,reviewed,us,us
+2026-11-13T04:48:14.520Z,58.304,-153.681,72.9,1.5,ml,20.0,123.0,0.5,0.2,ak,aka2026wmanmo,2026-11-13T04:49:15.728Z,"52 km WNW of Aleneva, Alaska",earthquake,10.6,7.2432,0.2,4.0,automatic,ak,ak
+2026-11-13T04:42:54.599Z,58.19,-155.248,5.0,0.6,ml,9.0,99.0,0.0,0.3,ak,aka2026wmaixa,2026-11-13T04:44:06.020Z,"83 km NW of Karluk, Alaska",earthquake,6.8,,0.2,5.0,automatic,ak,ak
+2026-11-13T04:40:50.400Z,34.79517,-118.9375,11.73,1.4,ml,40.0,45.0,0.03294,0.25,ci,ci41361599,2026-11-13T04:44:23.444Z,"3 km SSE of Frazier Park, CA",earthquake,0.3,0.55,0.2687395268321,31.0,automatic,ci,ci
+2026-11-13T04:34:33.770Z,38.82799911499,-122.81566619873,2.3199999332428,1.08,md,15.0,59.0,0.006342,0.01,nc,nc75466032,2026-11-13T04:36:08.682Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.709999979,0.41,16.0,automatic,nc,nc
+2026-11-13T03:27:57.345Z,54.394,-161.58,0.0,3.5,ml,54.0,196.0,0.8,0.5,ak,aka2026wlxvxl,2026-11-13T06:29:28.373Z,"88 km SSE of King Cove, Alaska",earthquake,4.9,2.8179,0.1,41.0,reviewed,ak,ak
+2026-11-13T03:11:15.340Z,-24.2106,-67.263,176.658,4.2,mb,23.0,89.0,1.508,1.3,us,us7000txy0,2026-11-13T05:25:37.040Z,"95 km W of San Antonio de los Cobres, Argentina",earthquake,9.56,10.395,0.167,10.0,reviewed,us,us
+2026-11-13T02:26:23.505Z,-17.9443,-178.0523,527.134,4.5,mb,59.0,41.0,2.863,1.0,us,us7000txxv,2026-11-13T05:00:45.040Z,"278 km E of Levuka, Fiji",earthquake,11.74,4.337,0.07,60.0,reviewed,us,us
+2026-11-13T01:44:32.807Z,-24.1797,-67.2224,207.347,4.3,mb,19.0,112.0,1.504,1.13,us,us7000txxp,2026-11-13T04:44:47.040Z,"91 km W of San Antonio de los Cobres, Argentina",earthquake,9.84,10.145,0.237,5.0,reviewed,us,us
